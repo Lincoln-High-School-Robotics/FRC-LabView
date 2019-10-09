@@ -1,0 +1,17 @@
+CrioOvClkDiNodeResholder
+rtl
+2
+kNumSyncReg
+kInSingleCycle
+clk
+reset
+enable_in
+enable_out
+enable_clr
+error_out
+error_in
+EIOSignal
+FromResError
+ToResError
+FromResOvClkOut
+ToResOvClkOut

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="ks_c_5601-1987"?>
+<dict>
+<eng Section="0" Key="FileDialogTitle">Save VI</eng>
+<loc Section="0" Key="FileDialogTitle">VI 저장</loc>
+<eng Section="1" Key="SubVIDirectoryName">%s_subVIs</eng>
+<loc Section="1" Key="SubVIDirectoryName">%s_subVI</loc>
+<eng Section="2" Key="FileInMemoryDialogTitle">VI Exists in Memory - Choose Another Name</eng>
+<loc Section="2" Key="FileInMemoryDialogTitle">메모리에 VI 존재 - 다른 이름 선택</loc>
+<eng Section="3" Key="ErrDialogTitle">Code Generation Error</eng>
+<loc Section="3" Key="ErrDialogTitle">코드 생성 에러</loc>
+<eng Section="4" Key="ErrDialogHeader">The following errors occurred during code generation:</eng>
+<loc Section="4" Key="ErrDialogHeader">코드 생성 중에 다음 에러 발생:</loc>
+<eng Section="5" Key="ErrDialogCol1Header">Code</eng>
+<loc Section="5" Key="ErrDialogCol1Header">코드</loc>
+<eng Section="6" Key="ErrDialogCol2Header">Explanation</eng>
+<loc Section="6" Key="ErrDialogCol2Header">설명</loc>
+<eng Section="7" Key="ErrDialogAcceptLabel">Ignore Errors</eng>
+<loc Section="7" Key="ErrDialogAcceptLabel">에러 무시</loc>
+<eng Section="8" Key="ErrDialogAcceptExplanation">Ignore the errors and continue. The calling application will not be notified of the error.  The generated code may have errors or not function as expected.</eng>
+<loc Section="8" Key="ErrDialogAcceptExplanation">에러를 무시하고 계속 진행합니다. 호출 어플리케이션이 에러를 알리지 않을 것입니다.  생성된 코드에 에러가 있거나 예상대로 동작하지 않습니다.</loc>
+<eng Section="9" Key="ErrDialogRevertLabel">Process Errors</eng>
+<loc Section="9" Key="ErrDialogRevertLabel">프로세스 에러</loc>
+<eng Section="10" Key="ErrDialogRevertExplanation">Allow calling application to handle errors. Express VIs will lose all changes. The generated code may have errors or not function as expected.</eng>
+<loc Section="10" Key="ErrDialogRevertExplanation">에러를 처리하는 어플리케이션 호출을 허용합니다. 익스프레스 VI의 모든 변경사항을 잃게 됩니다. 생성된 코드에 에러가 있거나 예상대로 동작하지 않습니다.</loc>
+<eng Section="11" Key="ErrDialogExportErrorLabel">Export</eng>
+<loc Section="11" Key="ErrDialogExportErrorLabel">반출</loc>
+<eng Section="12" Key="ErrDialogExportErrorExplanation">Save the errors to a text file.</eng>
+<loc Section="12" Key="ErrDialogExportErrorExplanation">텍스트 파일에 에러를 저장하십시오.</loc>
+<eng Section="13" Key="InternalError">Internal Error</eng>
+<loc Section="13" Key="InternalError">내부 에러</loc>
+</dict>

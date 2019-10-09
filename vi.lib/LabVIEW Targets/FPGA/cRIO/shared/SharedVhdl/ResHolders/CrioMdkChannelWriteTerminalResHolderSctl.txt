@@ -1,0 +1,14 @@
+CrioMdkChannelWriteTerminalResHolderSctl
+struct
+1
+kChannelWidth
+Clk
+reset
+enable_in
+enable_out
+enable_clr
+cErrorIn
+cErrorOut
+cEIOParameter0Signal
+ToResChannelWrite
+FromResChannelWrite

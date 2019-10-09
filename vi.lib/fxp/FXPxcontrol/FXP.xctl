@@ -1,0 +1,99 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<XControl LVVersion="17008000">
+	<Property Name="" Type="Bool">true</Property>
+	<Property Name="NI.Lib.HelpPath" Type="Str"></Property>
+	<Property Name="NI.Lib.Icon" Type="Bin">&amp;Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!*)!!!*Q(C=T:4265)R$):`04\YSA9?6MA+L("8S!K]_MA+79%67#%LM!)LY.?3#CCAZ_B"7X.P_&gt;/EXUVLJ&gt;[?J3&gt;.0W[[U&lt;L`2ODB=48[@P["UU9;8X8G0X[0;O&lt;(?)VZ&amp;`WD)+?4L_@`T$?C2`,\VO@(`KF-/A\/YK?D?N'P59&amp;4Z;.`OBY`$=&gt;F``"-:S4XK=]8`R]XWP81\T;3P/\`O%E05HPP^YE&amp;ZJCJO@;*HOC*HOC*HOC"(OC"(OC"(OC/\OC/\OC/\OC'&lt;OC'&lt;OC'&lt;OC^IQN&gt;[%+H+MHCS5**UC2"-BE5*9_%*_&amp;*?")?@CLB38A3HI1HY7'+%J[%*_&amp;*?")?QJ4Q*$Q*4]+4]*#KEW4P[0!E0+28Q"0Q"$Q"4]$$EAJY!I"AM3"RE!1-"=ZA%0!%0!%01Q5]!5`!%`!%0,A6]!1]!5`!%`!1UKM3H;:V&gt;(B))Y@(Y8&amp;Y("[(B^2S?"Q?B]@B=8B94A[0Q_.!/!M[S5'1%_2-=(YY0!Y0,TE]$I`$Y`!Y0,D[$HGP4+.J(2U?A]@A-8A-(I/(&amp;$*Y$"[$R_!R?%ALA]@A-8A-(I/(J74Q'$Q'DQ&amp;C,-LS-J):A=9E1T"Y_/OHR@IO23?RXK5[P+J$K4JMKE/E/BSK46&gt;NJGK46-68&amp;666,&amp;526"_HAF&lt;"K":2"&lt;?*WP(=9BNMD;WQ:6V[#WS/T6LI,U`=\8&lt;;&lt;L@;&lt;$:;L^&gt;;L6:;,J@NWN*CM&gt;"]0N&gt;M.HO`TF\IB`9Q\K68RH^BBXPJ0^S.?N4B`6[D.T;&amp;#1Q!!!!!</Property>
+	<Property Name="NI.Lib.SourceVersion" Type="Int">385908736</Property>
+	<Property Name="NI.Lib.Version" Type="Str">1.0.5.0</Property>
+	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
+	<Property Name="NI.SortType" Type="Int">3</Property>
+	<Property Name="NI.XClass.Flags" Type="Int">0</Property>
+	<Property Name="NI.XItem.DeclaredLeakProof" Type="Bool">false</Property>
+	<Property Name="NI.XItem.Express" Type="Bool">false</Property>
+	<Property Name="NI.XItem.Name" Type="Str">XControl 1</Property>
+	<Property Name="NI.XItem.SupportsFatalErrorOut" Type="Bool">false</Property>
+	<Item Name="subVIs" Type="Folder">
+		<Item Name="fxpConfigureOverflowMode.vi" Type="VI" URL="/&lt;vilib&gt;/fxp/FXPxcontrol/fxpConfigureOverflowMode.vi"/>
+		<Item Name="fxpChangeEvent.ctl" Type="VI" URL="/&lt;vilib&gt;/fxp/FXPxcontrol/fxpChangeEvent.ctl"/>
+		<Item Name="fxpFacadeCtlRefnums.ctl" Type="VI" URL="/&lt;vilib&gt;/fxp/FXPxcontrol/fxpFacadeCtlRefnums.ctl"/>
+		<Item Name="fxpPositionControls.vi" Type="VI" URL="/&lt;vilib&gt;/fxp/FXPxcontrol/fxpPositionControls.vi"/>
+		<Item Name="fxpSignEnum.ctl" Type="VI" URL="/&lt;vilib&gt;/fxp/FXPxcontrol/fxpSignEnum.ctl"/>
+		<Item Name="fxpValueChangeControl.ctl" Type="VI" URL="/&lt;vilib&gt;/fxp/FXPxcontrol/fxpValueChangeControl.ctl"/>
+		<Item Name="fxpMixedStateStatus.ctl" Type="VI" URL="/&lt;vilib&gt;/fxp/FXPxcontrol/fxpMixedStateStatus.ctl"/>
+		<Item Name="fxpUpdateMixedStateControls.vi" Type="VI" URL="/&lt;vilib&gt;/fxp/FXPxcontrol/fxpUpdateMixedStateControls.vi"/>
+		<Item Name="fxpUpdateStateAndValue.vi" Type="VI" URL="/&lt;vilib&gt;/fxp/FXPxcontrol/fxpUpdateStateAndValue.vi"/>
+	</Item>
+	<Item Name="fxpData.ctl" Type="Ability VI" URL="/&lt;vilib&gt;/fxp/FXPxcontrol/fxpData.ctl">
+		<Property Name="NI.XItem.Name" Type="Str">Data</Property>
+	</Item>
+	<Item Name="fxpState.ctl" Type="Ability VI" URL="/&lt;vilib&gt;/fxp/FXPxcontrol/fxpState.ctl">
+		<Property Name="NI.XItem.Name" Type="Str">State</Property>
+	</Item>
+	<Item Name="fxpFacade.vi" Type="Ability VI" URL="/&lt;vilib&gt;/fxp/FXPxcontrol/fxpFacade.vi">
+		<Property Name="NI.XItem.Name" Type="Str">Facade</Property>
+	</Item>
+	<Item Name="fxpInit.vi" Type="Ability VI" URL="/&lt;vilib&gt;/fxp/FXPxcontrol/fxpInit.vi">
+		<Property Name="NI.XItem.Name" Type="Str">Init</Property>
+	</Item>
+	<Item Name="Rounding Mode" Type="Property Folder">
+		<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Rounding Mode</Property>
+		<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Rounding Mode</Property>
+		<Item Name="fxpProperty_RoundingMode_Read.vi" Type="Property VI" URL="/&lt;vilib&gt;/fxp/FXPxcontrol/fxpProperty_RoundingMode_Read.vi"/>
+		<Item Name="fxpProperty_RoundingMode_Write.vi" Type="Property VI" URL="/&lt;vilib&gt;/fxp/FXPxcontrol/fxpProperty_RoundingMode_Write.vi"/>
+	</Item>
+	<Item Name="Overflow Mode" Type="Property Folder">
+		<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Overflow Mode</Property>
+		<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Overflow Mode</Property>
+		<Item Name="fxpProperty_OverflowMode_Read.vi" Type="Property VI" URL="/&lt;vilib&gt;/fxp/FXPxcontrol/fxpProperty_OverflowMode_Read.vi"/>
+		<Item Name="fxpProperty_OverflowMode_Write.vi" Type="Property VI" URL="/&lt;vilib&gt;/fxp/FXPxcontrol/fxpProperty_OverflowMode_Write.vi"/>
+	</Item>
+	<Item Name="Modes.Visible" Type="Property Folder">
+		<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Modes.Visible</Property>
+		<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Modes.Visible</Property>
+		<Item Name="fxpProperty_ModesVisible_Write.vi" Type="Property VI" URL="/&lt;vilib&gt;/fxp/FXPxcontrol/fxpProperty_ModesVisible_Write.vi"/>
+	</Item>
+	<Item Name="Configuration.Disabled" Type="Property Folder">
+		<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Configuration.Enabled</Property>
+		<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Configuration.Disabled</Property>
+		<Item Name="fxpProperty_ConfigurationDisabled_Write.vi" Type="Property VI" URL="/&lt;vilib&gt;/fxp/FXPxcontrol/fxpProperty_ConfigurationDisabled_Write.vi"/>
+	</Item>
+	<Item Name="Overflow Status" Type="Property Folder">
+		<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Overflow Status</Property>
+		<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Overflow Status</Property>
+		<Item Name="fxpProperty_OverflowStatus_Read.vi" Type="Property VI" URL="/&lt;vilib&gt;/fxp/FXPxcontrol/fxpProperty_OverflowStatus_Read.vi"/>
+		<Item Name="fxpProperty_OverflowStatus_Write.vi" Type="Property VI" URL="/&lt;vilib&gt;/fxp/FXPxcontrol/fxpProperty_OverflowStatus_Write.vi"/>
+	</Item>
+	<Item Name="Mixed State" Type="Property Folder">
+		<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Mixed State</Property>
+		<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Mixed State</Property>
+		<Item Name="fxpProperty_MixedState_Read.vi" Type="Property VI" URL="/&lt;vilib&gt;/fxp/FXPxcontrol/fxpProperty_MixedState_Read.vi"/>
+		<Item Name="fxpProperty_MixedState_Write.vi" Type="Property VI" URL="/&lt;vilib&gt;/fxp/FXPxcontrol/fxpProperty_MixedState_Write.vi"/>
+	</Item>
+	<Item Name="Last Value Changed" Type="Property Folder">
+		<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Value Changed</Property>
+		<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Last Value Changed</Property>
+		<Item Name="fxpProperty_LastValueChanged_Read.vi" Type="Property VI" URL="/&lt;vilib&gt;/fxp/FXPxcontrol/fxpProperty_LastValueChanged_Read.vi"/>
+	</Item>
+	<Item Name="OverflowStatus.Visible" Type="Property Folder">
+		<Property Name="NI.LibItem.Prop.Identifier" Type="Str">OverflowStatus.Visible</Property>
+		<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">OverflowStatus.Visible</Property>
+		<Item Name="fxpProperty_OverflowStatusVisible_Write.vi" Type="Property VI" URL="/&lt;vilib&gt;/fxp/FXPxcontrol/fxpProperty_OverflowStatusVisible_Write.vi"/>
+	</Item>
+	<Item Name="Overflow Mode.Disabled" Type="Property Folder">
+		<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Overflow Mode.Enabled</Property>
+		<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Overflow Mode.Disabled</Property>
+		<Item Name="fxpProperty_OverflowModeDisabled_Read.vi" Type="Property VI" URL="/&lt;vilib&gt;/fxp/FXPxcontrol/fxpProperty_OverflowModeDisabled_Read.vi"/>
+		<Item Name="fxpProperty_OverflowModeDisabled_Write.vi" Type="Property VI" URL="/&lt;vilib&gt;/fxp/FXPxcontrol/fxpProperty_OverflowModeDisabled_Write.vi"/>
+	</Item>
+	<Item Name="Range.Disabled" Type="Property Folder">
+		<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Range.Enabled</Property>
+		<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Range.Disabled</Property>
+		<Item Name="fxpProperty_RangeDisabled_Write.vi" Type="Property VI" URL="/&lt;vilib&gt;/fxp/FXPxcontrol/fxpProperty_RangeDisabled_Write.vi"/>
+	</Item>
+	<Item Name="RoundingMode.Disabled" Type="Property Folder">
+		<Property Name="NI.LibItem.Prop.Identifier" Type="Str">RoundingMode.Disabled</Property>
+		<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">RoundingMode.Disabled</Property>
+		<Item Name="fxpProperty_RoundingModeDisabled_Read.vi" Type="Property VI" URL="/&lt;vilib&gt;/fxp/FXPxcontrol/fxpProperty_RoundingModeDisabled_Read.vi"/>
+		<Item Name="fxpProperty_RoundingModeDisabled_Write.vi" Type="Property VI" URL="/&lt;vilib&gt;/fxp/FXPxcontrol/fxpProperty_RoundingModeDisabled_Write.vi"/>
+	</Item>
+</XControl>

@@ -1,0 +1,15 @@
+NiRioRegPortHandshake
+rtl
+2
+kFirstAddress
+kLastAddress
+BusClk
+Clk
+reset
+aBusReset
+busClkToResInterfaceMiteIoLike
+busClkFromResInterfaceMiteIoLike
+clkMiteIoLikeInToReshold
+clkMiteIoLikeInFromReshold
+clkMiteIoLikeOutToReshold
+clkMiteIoLikeOutFromReshold

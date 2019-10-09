@@ -1,0 +1,46 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<XNode LVVersion="17008000">
+	<Property Name="NI.Lib.Description" Type="Str">Gets or sets one or more properties on an I/O item or hardware under an FPGA target in the Project Explorer window, such as a C Series module. In some cases, you also can set and retrieve properties on the FPGA target itself. The properties available vary by the FPGA target or the C Series module and the I/O resource.</Property>
+	<Property Name="NI.Lib.HelpPath" Type="Str">/&lt;helpdir&gt;/lvfpga.chm</Property>
+	<Property Name="NI.Lib.HelpTag" Type="Str">IO_Property_Node.html</Property>
+	<Property Name="NI.Lib.Icon" Type="Bin">&amp;Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!*U!!!*Q(C=Z:1REN.!%%7`8.17K&lt;-.+2=2%65&gt;EGTAB'AD8Y#A1V+H#HW&amp;PI+OI!T+75@/@15&amp;8-$\0"K7.?N&amp;.B"1R9R&lt;+`W?_@UU-SOJN.@3+`XP\4$6&lt;GJ\P$FZ?*YPSMPZU@*]`E@"X]N0_6`#^_T^JNL5]F[=X_V_PJ\E&gt;[?`K`.HT+`DWW[X4_*-`K2@H4^R0T&gt;`CO_&amp;`04WN&lt;_WO-$E$ZP5F#*%%E%Y9?8N$IG?[)G?[)G?[)%?[)%?[)%?[)\O[)\O[)\O[):O[):O[):O[+7D#VXI1O?FE_**I=1U-5A'A[,EEP!E0!F0QM/D%J[%*_&amp;*?")?BCDB38A3HI1HY7';%J[%*_&amp;*?")?L!J*FIY/4]+$P1+?A#@A#8A#(EIKY!E!AG+"=7!#BI*E="0Q"$Q"$\=+?!+?A#@A#8B)+_!*?!+?A#@A95J:F3AURYY/$T:S?"Q?B]@B=8CQFM0D]$A]$I`$1TEZ0![0!_%5&gt;-R"E$0*'?!]/$Q/$X`E]$A]$I`$Y`#1+DPE:77/.-?/$I`"9`!90!;0Q9/&amp;$"[$R_!R?!Q?&lt;'8Q'$Q'D]&amp;D]&amp;"+"I`"9`!9)%:2SMMQ-S9;AQT"Y/&amp;84IO689J#9K88@]XRI+I?1.7$J8JA6!_#[A;L&lt;JTKBKAON/I#KC[-[AOLPIAKI'JB6506A2KY\IG?[)A.M3:7R**9%00DV,]]="A'\@&gt;\^8WPLOOUW7SU8K_V7KWU8#[V7#QUH]]@0T2P['.L,PUON8?TJLX\2(RLWPMP9RTPCT:LSBD]3LT`WL1@XYZR=TNK(`KG@&gt;?.]8FIPI`^&gt;\[.GOHQZ$00'DU!*5IJ\Q!!!!!</Property>
+	<Property Name="NI.Lib.LocalName" Type="Str">FPGA I/O Property Node</Property>
+	<Property Name="NI.Lib.SourceVersion" Type="Int">385908736</Property>
+	<Property Name="NI.Lib.Version" Type="Str">1.0.2.3</Property>
+	<Property Name="NI.SortType" Type="Int">3</Property>
+	<Property Name="NI.XClass.Loc.Name" Type="Str">EIOPropertyNode</Property>
+	<Property Name="NI.XClass.Name" Type="Str">EIOPropertyNode</Property>
+	<Property Name="NI.XItem.ClassId" Type="Str">{A49F219A-5460-4C10-B686-1C40BA1895A2}</Property>
+	<Property Name="NI.XItem.DeclaredLeakProof" Type="Bool">false</Property>
+	<Property Name="NI.XItem.Express" Type="Bool">false</Property>
+	<Property Name="NI.XItem.Name" Type="Str">EIOPropertyNode</Property>
+	<Property Name="NI.XItem.StyleName" Type="Str">FPGA I/O Property Node</Property>
+	<Property Name="NI.XItem.SupportsFatalErrorOut" Type="Bool">false</Property>
+	<Property Name="NI.XNode.GCChaining" Type="Bool">true</Property>
+	<Property Name="NI.XNode.LazyLoad" Type="Bool">true</Property>
+	<Item Name="Public" Type="Folder">
+		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+	</Item>
+	<Item Name="Private" Type="Folder">
+		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+	</Item>
+	<Item Name="EIOPropertyNode.ctl" Type="Ability VI" URL="/&lt;vilib&gt;/eio/EIOPropertyNode/EIOPropertyNode.ctl">
+		<Property Name="NI.XItem.Name" Type="Str">State</Property>
+		<Property Name="NI.XItem.Type" Type="Int">0</Property>
+	</Item>
+	<Item Name="EIOPropertyNode_GenerateCode.vi" Type="Ability VI" URL="/&lt;vilib&gt;/eio/EIOPropertyNode/EIOPropertyNode_GenerateCode.vi">
+		<Property Name="NI.XItem.Name" Type="Str">GenerateCode</Property>
+		<Property Name="NI.XItem.Type" Type="Int">0</Property>
+	</Item>
+	<Item Name="EIOPropertyNode_Size.vi" Type="Ability VI" URL="/&lt;vilib&gt;/eio/EIOPropertyNode/EIOPropertyNode_Size.vi">
+		<Property Name="NI.XItem.Name" Type="Str">Size</Property>
+		<Property Name="NI.XItem.Type" Type="Int">0</Property>
+	</Item>
+	<Item Name="EIOPropertyNode_L10N.vi" Type="VI" URL="/&lt;vilib&gt;/eio/EIOPropertyNode/EIOPropertyNode_L10N.vi">
+		<Property Name="NI.XItem.Name" Type="Str">L10n</Property>
+	</Item>
+	<Item Name="EIOPropertyNode_UpdateState.vi" Type="Ability VI" URL="/&lt;vilib&gt;/eio/EIOPropertyNode/EIOPropertyNode_UpdateState.vi">
+		<Property Name="NI.XItem.Name" Type="Str">UpdateStateWithRef</Property>
+	</Item>
+	<Item Name="EIOPropertyNode_NodeSize.vi" Type="VI" URL="/&lt;vilib&gt;/eio/EIOPropertyNode/EIOPropertyNode_NodeSize.vi"/>
+</XNode>

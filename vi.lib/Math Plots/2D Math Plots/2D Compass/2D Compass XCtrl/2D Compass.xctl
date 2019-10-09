@@ -1,0 +1,715 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<XControl LVVersion="17008000">
+	<Property Name="" Type="Bool">true</Property>
+	<Property Name="NI.Lib.HelpPath" Type="Str">/&lt;helpdir&gt;/lvprop.chm</Property>
+	<Property Name="NI.Lib.Icon" Type="Bin">&amp;Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!,U!!!*Q(C=T:2.4BN"%)6@"[2E&amp;=F3$A$ME(?J4&lt;),%F&gt;AHV6&gt;)!OW.IIC(S&amp;V!]16W(#!7MX?6_!!)U8EGX&lt;\$RN)F%2+$Y8&gt;\X68@@XDE7J\)RXKY;7GL&gt;:P&gt;`8)\`P_7@_&amp;_?/B0?68KW_@O`ZYF&lt;`4?-&gt;@TOH6&gt;&gt;W[O`&lt;8@*W[&gt;&lt;`ZKY46XV!7`LJ?X_SF^NN_N&lt;NOS^^9\_"X'Q4Y`;&lt;@,&gt;X"\Q?@)RHXK^:VK[_$OD/`8UV@TH^5@V'_W[D`;(U6PXN[`7I,@-Z@J&gt;_X`^J5^JT@6H`X`,?[?__0^NQ@P8D`WJ#H\_]W`X\`$X]`O_V8@N[4&amp;Q@^YS;63EIE%9146F@XE/C*HOC*HOC*(OC"(OC"(OC"\OC/\OC/\OC/&lt;OC'&lt;OC'&lt;OC'8B^UI1N&gt;[/R+5DQJF#2.%C3$16(S,_&amp;*?"+?B)?O%J[%*_&amp;*?")?BCDB38A3HI1HY7';%J[%*_&amp;*?")?5F73L!][0!E0[28Q"$Q"4]!4]&amp;"3!5]!%"1,%A&gt;*Q&amp;"A"F]#HI!HY/'L!J[!*_!*?!)?&lt;!5]!5`!%`!%0%SJOR+6:HD1Y3'.("[(R_&amp;R?"Q?5MPB=8A=(I@(Y;'=("[(RY&amp;Q#DL*1:!TS2HA&gt;"Q?BY=0/4Q/D]0D]$A]707%P/\-1$-][0!90!;0Q70Q'$SEE-&amp;D]"A]"I`"1VI:0!;0Q70Q'$S5EM&amp;D]"A]"IB2F0)SEBE4D5''90$Q6W_,V6/+3G,V;4`.R566OY"K&amp;UPNQKB&gt;",5$6DMYN1.2WWCV$64&lt;',5&amp;KSV%$6#NM&amp;J#N9'[Z`_=O#6OC"FR36Q1Z]1*-2KG`O7"^`@XGM`HOLW^V=X.D7;TG3YP,X6R=;(T]X/&gt;H*RI."KNXF:(0)N7FO_F36':(%R+`8R^6S9@0Z4*W&lt;MSH8YJUX*;LML2^'PZ&gt;,;)&lt;W?T]PXYOHQ_:?K0[X*X/CPPD\_7NXA(R/(:6&gt;&amp;U7ALT$]BTO-AXZ.WM1`X&amp;?_F`?$@KF2YW8P0MU5]6C'1X!!!!!!</Property>
+	<Property Name="NI.Lib.SourceVersion" Type="Int">385908736</Property>
+	<Property Name="NI.Lib.Version" Type="Str">2.0.0.0</Property>
+	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
+	<Property Name="NI.SortType" Type="Int">3</Property>
+	<Property Name="NI.XClass.Flags" Type="Int">0</Property>
+	<Property Name="NI.XCtl.OptimizeDataUpdate" Type="Bool">true</Property>
+	<Property Name="NI.XItem.DeclaredLeakProof" Type="Bool">false</Property>
+	<Property Name="NI.XItem.Express" Type="Bool">false</Property>
+	<Property Name="NI.XItem.Name" Type="Str">XControl 1</Property>
+	<Property Name="NI.XItem.SupportsFatalErrorOut" Type="Bool">false</Property>
+	<Item Name="Property" Type="Folder">
+		<Item Name="Graph" Type="Folder">
+			<Item Name="Graph Legend Visible" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">2Dgraph_graph_graphlegendvisible.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Graph:Graph Legend Visible</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Shows the graph legend.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Graph:Graph Legend Visible</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="Graph Legend Visible Read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Graph/Graph Legend Visible Read.vi"/>
+				<Item Name="Graph Legend Visible Write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Graph/Graph Legend Visible Write.vi"/>
+			</Item>
+			<Item Name="Plot Legend Visible" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">2Dgraph_graph_plotlegendvisible.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Graph:Plot Legend Visible</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Shows the plot legend.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Graph:Plot Legend Visible</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="Plot Legend Visible Read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Graph/Plot Legend Visible Read.vi"/>
+				<Item Name="Plot Legend Visible Write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Graph/Plot Legend Visible Write.vi"/>
+			</Item>
+			<Item Name="Plot Legend Auto Size" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">2Dgraph_graph_plotlegendautosize.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Graph:Plot Legend Auto Size</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">If TRUE, resizes the plot legend to the width of the longest plot name visible in the legend.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Graph:Plot Legend Auto Size</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="Plot Legend Auto Size Read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Graph/Plot Legend Auto Size Read.vi"/>
+				<Item Name="Plot Legend Auto Size Write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Graph/Plot Legend Auto Size Write.vi"/>
+			</Item>
+			<Item Name="Plot Legend Number" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">2Dgraph_graph_plotlegendnumber.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Graph:Plot Legend Number</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Sets the number of rows in the plot legend.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Graph:Plot Legend Number</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="Plot Legend Number Read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Graph/Plot Legend Number Read.vi"/>
+				<Item Name="Plot Legend Number Write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Graph/Plot Legend Number Write.vi"/>
+			</Item>
+			<Item Name="X Scrollbar Visible" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">2Dgraph_graph_xscrollbarvisible.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Graph:X Scrollbar Visible</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Displays the x-axis scroll bar for the graph or chart.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Graph:X Scrollbar Visible</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="X Scrollbar Visible Read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Graph/X Scrollbar Visible Read.vi"/>
+				<Item Name="X Scrollbar Visible Write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Graph/X Scrollbar Visible Write.vi"/>
+			</Item>
+			<Item Name="Scale Legend Visible" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">2Dgraph_graph_scalelegendvisible.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Graph:Scale Legend Visible</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Shows the scale legend.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Graph:Scale Legend Visible</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="Scale Legend Visible Read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Graph/Scale Legend Visible Read.vi"/>
+				<Item Name="Scale Legend Visible Write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Graph/Scale Legend Visible Write.vi"/>
+			</Item>
+			<Item Name="Cursor Legend Visible" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">2Dgraph_graph_cursorlegendvisible.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Graph:Cursor Legend Visible</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Displays the cursor legend.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Graph:Cursor Legend Visible</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="Cursor Legend Visible Read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Graph/Cursor Legend Visible Read.vi"/>
+				<Item Name="Cursor Legend Visible Write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Graph/Cursor Legend Visible Write.vi"/>
+			</Item>
+			<Item Name="Plot FG Color" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">2Dgraph_graph_plotfgcolor.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Graph:Plot FG Color</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Specifies the foreground color of the plot area.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Graph:Plot FG Color</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="Plot FG Color Read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Graph/Plot FG Color Read.vi"/>
+				<Item Name="Plot FG Color Write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Graph/Plot FG Color Write.vi"/>
+			</Item>
+			<Item Name="Plot BG Color" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">2Dgraph_graph_plotbgcolor.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Graph:Plot BG Color</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Specifies the background color of the plot area.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Graph:Plot BG Color</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="Plot BG Color Read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Graph/Plot BG Color Read.vi"/>
+				<Item Name="Plot BG Color Write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Graph/Plot BG Color Write.vi"/>
+			</Item>
+			<Item Name="Bounds Width" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">2Dgraph_graph_boundswidth.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Graph:Bounds Width</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Specifies the width of the master object, excluding the label caption and the other palette in pixels.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Graph:Bounds Width</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="Bounds Width Read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Graph/Bounds Width Read.vi"/>
+				<Item Name="Bounds Width Write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Graph/Bounds Width Write.vi"/>
+			</Item>
+			<Item Name="Bounds Height" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">2Dgraph_graph_boundsheight.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Graph:Bounds Height</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Specifies the height of the master object, excluding the label caption and the other palette in pixels.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Graph:Bounds Height</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="Bounds Height Read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Graph/Bounds Height Read.vi"/>
+				<Item Name="Bounds Height Write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Graph/Bounds Height Write.vi"/>
+			</Item>
+		</Item>
+		<Item Name="Format" Type="Folder">
+			<Item Name="R Scale Format" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">2Dcompass_format_rscaleformat.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Format:R Scale Format</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Sets the format string of the R scale.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Format:R Scale Format</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="R Scale Format Read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Format/R Scale Format Read.vi"/>
+				<Item Name="R Scale Format Write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Format/R Scale Format Write.vi"/>
+			</Item>
+		</Item>
+		<Item Name="Scale" Type="Folder">
+			<Item Name="RScale.Editable" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">2Dcompass_rscale_editable.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">R Scale:Editable</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Allows you to edit the value of the scale.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">R Scale:Editable</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="R Scale Editable Read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Scale/R Scale Editable Read.vi"/>
+				<Item Name="R Scale Editable Write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Scale/R Scale Editable Write.vi"/>
+			</Item>
+			<Item Name="RScale.Visible" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">2Dcompass_rscale_visible.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">R Scale:Visible</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Shows the scale.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">R Scale:Visible</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="R Scale Visible Read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Scale/R Scale Visible Read.vi"/>
+				<Item Name="R Scale Visible Write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Scale/R Scale Visible Write.vi"/>
+			</Item>
+			<Item Name="RScale.Style" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">2Dcompass_rscale_style.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">R Scale:Style</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Specifies the scale style.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">R Scale:Style</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="R Scale Style Read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Scale/R Scale Style Read.vi"/>
+				<Item Name="R Scale Style Write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Scale/R Scale Style Write.vi"/>
+			</Item>
+			<Item Name="RScale.Scale Fit" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">2Dcompass_rscale_scalefit.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">R Scale:Scale Fit</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Fits the scale to the data.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">R Scale:Scale Fit</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="R Scale Scale Fit Read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Scale/R Scale Scale Fit Read.vi"/>
+				<Item Name="R Scale Scale Fit Write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Scale/R Scale Scale Fit Write.vi"/>
+			</Item>
+			<Item Name="RScale.Major Tick Color" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">2Dcompass_rscale_tick_majortickcolor.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">R Scale:Tick:Major Tick Color</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Sets the color of the major tick mark.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">R Scale:Tick:Major Tick Color</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="R Scale Major Tick Color Read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Scale/R Scale Major Tick Color Read.vi"/>
+				<Item Name="R Scale Major Tick Color Write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Scale/R Scale Major Tick Color Write.vi"/>
+			</Item>
+			<Item Name="RScale.Minor Tick Color" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">2Dcompass_rscale_tick_minortickcolor.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">R Scale:Tick:Minor Tick Color</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Sets the color of the minor tick mark.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">R Scale:Tick:Minor Tick Color</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="R Scale Minor Tick Color Read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Scale/R Scale Minor Tick Color Read.vi"/>
+				<Item Name="R Scale Minor Tick Color Write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Scale/R Scale Minor Tick Color Write.vi"/>
+			</Item>
+			<Item Name="RScale.Major Grid Color" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">2Dcompass_rscale_grid_majorgridcolor.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">R Scale:Grid:Major Grid Color</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Sets the color of the major grid on the scale.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">R Scale:Grid:Major Grid Color</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="R Scale Major Grid Color Read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Scale/R Scale Major Grid Color Read.vi"/>
+				<Item Name="R Scale Major Grid Color Write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Scale/R Scale Major Grid Color Write.vi"/>
+			</Item>
+			<Item Name="RScale.Minor Grid Color" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">2Dcompass_rscale_grid_minorgridcolor.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">R Scale:Grid:Minor Grid Color</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Sets the color of the minor grid on the scale.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">R Scale:Grid:Minor Grid Color</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="R Scale Minor Grid Color Read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Scale/R Scale Minor Grid Color Read.vi"/>
+				<Item Name="R Scale Minor Grid Color Write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Scale/R Scale Minor Grid Color Write.vi"/>
+			</Item>
+			<Item Name="RScale.Minimum" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">2Dcompass_rscale_range_minimum.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">R Scale:Range:Minimum</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Sets the minimum value of the scale.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">R Scale:Range:Minimum</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="R Scale Range Minimum Read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Scale/R Scale Range Minimum Read.vi"/>
+				<Item Name="R Scale Range Minimum Write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Scale/R Scale Range Minimum Write.vi"/>
+			</Item>
+			<Item Name="RScale.Maximum" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">2Dcompass_rscale_range_maximum.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">R Scale:Range:Maximum</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Sets the maximum value of the scale.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">R Scale:Range:Maximum</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="R Scale Range Maximum Read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Scale/R Scale Range Maximum Read.vi"/>
+				<Item Name="R Scale Range Maximum Write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Scale/R Scale Range Maximum Write.vi"/>
+			</Item>
+			<Item Name="RScale.Increment" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">2Dcompass_rscale_range_increment.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">R Scale:Range:Increment</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Sets the increment value of the scale.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">R Scale:Range:Increment</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="R Scale Range Increment Read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Scale/R Scale Range Increment Read.vi"/>
+				<Item Name="R Scale Range Increment Write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Scale/R Scale Range Increment Write.vi"/>
+			</Item>
+			<Item Name="RScale.Minor Increment" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">2Dcompass_rscale_range_minorincrement.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">R Scale:Range:Minor Increment</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Sets the minor increment value of the scale.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">R Scale:Range:Minor Increment</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="R Scale Range Minor Increment Read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Scale/R Scale Range Minor Increment Read.vi"/>
+				<Item Name="R Scale Range Minor Increment Write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Scale/R Scale Range Minor Increment Write.vi"/>
+			</Item>
+			<Item Name="RScale.Start" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">2Dcompass_rscale_range_start.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">R Scale:Range:Start</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Sets the start value of the scale.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">R Scale:Range:Start</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="R Scale Range Start Read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Scale/R Scale Range Start Read.vi"/>
+				<Item Name="R Scale Range Start Write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Scale/R Scale Range Start Write.vi"/>
+			</Item>
+			<Item Name="RScale.Marker.Visible" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">2Dcompass_rscale_marker_visible.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">R Scale:Marker:Visible</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Indicates whether the tick marker is visible.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">R Scale:Marker:Visible</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="R Scale Marker Visible Read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Scale/R Scale Marker Visible Read.vi"/>
+				<Item Name="R Scale Marker Visible Write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Scale/R Scale Marker Visible Write.vi"/>
+			</Item>
+			<Item Name="RScale.Marker.FG Color" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">2Dcompass_rscale_marker_fgcolor.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">R Scale:Marker:FG Color</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Specifies the foreground color of the tick marker.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">R Scale:Marker:FG Color</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="R Scale Marker FG Color Read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Scale/R Scale Marker FG Color Read.vi"/>
+				<Item Name="R Scale Marker FG Color Write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Scale/R Scale Marker FG Color Write.vi"/>
+			</Item>
+			<Item Name="RScale.Marker.BG Color" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">2Dcompass_rscale_marker_bgcolor.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">R Scale:Marker:BG Color</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Specifies the background color of the tick marker.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">R Scale:Marker:BG Color</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="R Scale Marker BG Color Read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Scale/R Scale Marker BG Color Read.vi"/>
+				<Item Name="R Scale Marker BG Color Write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Scale/R Scale Marker BG Color Write.vi"/>
+			</Item>
+			<Item Name="RScale.Marker.Font Name" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">2Dcompass_rscale_marker_fontname.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">R Scale:Marker:Font Name</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Specifies the font name of the tick marker.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">R Scale:Marker:Font Name</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="R Scale Marker Font Name Read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Scale/R Scale Marker Font Name Read.vi"/>
+				<Item Name="R Scale Marker Font Name Write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Scale/R Scale Marker Font Name Write.vi"/>
+			</Item>
+			<Item Name="RScale.Marker.Font Size" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">2Dcompass_rscale_marker_fontsize.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">R Scale:Marker:Font Size</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Specifies the font size of the tick marker.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">R Scale:Marker:Font Size</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="R Scale Marker Font Size Read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Scale/R Scale Marker Font Size Read.vi"/>
+				<Item Name="R Scale Marker Font Size Write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Scale/R Scale Marker Font Size Write.vi"/>
+			</Item>
+			<Item Name="RScale.Marker.Font Bold" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">2Dcompass_rscale_marker_fontbold.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">R Scale:Marker:Font Bold</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Indicates whether the text is bold.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">R Scale:Marker:Font Bold</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="R Scale Marker Font Bold Read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Scale/R Scale Marker Font Bold Read.vi"/>
+				<Item Name="R Scale Marker Font Bold Write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Scale/R Scale Marker Font Bold Write.vi"/>
+			</Item>
+			<Item Name="RScale.Marker.Font Italic" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">2Dcompass_rscale_marker_fontitalic.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">R Scale:Marker:Font Italic</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Indicates whether the text is italic.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">R Scale:Marker:Font Italic</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="R Scale Marker Font Italic Read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Scale/R Scale Marker Font Italic Read.vi"/>
+				<Item Name="R Scale Marker Font Italic Write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Scale/R Scale Marker Font Italic Write.vi"/>
+			</Item>
+			<Item Name="RScale.Marker.Font Strike" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">2Dcompass_rscale_marker_fontstrike.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">R Scale:Marker:Font Strike</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Indicates whether the text is in the strikeout font.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">R Scale:Marker:Font Strike</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="R Scale Marker Font Strike Read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Scale/R Scale Marker Font Strike Read.vi"/>
+				<Item Name="R Scale Marker Font Strike Write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Scale/R Scale Marker Font Strike Write.vi"/>
+			</Item>
+			<Item Name="RScale.Marker.Font Underline" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">2Dcompass_rscale_marker_fontunderline.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">R Scale:Marker:Font Underline</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Indicates whether the text is underlined.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">R Scale:Marker:Font Underline</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="R Scale Marker Font Underline Read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Scale/R Scale Marker Font Underline Read.vi"/>
+				<Item Name="R Scale Marker Font Underline Write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Scale/R Scale Marker Font Underline Write.vi"/>
+			</Item>
+			<Item Name="RScale.NameLbl.Visible" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">2Dcompass_rscale_namelabel_visible.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">R Scale:Name Label:Visible</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Indicates whether the name label is visible.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">R Scale:Name Label:Visible</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="R Scale Name Label Visible Read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Scale/R Scale Name Label Visible Read.vi"/>
+				<Item Name="R Scale Name Label Visible Write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Scale/R Scale Name Label Visible Write.vi"/>
+			</Item>
+			<Item Name="RScale.NameLbl.FG Color" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">2Dcompass_rscale_namelabel_fgcolor.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">R Scale:Name Label:FG Color</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Specifies the foreground color of the name label.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">R Scale:Name Label:FG Color</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="R Scale Name Label FG Color Read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Scale/R Scale Name Label FG Color Read.vi"/>
+				<Item Name="R Scale Name Label FG Color Write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Scale/R Scale Name Label FG Color Write.vi"/>
+			</Item>
+			<Item Name="RScale.NameLbl.BG Color" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">2Dcompass_rscale_namelabel_bgcolor.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">R Scale:Name Label:BG Color</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Specifies the background color of the name label.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">R Scale:Name Label:BG Color</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="R Scale Name Label BG Color Read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Scale/R Scale Name Label BG Color Read.vi"/>
+				<Item Name="R Scale Name Label BG Color Write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Scale/R Scale Name Label BG Color Write.vi"/>
+			</Item>
+			<Item Name="RScale.NameLbl.Font Name" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">2Dcompass_rscale_namelabel_fontname.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">R Scale:Name Label:Font Name</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Specifies the font name of the name label.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">R Scale:Name Label:Font Name</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="R Scale Name Label Font Name Read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Scale/R Scale Name Label Font Name Read.vi"/>
+				<Item Name="R Scale Name Label Font Name Write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Scale/R Scale Name Label Font Name Write.vi"/>
+			</Item>
+			<Item Name="RScale.NameLbl.Font Size" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">2Dcompass_rscale_namelabel_fontsize.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">R Scale:Name Label:Font Size</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Specifies the font size of the name label.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">R Scale:Name Label:Font Size</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="R Scale Name Label Font Size Read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Scale/R Scale Name Label Font Size Read.vi"/>
+				<Item Name="R Scale Name Label Font Size Write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Scale/R Scale Name Label Font Size Write.vi"/>
+			</Item>
+			<Item Name="RScale.NameLbl.Font Bold" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">2Dcompass_rscale_namelabel_fontbold.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">R Scale:Name Label:Font Bold</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Indicates whether the text is bold.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">R Scale:Name Label:Font Bold</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="R Scale Name Label Font Bold Read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Scale/R Scale Name Label Font Bold Read.vi"/>
+				<Item Name="R Scale Name Label Font Bold Write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Scale/R Scale Name Label Font Bold Write.vi"/>
+			</Item>
+			<Item Name="RScale.NameLbl.Font Italic" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">2Dcompass_rscale_namelabel_fontitalic.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">R Scale:Name Label:Font Italic</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Indicates whether the text is italic.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">R Scale:Name Label:Font Italic</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="R Scale Name Label Font Italic Read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Scale/R Scale Name Label Font Italic Read.vi"/>
+				<Item Name="R Scale Name Label Font Italic Write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Scale/R Scale Name Label Font Italic Write.vi"/>
+			</Item>
+			<Item Name="RScale.NameLbl.Font Strike" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">2Dcompass_rscale_namelabel_fontstrike.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">R Scale:Name Label:Font Strike</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Indicates whether the text is in the strikeout font.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">R Scale:Name Label:Font Strike</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="R Scale Name Label Font Strike Read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Scale/R Scale Name Label Font Strike Read.vi"/>
+				<Item Name="R Scale Name Label Font Strike Write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Scale/R Scale Name Label Font Strike Write.vi"/>
+			</Item>
+			<Item Name="RScale.NameLbl.Font Underline" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">2Dcompass_rscale_namelabel_fontunderline.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">R Scale:Name Label:Font Underline</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Indicates whether the text is underlined.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">R Scale:Name Label:Font Underline</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="R Scale Name Label Font Underline Read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Scale/R Scale Name Label Font Underline Read.vi"/>
+				<Item Name="R Scale Name Label Font Underline Write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Scale/R Scale Name Label Font Underline Write.vi"/>
+			</Item>
+			<Item Name="RScale.NameLbl.Justification" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">2Dcompass_rscale_namelabel_justification.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">R Scale:Name Label:Justification</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Gets and sets the justification of the text.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">R Scale:Name Label:Justification</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="R Scale Name Label Justification Read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Scale/R Scale Name Label Justification Read.vi"/>
+				<Item Name="R Scale Name Label Justification Write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Scale/R Scale Name Label Justification Write.vi"/>
+			</Item>
+			<Item Name="RScale.NameLbl.Text" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">2Dcompass_rscale_namelabel_text.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">R Scale:Name Label:Text</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Displays text in the scale.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">R Scale:Name Label:Text</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="R Scale Name Label Text Read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Scale/R Scale Name Label Text Read.vi"/>
+				<Item Name="R Scale Name Label Text Write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Scale/R Scale Name Label Text Write.vi"/>
+			</Item>
+		</Item>
+		<Item Name="Cursor" Type="Folder">
+			<Item Name="Active Cursor" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">2Dgraph_cursor_activecursor.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Cursor:Active Cursor</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Gets and sets the active cursor and sets properties and methods on the active cursor.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Cursor:Active Cursor</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="Active Cursor Read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Cursor/Active Cursor Read.vi"/>
+				<Item Name="Active Cursor Write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Cursor/Active Cursor Write.vi"/>
+			</Item>
+			<Item Name="Cursor.Name" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">2Dgraph_cursor_name.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Cursor:Name</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Displays text that is associated with the cursor in the plot area.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Cursor:Name</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="Cursor Name Read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Cursor/Cursor Name Read.vi"/>
+				<Item Name="Cursor Name Write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Cursor/Cursor Name Write.vi"/>
+			</Item>
+			<Item Name="Cursor.Color" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">2Dgraph_cursor_color.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Cursor:Color</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Sets the color of the cursor, including its point, arrow, and name.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Cursor:Color</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="Cursor Color Read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Cursor/Cursor Color Read.vi"/>
+				<Item Name="Cursor Color Write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Cursor/Cursor Color Write.vi"/>
+			</Item>
+			<Item Name="Cursor.Style" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">2Dgraph_cursor_style.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Cursor:Style</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Draws the symbol at the focal point of the cursor in combination with Point Style.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Cursor:Style</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="Cursor Style Read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Cursor/Cursor Style Read.vi"/>
+				<Item Name="Cursor Style Write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Cursor/Cursor Style Write.vi"/>
+			</Item>
+			<Item Name="Cursor.Point Style" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">2Dgraph_cursor_pointstyle.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Cursor:Point Style</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Draws the symbol at the focal point of the cursor in combination with Style.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Cursor:Point Style</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="Cursor Point Style Read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Cursor/Cursor Point Style Read.vi"/>
+				<Item Name="Cursor Point Style Write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Cursor/Cursor Point Style Write.vi"/>
+			</Item>
+			<Item Name="Cursor.Name Visible" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">2Dgraph_cursor_namevisible.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Cursor:Name Visible</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">If TRUE, displays the cursor name in the plot area.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Cursor:Name Visible</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="Cursor Name Visible Read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Cursor/Cursor Name Visible Read.vi"/>
+				<Item Name="Cursor Name Visible Write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Cursor/Cursor Name Visible Write.vi"/>
+			</Item>
+			<Item Name="Cursor.Allow Drag" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">2Dgraph_cursor_allowdrag.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Cursor:Allow Drag</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">If TRUE, allows you to drag the cursor.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Cursor:Allow Drag</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="Cursor Allow Drag Read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Cursor/Cursor Allow Drag Read.vi"/>
+				<Item Name="Cursor Allow Drag Write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Cursor/Cursor Allow Drag Write.vi"/>
+			</Item>
+			<Item Name="Cursor.Mode" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">2Dgraph_cursor_mode.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Cursor:Mode</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Specifies the way the cursor snaps to the plots in the plot area.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Cursor:Mode</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="Cursor Mode Read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Cursor/Cursor Mode Read.vi"/>
+				<Item Name="Cursor Mode Write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Cursor/Cursor Mode Write.vi"/>
+			</Item>
+			<Item Name="Cursor.Plot" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">2Dgraph_cursor_plot.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Cursor:Plot</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Specifies the plot associated with the cursor.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Cursor:Plot</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="Cursor Plot Read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Cursor/Cursor Plot Read.vi"/>
+				<Item Name="Cursor Plot Write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Cursor/Cursor Plot Write.vi"/>
+			</Item>
+			<Item Name="Cursor.Index" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">2Dgraph_cursor_index.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Cursor:Index</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Specifies the array index of the point where the cursor snaps.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Cursor:Index</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="Cursor Index Read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Cursor/Cursor Index Read.vi"/>
+				<Item Name="Cursor Index Write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Cursor/Cursor Index Write.vi"/>
+			</Item>
+			<Item Name="Cursor.Position" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">2Dgraph_cursor_position.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Cursor:Position</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Specifies the position of the cursor in terms of XY coordinates.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Cursor:Position</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="Cursor Position Read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Cursor/Cursor Position Read.vi"/>
+				<Item Name="Cursor Position Write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Cursor/Cursor Position Write.vi"/>
+			</Item>
+			<Item Name="Cursor.X Scale" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">2Dgraph_cursor_xscale.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Cursor:X Scale</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Sets the x-scale of the cursor.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Cursor:X Scale</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="Cursor X Scale Read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Cursor/Cursor X Scale Read.vi"/>
+				<Item Name="Cursor X Scale Write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Cursor/Cursor X Scale Write.vi"/>
+			</Item>
+			<Item Name="Cursor.Y Scale" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">2Dgraph_cursor_yscale.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Cursor:Y Scale</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Sets the y-scale of the cursor.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Cursor:Y Scale</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="Cursor Y Scale Read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Cursor/Cursor Y Scale Read.vi"/>
+				<Item Name="Cursor Y Scale Write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Cursor/Cursor Y Scale Write.vi"/>
+			</Item>
+			<Item Name="Cursor.Watch Plots" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">2Dgraph_cursor_watchplots.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Cursor:Watch Plots</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Specifies the array that contains the indexes of the plots that the cursor watches when the Watch All Plots property is set to FALSE.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Cursor:Watch Plots</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="Cursor Watch Plots Read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Cursor/Cursor Watch Plots Read.vi"/>
+				<Item Name="Cursor Watch Plots Write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Cursor/Cursor Watch Plots Write.vi"/>
+			</Item>
+			<Item Name="Cursor.Watch All Plots" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">2Dgraph_cursor_watchallplots.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Cursor:Watch All Plots</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">If TRUE, sets the cursor to watch all plots in the plot area. If FALSE, sets the cursor to watch only the plots specified by the Watch Plots property.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Cursor:Watch All Plots</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="Cursor Watch All Plots Read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Cursor/Cursor Watch All Plots Read.vi"/>
+				<Item Name="Cursor Watch All Plots Write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Cursor/Cursor Watch All Plots Write.vi"/>
+			</Item>
+			<Item Name="Cursor.Plot Area" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">2Dgraph_cursor_plotarea.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Cursor:Plot Area</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Specifies the plot area associated with the cursor.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Cursor:Plot Area</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="Cursor Plot Area Read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Cursor/Cursor Plot Area Read.vi"/>
+				<Item Name="Cursor Plot Area Write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Cursor/Cursor Plot Area Write.vi"/>
+			</Item>
+			<Item Name="Cursor.Label Offset" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">2Dgraph_cursor_labeloffset.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Cursor:Label Offset</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Sets the coordinates of the label center position relative to the cursor center.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Cursor:Label Offset</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="Cursor Label Offset Read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Cursor/Cursor Label Offset Read.vi"/>
+				<Item Name="Cursor Label Offset Write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Cursor/Cursor Label Offset Write.vi"/>
+			</Item>
+			<Item Name="Cursor.Selection Color" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">2Dgraph_cursor_selectioncolor.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Cursor:Selection Color</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Sets the color of the cursor row selected in the cursor legend.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Cursor:Selection Color</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="Cursor Selection Color Read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Cursor/Cursor Selection Color Read.vi"/>
+				<Item Name="Cursor Selection Color Write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Cursor/Cursor Selection Color Write.vi"/>
+			</Item>
+			<Item Name="Cursor.Line Style" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">2Dgraph_cursor_linestyle.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Cursor:Line Style</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Specifies the style of the line that displays the active cursor.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Cursor:Line Style</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="Cursor Line Style Read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Cursor/Cursor Line Style Read.vi"/>
+				<Item Name="Cursor Line Style Write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Cursor/Cursor Line Style Write.vi"/>
+			</Item>
+			<Item Name="Cursor.Line Width" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">2Dgraph_cursor_linewidth.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Cursor:Line Width</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Specifies the width of the line used to display the active cursor.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Cursor:Line Width</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="Cursor Line Width Read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Cursor/Cursor Line Width Read.vi"/>
+				<Item Name="Cursor Line Width Write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Cursor/Cursor Line Width Write.vi"/>
+			</Item>
+			<Item Name="Cursor.Visible" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">2Dgraph_cursor_visible.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Cursor:Visible</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Shows the cursor.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Cursor:Visible</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="Cursor Visible Read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Cursor/Cursor Visible Read.vi"/>
+				<Item Name="Cursor Visible Write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Cursor/Cursor Visible Write.vi"/>
+			</Item>
+		</Item>
+		<Item Name="Plot Specific" Type="Folder">
+			<Item Name="Active Plot" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">2Dcompass_plotspecific_activeplot.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Plot Specific:Active Plot</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Gets or sets the active plot. After you get or set the active plot, you then can set properties or invoke methods that affect only the specified plot.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Plot Specific:Active Plot</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="Active Plot Read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Plot Specific/Active Plot Read.vi"/>
+				<Item Name="Active Plot Write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Plot Specific/Active Plot Write.vi"/>
+			</Item>
+			<Item Name="Compass Name" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">2Dcompass_plotspecific_compassname.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Plot Specific:Compass Name</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Shows the name of the plot.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Plot Specific:Compass Name</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="Compass Name Read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Plot Specific/Compass Name Read.vi"/>
+				<Item Name="Compass Name Write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Plot Specific/Compass Name Write.vi"/>
+			</Item>
+			<Item Name="Compass Color" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">2Dcompass_plotspecific_compasscolor.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Plot Specific:Compass Color</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Shows the color of the plot.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Plot Specific:Compass Color</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="Compass Color Read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Plot Specific/Compass Color Read.vi"/>
+				<Item Name="Compass Color Write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Plot Specific/Compass Color Write.vi"/>
+			</Item>
+			<Item Name="Compass Line Style" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">2Dcompass_plotspecific_compasslinestyle.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Plot Specific:Compass Line Style</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Specifies the line style.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Plot Specific:Compass Line Style</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="Compass Line Style Read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Plot Specific/Compass Line Style Read.vi"/>
+				<Item Name="Compass Line Style Write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Plot Specific/Compass Line Style Write.vi"/>
+			</Item>
+			<Item Name="Compass Line Width" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">2Dcompass_plotspecific_compasslinewidth.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Plot Specific:Compass Line Width</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Sets the width of the plot.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Plot Specific:Compass Line Width</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="Compass Line Width Read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Plot Specific/Compass Line Width Read.vi"/>
+				<Item Name="Compass Line Width Write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Plot Specific/Compass Line Width Write.vi"/>
+			</Item>
+			<Item Name="Compass Size" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">2Dcompass_plotspecific_compasssize.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Plot Specific:Compass Size</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Sets the symbol size for the compass.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Plot Specific:Compass Size</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="Compass Size Read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Plot Specific/Compass Size Read.vi"/>
+				<Item Name="Compass Size Write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Plot Specific/Compass Size Write.vi"/>
+			</Item>
+			<Item Name="Show Phase Scale" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">2Dcompass_plotspecific_showphasescale.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Plot Specific:Show Phase Scale</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Shows the phase scale around the plot area.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Plot Specific:Show Phase Scale</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="Show Phase Scale Read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Plot Specific/Show Phase Scale Read.vi"/>
+				<Item Name="Show Phase Scale Write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Plot Specific/Show Phase Scale Write.vi"/>
+			</Item>
+		</Item>
+		<Item Name="Annotation List" Type="Property Folder">
+			<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">2Dgraph_annotation_annotationlist.html</Property>
+			<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Annotation List</Property>
+			<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Returns an array of information about all annotations.</Property>
+			<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Annotation List</Property>
+			<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+			<Item Name="Annotation List Read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Annotation List Read.vi"/>
+			<Item Name="Annotation List Write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Property/Annotation List Write.vi"/>
+		</Item>
+	</Item>
+	<Item Name="Method" Type="Folder">
+		<Item Name="Export Image.vi" Type="Method VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Method/Export Image.vi"/>
+	</Item>
+	<Item Name="Data.ctl" Type="Ability VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Data.ctl">
+		<Property Name="NI.XItem.Name" Type="Str">Data</Property>
+	</Item>
+	<Item Name="State.ctl" Type="Ability VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/State.ctl">
+		<Property Name="NI.XItem.Name" Type="Str">State</Property>
+	</Item>
+	<Item Name="Facade.vi" Type="Ability VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Facade.vi">
+		<Property Name="NI.XItem.Name" Type="Str">Facade</Property>
+	</Item>
+	<Item Name="Init.vi" Type="Ability VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Init.vi">
+		<Property Name="NI.XItem.Name" Type="Str">Init</Property>
+	</Item>
+	<Item Name="Uninit.vi" Type="Ability VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Uninit.vi">
+		<Property Name="NI.XItem.Name" Type="Str">UnInit</Property>
+	</Item>
+	<Item Name="Convert State For Save.vi" Type="Ability VI" URL="/&lt;vilib&gt;/Math Plots/2D Math Plots/2D Compass/2D Compass XCtrl/Convert State For Save.vi">
+		<Property Name="NI.XItem.Name" Type="Str">ConvertStateForSave</Property>
+	</Item>
+</XControl>

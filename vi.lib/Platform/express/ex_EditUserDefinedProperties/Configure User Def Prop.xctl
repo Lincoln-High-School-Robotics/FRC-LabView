@@ -1,0 +1,62 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<XControl LVVersion="17008000">
+	<Property Name="" Type="Bool">true</Property>
+	<Property Name="NI.Lib.Icon" Type="Bin">&amp;Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!(]!!!*Q(C=\&gt;7R=2MR%!81N=?"5Q&lt;/07RB7W!,&lt;'&amp;&lt;9+K1,7Q,&lt;)%N&lt;!NMA3X)DW?-RJ(JQ"I\%%Z,(@`BA#==ZB3RN;]28_,V7@PWW`:R`&gt;HV*SU_WE@\N_XF[3:^^TX\+2YP)D7K6;G-RV3P)R`ZS%=_]J'XP/5N&lt;XH,7V\SEJ?]Z#5P?=J4HP+5JTTFWS%0?=B$DD1G(R/.1==!IT.+D)`B':\B'2Z@9XC':XC':XBUC?%:HO%:HO&amp;R7QT0]!T0]!S0I4&lt;*&lt;)?=:XA-(]X40-X40-VDSGC?"GC4N9(&lt;)"D2,L;4ZGG?ZH%;T&gt;-]T&gt;-]T?.S.%`T.%`T.)^&lt;NF8J4@-YZ$S'C?)JHO)JHO)R&gt;"20]220]230[;*YCK=ASI2F=)1I.Z5/Z5PR&amp;)^@54T&amp;5TT&amp;5TQO&lt;5_INJ6Z;"[(H#&gt;ZEC&gt;ZEC&gt;Z$"(*ETT*ETT*9^B)HO2*HO2*(F.&amp;]C20]C2)GN4UE1:,.[:/+5A?0^NOS?UJ^3&lt;*\9B9GT@7JISVW7*NIFC&lt;)^:$D`5Q9TWE7)M@;V&amp;D,6;M29DVR]6#R],%GC47T9_/=@&gt;Z5V&gt;V57&gt;V5E&gt;V5(OV?^T[FTP?\`?YX7ZRP6\D=LH%_8S/U_E5R_-R$I&gt;$\0@\W/VW&lt;[_"\Y[X&amp;],0^^+,]T_J&gt;`J@_B_]'_.T`$KO.@I"XC-_N!!!!!!</Property>
+	<Property Name="NI.Lib.SourceVersion" Type="Int">385908736</Property>
+	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
+	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
+	<Property Name="NI.SortType" Type="Int">3</Property>
+	<Property Name="NI.XClass.Flags" Type="Int">0</Property>
+	<Property Name="NI.XItem.DeclaredLeakProof" Type="Bool">false</Property>
+	<Property Name="NI.XItem.Express" Type="Bool">false</Property>
+	<Property Name="NI.XItem.Name" Type="Str">XControl 1</Property>
+	<Property Name="NI.XItem.SupportsFatalErrorOut" Type="Bool">false</Property>
+	<Item Name="VIs" Type="Folder">
+		<Item Name="ex_handleAddValueChange.vi" Type="VI" URL="/&lt;vilib&gt;/Platform/express/ex_EditUserDefinedProperties/ex_handleAddValueChange.vi"/>
+		<Item Name="ex_handleMouseMoveOnTable.vi" Type="VI" URL="/&lt;vilib&gt;/Platform/express/ex_EditUserDefinedProperties/ex_handleMouseMoveOnTable.vi"/>
+		<Item Name="ex_handleDataTypeChange.vi" Type="VI" URL="/&lt;vilib&gt;/Platform/express/ex_EditUserDefinedProperties/ex_handleDataTypeChange.vi"/>
+		<Item Name="ex_setRingValueOnMouseMove.vi" Type="VI" URL="/&lt;vilib&gt;/Platform/express/ex_EditUserDefinedProperties/ex_setRingValueOnMouseMove.vi"/>
+		<Item Name="ex_setTimeStampValueOnMouseMove.vi" Type="VI" URL="/&lt;vilib&gt;/Platform/express/ex_EditUserDefinedProperties/ex_setTimeStampValueOnMouseMove.vi"/>
+		<Item Name="ex_InitTabControl.vi" Type="VI" URL="/&lt;vilib&gt;/Platform/express/ex_EditUserDefinedProperties/ex_InitTabControl.vi"/>
+		<Item Name="ex_handleSourceRingChange.vi" Type="VI" URL="/&lt;vilib&gt;/Platform/express/ex_EditUserDefinedProperties/ex_handleSourceRingChange.vi"/>
+		<Item Name="ex_readDaqmxClass.vi" Type="VI" URL="/&lt;vilib&gt;/Platform/express/ex_EditUserDefinedProperties/ex_readDaqmxClass.vi"/>
+		<Item Name="ex_setObjectTypeOnuserDefprop.vi" Type="VI" URL="/&lt;vilib&gt;/Platform/express/ex_EditUserDefinedProperties/ex_setObjectTypeOnuserDefprop.vi"/>
+		<Item Name="ex_getSelectedDAQmxNodes.vi" Type="VI" URL="/&lt;vilib&gt;/Platform/express/ex_EditUserDefinedProperties/ex_getSelectedDAQmxNodes.vi"/>
+		<Item Name="ex_getDAQmxPropDefinitions.vi" Type="VI" URL="/&lt;vilib&gt;/Platform/express/ex_EditUserDefinedProperties/ex_getDAQmxPropDefinitions.vi"/>
+		<Item Name="ex_addTagToTree.vi" Type="VI" URL="/&lt;vilib&gt;/Platform/express/ex_EditUserDefinedProperties/ex_addTagToTree.vi"/>
+		<Item Name="ex_mouseDownPreEventHandler.vi" Type="VI" URL="/&lt;vilib&gt;/Platform/express/ex_EditUserDefinedProperties/ex_mouseDownPreEventHandler.vi"/>
+		<Item Name="ex_handleTableEditCell.vi" Type="VI" URL="/&lt;vilib&gt;/Platform/express/ex_EditUserDefinedProperties/ex_handleTableEditCell.vi"/>
+		<Item Name="ex_handleDelete.vi" Type="VI" URL="/&lt;vilib&gt;/Platform/express/ex_EditUserDefinedProperties/ex_handleDelete.vi"/>
+		<Item Name="ex_createStringTable.vi" Type="VI" URL="/&lt;vilib&gt;/Platform/express/ex_EditUserDefinedProperties/ex_createStringTable.vi"/>
+		<Item Name="ex_handleLoad.vi" Type="VI" URL="/&lt;vilib&gt;/Platform/express/ex_EditUserDefinedProperties/ex_handleLoad.vi"/>
+		<Item Name="ex_handleDataChangeEvent.vi" Type="VI" URL="/&lt;vilib&gt;/Platform/express/ex_EditUserDefinedProperties/ex_handleDataChangeEvent.vi"/>
+		<Item Name="ex_handleTableMouseDown.vi" Type="VI" URL="/&lt;vilib&gt;/Platform/express/ex_EditUserDefinedProperties/ex_handleTableMouseDown.vi"/>
+		<Item Name="ex_updatePropFromTree.vi" Type="VI" URL="/&lt;vilib&gt;/Platform/express/ex_EditUserDefinedProperties/ex_updatePropFromTree.vi"/>
+		<Item Name="ex_handleTreeValueChange.vi" Type="VI" URL="/&lt;vilib&gt;/Platform/express/ex_EditUserDefinedProperties/ex_handleTreeValueChange.vi"/>
+		<Item Name="ex_hideObjTypeColumn.vi" Type="VI" URL="/&lt;vilib&gt;/Platform/express/ex_EditUserDefinedProperties/ex_hideObjTypeColumn.vi"/>
+		<Item Name="ex_calcActiveCellWidth.vi" Type="VI" URL="/&lt;vilib&gt;/Platform/express/ex_EditUserDefinedProperties/ex_calcActiveCellWidth.vi"/>
+		<Item Name="ex_hanldeValueCellMouseDown.vi" Type="VI" URL="/&lt;vilib&gt;/Platform/express/ex_EditUserDefinedProperties/ex_hanldeValueCellMouseDown.vi"/>
+		<Item Name="ex_getSelectedProp.vi" Type="VI" URL="/&lt;vilib&gt;/Platform/express/ex_EditUserDefinedProperties/ex_getSelectedProp.vi"/>
+		<Item Name="ex_disabledDeleteButton.vi" Type="VI" URL="/&lt;vilib&gt;/Platform/express/ex_EditUserDefinedProperties/ex_disabledDeleteButton.vi"/>
+		<Item Name="ex_isCursorInsideListbox.vi" Type="VI" URL="/&lt;vilib&gt;/Platform/express/ex_EditUserDefinedProperties/ex_isCursorInsideListbox.vi"/>
+	</Item>
+	<Item Name="Data 1.ctl" Type="Ability VI" URL="/&lt;vilib&gt;/Platform/express/ex_EditUserDefinedProperties/Data 1.ctl">
+		<Property Name="NI.XItem.Name" Type="Str">Data</Property>
+	</Item>
+	<Item Name="Facade 1.vi" Type="Ability VI" URL="/&lt;vilib&gt;/Platform/express/ex_EditUserDefinedProperties/Facade 1.vi">
+		<Property Name="NI.XItem.Name" Type="Str">Facade</Property>
+	</Item>
+	<Item Name="Init 1.vi" Type="Ability VI" URL="/&lt;vilib&gt;/Platform/express/ex_EditUserDefinedProperties/Init 1.vi">
+		<Property Name="NI.XItem.Name" Type="Str">Init</Property>
+	</Item>
+	<Item Name="State 1.ctl" Type="Ability VI" URL="/&lt;vilib&gt;/Platform/express/ex_EditUserDefinedProperties/State 1.ctl">
+		<Property Name="NI.XItem.Name" Type="Str">State</Property>
+	</Item>
+	<Item Name="ex_handleTimeStampChange.vi" Type="VI" URL="/&lt;vilib&gt;/Platform/express/ex_EditUserDefinedProperties/ex_handleTimeStampChange.vi"/>
+	<Item Name="ex_handleMouseMoveOnSourceCol.vi" Type="VI" URL="/&lt;vilib&gt;/Platform/express/ex_EditUserDefinedProperties/ex_handleMouseMoveOnSourceCol.vi"/>
+	<Item Name="Set Caller Type" Type="Property Folder">
+		<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Set Caller Type</Property>
+		<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Set Caller Type</Property>
+		<Item Name="Caller Type Write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Platform/express/ex_EditUserDefinedProperties/Caller Type Write.vi"/>
+	</Item>
+</XControl>

@@ -1,0 +1,45 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<XNode LVVersion="17008000">
+	<Property Name="NI.Lib.Description" Type="Str">Invokes a method on an I/O item or hardware under an FPGA target in the Project Explorer window, such as a C Series module. In some cases, you also can invoke methods on the FPGA target itself. The methods available depend on the FPGA target and the FPGA I/O item or C Series module you select.</Property>
+	<Property Name="NI.Lib.HelpPath" Type="Str">/&lt;helpdir&gt;/lvfpga.chm</Property>
+	<Property Name="NI.Lib.HelpTag" Type="Str">IO_Method_Node.html</Property>
+	<Property Name="NI.Lib.Icon" Type="Bin">&amp;Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!*Q!!!*Q(C=Z:1REN.!%%7`+'K,V"EBO)C)I$IEW=!*"X"%XC'J5Y7_1F^"6X")/?P)O;_AH%A]D9;NV:98W5"!&amp;4.OL@2\ZP@4T+SEUFZ*,`7`NW'JX&gt;8W=$.\OJ!@FP,$-`FB`.7;PZ.@]L_3\]H\,&lt;7FZ&lt;U[@TI^P=\SJ`HPZPQ&amp;]^PYDM@DI\C1H`7&lt;]T0X3`/8_*\*,W^@_WO,+UT_M%F.+5)E%9146NZO302%4`2%4`2%$`2!$`2!$`2!&gt;X2(&gt;X2(&gt;X2(.X2$.X2$.X2$,RV&gt;[%)8/C_&gt;&amp;%]+*;;*14)9&amp;#78B#@B38A3(B[6]#1]#5`#E`!Q2!F0QJ0Q*$Q*$^/5]#1]#5`#E`"A65CS&gt;(2Y%B\M&amp;@!%0!&amp;0Q"0Q5&amp;)"4Q!1&amp;!O-!R-Q&amp;#3$GY!HY!FYO&amp;8!%`!%0!&amp;0Q%.;!5`!%`!%0!%05]KK2+%:/TI]W-DB=8A=(I@(Y=&amp;;$I`$Y`!Y0!Y0Z?4Q/$Q/B&amp;01-1&gt;"TC2HA00A]$A]`*($Y`!Y0![0QU/K\*#8F2FJRIY/D]&amp;D]"A]"I`"AY5-(I0(Y$&amp;Y$"ZM:@!90!;0Q70Q5%I'D]&amp;D]"AA2F(+ST!T*BK$$-(AY6&gt;/CZ6&gt;CE*CJ&gt;&gt;`T?GAKBZ!V9/F?G"5$Y,K"KNOH/K'K#[U[A+K,ITK#[O_C#KA;G&amp;61^7"[LG?C102%8NC2WS*$&lt;%G6O05PTSQ\XO&gt;TW=&gt;$A&gt;V8;@^@K`&gt;&lt;K@N&gt;KP.:K0V?KX6;P8QI8F$HVJT\8?JP7_;^PYN]&lt;&amp;JPXS@9LQP7N/5-@C6_0#N;4_`G_,O^;2^/D4N_W[+LXXT=_S`]WX5#QW00P/MU1_^QCBP!!!!!!</Property>
+	<Property Name="NI.Lib.LocalName" Type="Str">FPGA I/O Method Node</Property>
+	<Property Name="NI.Lib.SourceVersion" Type="Int">385908736</Property>
+	<Property Name="NI.Lib.Version" Type="Str">1.0.2.3</Property>
+	<Property Name="NI.SortType" Type="Int">3</Property>
+	<Property Name="NI.XClass.Loc.Name" Type="Str">EIOMethodNode</Property>
+	<Property Name="NI.XClass.Name" Type="Str">EIOMethodNode</Property>
+	<Property Name="NI.XItem.ClassId" Type="Str">{C10934E0-E767-49C4-8B7E-02D4070D1C7D}</Property>
+	<Property Name="NI.XItem.DeclaredLeakProof" Type="Bool">false</Property>
+	<Property Name="NI.XItem.Express" Type="Bool">false</Property>
+	<Property Name="NI.XItem.Name" Type="Str">EIOMethodNode</Property>
+	<Property Name="NI.XItem.StyleName" Type="Str">FPGA I/O Method Node</Property>
+	<Property Name="NI.XItem.SupportsFatalErrorOut" Type="Bool">false</Property>
+	<Property Name="NI.XNode.GCChaining" Type="Bool">true</Property>
+	<Property Name="NI.XNode.LazyLoad" Type="Bool">true</Property>
+	<Item Name="Public" Type="Folder">
+		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+	</Item>
+	<Item Name="Private" Type="Folder">
+		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+	</Item>
+	<Item Name="EIOMethodNode.ctl" Type="Ability VI" URL="/&lt;vilib&gt;/eio/EIOMethodNode/EIOMethodNode.ctl">
+		<Property Name="NI.XItem.Name" Type="Str">State</Property>
+		<Property Name="NI.XItem.Type" Type="Int">0</Property>
+	</Item>
+	<Item Name="EIOMethodNode_GenerateCode.vi" Type="Ability VI" URL="/&lt;vilib&gt;/eio/EIOMethodNode/EIOMethodNode_GenerateCode.vi">
+		<Property Name="NI.XItem.Name" Type="Str">GenerateCode</Property>
+		<Property Name="NI.XItem.Type" Type="Int">0</Property>
+	</Item>
+	<Item Name="EIOMethodNode_Image.vi" Type="Ability VI" URL="/&lt;vilib&gt;/eio/EIOMethodNode/EIOMethodNode_Image.vi">
+		<Property Name="NI.XItem.Name" Type="Str">Image</Property>
+		<Property Name="NI.XItem.Type" Type="Int">0</Property>
+	</Item>
+	<Item Name="EIOMethodNode_L10N.vi" Type="VI" URL="/&lt;vilib&gt;/eio/EIOMethodNode/EIOMethodNode_L10N.vi">
+		<Property Name="NI.XItem.Name" Type="Str">L10n</Property>
+	</Item>
+	<Item Name="EIOMethodNode_UpdateState.vi" Type="Ability VI" URL="/&lt;vilib&gt;/eio/EIOMethodNode/EIOMethodNode_UpdateState.vi">
+		<Property Name="NI.XItem.Name" Type="Str">UpdateStateWithRef</Property>
+	</Item>
+</XNode>

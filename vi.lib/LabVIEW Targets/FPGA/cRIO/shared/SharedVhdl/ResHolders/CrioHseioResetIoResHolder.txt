@@ -1,0 +1,14 @@
+CrioHseioResetIoResHolder
+struct
+0
+Clk
+reset
+enable_in
+enable_out
+enable_clr
+cErrorIn
+cErrorOut
+FromResError
+ToResError
+FromResHseioResetPort
+ToResHseioResetPort

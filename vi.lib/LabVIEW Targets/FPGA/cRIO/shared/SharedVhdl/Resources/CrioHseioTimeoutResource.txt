@@ -1,0 +1,11 @@
+CrioHseioTimeoutResource
+struct
+0
+Clk
+reset
+clkFromResHseioAggregatedModuleStatus
+clkToResHseioAggregatedModuleStatus
+clkTimeoutFromReshold
+clkTimeoutToReshold
+clkTimedOutFromReshold
+clkTimedOutToReshold

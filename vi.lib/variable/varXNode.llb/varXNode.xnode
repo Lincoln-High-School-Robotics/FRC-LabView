@@ -1,0 +1,110 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<XNode LVVersion="17008000">
+	<Property Name="" Type="Bool">true</Property>
+	<Property Name="NI.Lib.DefaultMenu" Type="Str">varXNode.xnode</Property>
+	<Property Name="NI.Lib.HelpPath" Type="Str"></Property>
+	<Property Name="NI.Lib.Icon" Type="Bin">&amp;Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!+J!!!*Q(C=T:5^&lt;JJ"%):@RZ&amp;)'3ZA76QAR:1JEI)L5,O&lt;+V#E-#68G#NQ"2IL(&gt;)U/1"34I$I8&amp;DSZG&amp;:@OT0RF&lt;C2*FF_(FH:_&lt;Z&gt;F?,6/W$^&amp;Z`:K6UN=8"(M@,VB\G&amp;VXML"/P=U\E&gt;X#K0&gt;P`*&lt;Z80&gt;`&lt;WL&lt;$CY`UW`'4R&lt;@2]MA[]@X'0"-`G@_8D8:&amp;*T&lt;K*;R89$]6,-@227=*DB,A7SS[]8+5XQE^C/NRQ4JB4V$0_R.&amp;&gt;FH0V4^5H&lt;2+Z^+8/`87ZZ`+7J?^N&gt;1L&gt;V7LM9.^R__&lt;@]3PSM_^(^M0+J?&lt;L6`I4.@UQS@.&lt;`$\[X*,G&lt;0&gt;9S5?O//WP2Y30&gt;%40&gt;%40&gt;%$0&gt;!$0&gt;!$0&gt;!&gt;X&gt;%&gt;X&gt;%&gt;X&gt;%.X&gt;!.X&gt;!.X?L[-N#&amp;,H2:8&gt;OE?&gt;)I+:I53#;$IO1NY5FY%J[%BZ^+?"+?B#@B38C9II1HY5FY%J[%BT1F0!F0QJ0Q*$S5KC2:"TI]#1`F&amp;@!%0!&amp;0Q"0QU&amp;)"4Q!1.!M+"U8!5"!-PA1]!5`!QV=&amp;0!&amp;0Q"0Q"$S%&amp;@!%0!&amp;0Q"0QE&amp;*8*3L.:K$$1REZ0![0Q_0Q/$S5FM0D]$A]$I`$1TMZ0![0!_%U&gt;)K$)#@*G?$]=(A=(D\E]$A]$I`$Y`!1KDPE&gt;75W.*O"$I`"9`!90!;0Q5-*'4Q'D]&amp;D]"A]F*8"9`!90!;0Q5-L'4Q'D]&amp;DA"B.;3_DG*&amp;I4$)%AY&gt;803V7&gt;SEKC&gt;7B^N^7$[L;!61\7'I(2OUAK'WQWM;J&lt;9D;1KMNI.L#K$WQWI/I!;IV6COI.F%LXJ@Y(*`B5XS-D`!B0M$\G^1XHLB;L&lt;2=,D7@TT7&lt;T43&gt;4D5?DT5;D41=$D59$.4P^`=8RC6D;W@`]F\[RF:&gt;V4PJ&gt;H)V_@TV=#`^$X?DXOHY_G?.@A%4]Q_-!!!!!!</Property>
+	<Property Name="NI.Lib.SourceVersion" Type="Int">385908736</Property>
+	<Property Name="NI.Lib.Version" Type="Str">8.5.0.0</Property>
+	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
+	<Property Name="NI.SortType" Type="Int">3</Property>
+	<Property Name="NI.XClass.Loc.Name" Type="Str">varXNode</Property>
+	<Property Name="NI.XClass.Name" Type="Str">varXNode</Property>
+	<Property Name="NI.XItem.DeclaredLeakProof" Type="Bool">false</Property>
+	<Property Name="NI.XItem.Express" Type="Bool">false</Property>
+	<Property Name="NI.XItem.Name" Type="Str">varXNode</Property>
+	<Property Name="NI.XItem.StyleName" Type="Str">Shared Variable</Property>
+	<Property Name="NI.XItem.SupportsFatalErrorOut" Type="Bool">false</Property>
+	<Item Name="varXNode.ctl" Type="Ability VI" URL="/&lt;vilib&gt;/variable/varXNode.llb/varXNode.ctl">
+		<Property Name="NI.XItem.Name" Type="Str">State</Property>
+		<Property Name="NI.XItem.Type" Type="Int">0</Property>
+	</Item>
+	<Item Name="varXNode_Bounds.vi" Type="Ability VI" URL="/&lt;vilib&gt;/variable/varXNode.llb/varXNode_Bounds.vi">
+		<Property Name="NI.XItem.Name" Type="Str">Bounds</Property>
+		<Property Name="NI.XItem.Type" Type="Int">0</Property>
+	</Item>
+	<Item Name="varXNode_Compare.vi" Type="Ability VI" URL="/&lt;vilib&gt;/variable/varXNode.llb/varXNode_Compare.vi">
+		<Property Name="NI.XItem.Name" Type="Str">Compare</Property>
+		<Property Name="NI.XItem.Type" Type="Int">0</Property>
+	</Item>
+	<Item Name="varXNode_Copy.vi" Type="Ability VI" URL="/&lt;vilib&gt;/variable/varXNode.llb/varXNode_Copy.vi">
+		<Property Name="NI.XItem.Name" Type="Str">Copy</Property>
+		<Property Name="NI.XItem.Type" Type="Int">0</Property>
+	</Item>
+	<Item Name="varXNode_DisplayName.vi" Type="Ability VI" URL="/&lt;vilib&gt;/variable/varXNode.llb/varXNode_DisplayName.vi">
+		<Property Name="NI.XItem.Name" Type="Str">DisplayName</Property>
+		<Property Name="NI.XItem.Type" Type="Int">0</Property>
+	</Item>
+	<Item Name="varXNode_DoubleClick.vi" Type="Ability VI" URL="/&lt;vilib&gt;/variable/varXNode.llb/varXNode_DoubleClick.vi">
+		<Property Name="NI.XItem.Name" Type="Str">DoubleClick</Property>
+		<Property Name="NI.XItem.Type" Type="Int">0</Property>
+	</Item>
+	<Item Name="varXNode_GenerateCode.vi" Type="Ability VI" URL="/&lt;vilib&gt;/variable/varXNode.llb/varXNode_GenerateCode.vi">
+		<Property Name="NI.XItem.Name" Type="Str">GenerateCode</Property>
+		<Property Name="NI.XItem.Type" Type="Int">0</Property>
+	</Item>
+	<Item Name="varXNode_Image.vi" Type="Ability VI" URL="/&lt;vilib&gt;/variable/varXNode.llb/varXNode_Image.vi">
+		<Property Name="NI.XItem.Name" Type="Str">Image</Property>
+		<Property Name="NI.XItem.Type" Type="Int">0</Property>
+	</Item>
+	<Item Name="varXNode_Initialize.vi" Type="Ability VI" URL="/&lt;vilib&gt;/variable/varXNode.llb/varXNode_Initialize.vi">
+		<Property Name="NI.XItem.Name" Type="Str">Initialize</Property>
+		<Property Name="NI.XItem.Type" Type="Int">0</Property>
+	</Item>
+	<Item Name="varXNode_RefeeChanged.vi" Type="Ability VI" URL="/&lt;vilib&gt;/variable/varXNode.llb/varXNode_RefeeChanged.vi">
+		<Property Name="NI.XItem.Name" Type="Str">RefeeChanged</Property>
+		<Property Name="NI.XItem.Type" Type="Int">0</Property>
+	</Item>
+	<Item Name="varXNode_Terms.vi" Type="Ability VI" URL="/&lt;vilib&gt;/variable/varXNode.llb/varXNode_Terms.vi">
+		<Property Name="NI.XItem.Name" Type="Str">Terms</Property>
+		<Property Name="NI.XItem.Type" Type="Int">0</Property>
+	</Item>
+	<Item Name="varXNode_ListErrors.vi" Type="Ability VI" URL="/&lt;vilib&gt;/variable/varXNode.llb/varXNode_ListErrors.vi">
+		<Property Name="NI.XItem.Name" Type="Str">ListErrors</Property>
+		<Property Name="NI.XItem.Type" Type="Int">0</Property>
+	</Item>
+	<Item Name="varXNode_Help.vi" Type="Ability VI" URL="/&lt;vilib&gt;/variable/varXNode.llb/varXNode_Help.vi">
+		<Property Name="NI.XItem.Name" Type="Str">Help</Property>
+		<Property Name="NI.XItem.Type" Type="Int">0</Property>
+	</Item>
+	<Item Name="varXNode_AdaptToInputs.vi" Type="Ability VI" URL="/&lt;vilib&gt;/variable/varXNode.llb/varXNode_AdaptToInputs.vi">
+		<Property Name="NI.XItem.Name" Type="Str">AdaptToInputs</Property>
+	</Item>
+	<Item Name="varXNode_old_1_0_0_0.ctl" Type="VI" URL="/&lt;vilib&gt;/variable/varXNode.llb/varXNode_old_1_0_0_0.ctl"/>
+	<Item Name="varXNode_old_1_0_0_2.ctl" Type="VI" URL="/&lt;vilib&gt;/variable/varXNode.llb/varXNode_old_1_0_0_2.ctl"/>
+	<Item Name="varXNode_old_1_0_0_3.ctl" Type="VI" URL="/&lt;vilib&gt;/variable/varXNode.llb/varXNode_old_1_0_0_3.ctl"/>
+	<Item Name="varXNode_old_1_0_0_4.ctl" Type="VI" URL="/&lt;vilib&gt;/variable/varXNode.llb/varXNode_old_1_0_0_4.ctl"/>
+	<Item Name="varXNode_UpdateState.vi" Type="Ability VI" URL="/&lt;vilib&gt;/variable/varXNode.llb/varXNode_UpdateState.vi">
+		<Property Name="NI.XItem.Name" Type="Str">UpdateState</Property>
+	</Item>
+	<Item Name="varXNode_HelpMap.vi" Type="VI" URL="/&lt;vilib&gt;/variable/varXNode.llb/varXNode_HelpMap.vi">
+		<Property Name="NI.XItem.Name" Type="Str">HelpMap</Property>
+	</Item>
+	<Item Name="varXNode_L10N.vi" Type="VI" URL="/&lt;vilib&gt;/variable/varXNode.llb/varXNode_L10N.vi">
+		<Property Name="NI.XItem.Name" Type="Str">L10n</Property>
+	</Item>
+	<Item Name="varXNode_Mutate_1_0_0_1.vi" Type="VI" URL="/&lt;vilib&gt;/variable/varXNode.llb/varXNode_Mutate_1_0_0_1.vi"/>
+	<Item Name="varXNode_Mutate_1_0_0_2.vi" Type="VI" URL="/&lt;vilib&gt;/variable/varXNode.llb/varXNode_Mutate_1_0_0_2.vi"/>
+	<Item Name="varXNode_Mutate_1_0_0_3.vi" Type="VI" URL="/&lt;vilib&gt;/variable/varXNode.llb/varXNode_Mutate_1_0_0_3.vi"/>
+	<Item Name="varXNode_Mutate_1_0_0_4.vi" Type="VI" URL="/&lt;vilib&gt;/variable/varXNode.llb/varXNode_Mutate_1_0_0_4.vi"/>
+	<Item Name="varXNode_Mutate_1_0_0_5.vi" Type="VI" URL="/&lt;vilib&gt;/variable/varXNode.llb/varXNode_Mutate_1_0_0_5.vi"/>
+	<Item Name="varXNode_Mutate_1_0_0_6.vi" Type="VI" URL="/&lt;vilib&gt;/variable/varXNode.llb/varXNode_Mutate_1_0_0_6.vi"/>
+	<Item Name="varXNode_old_1_0_0_6.ctl" Type="VI" URL="/&lt;vilib&gt;/variable/varXNode.llb/varXNode_old_1_0_0_6.ctl"/>
+	<Item Name="varXNode_Mutate_8_1_0_0.vi" Type="VI" URL="/&lt;vilib&gt;/variable/varXNode.llb/varXNode_Mutate_8_1_0_0.vi"/>
+	<Item Name="varXNode_BuildMenu3.vi" Type="Ability VI" URL="/&lt;vilib&gt;/variable/varXNode.llb/varXNode_BuildMenu3.vi">
+		<Property Name="NI.XItem.Name" Type="Str">BuildMenu3</Property>
+	</Item>
+	<Item Name="varXNode_SelectMenu3.vi" Type="Ability VI" URL="/&lt;vilib&gt;/variable/varXNode.llb/varXNode_SelectMenu3.vi">
+		<Property Name="NI.XItem.Name" Type="Str">SelectMenu3</Property>
+	</Item>
+	<Item Name="varXNode_old_8_1_0_0.ctl" Type="VI" URL="/&lt;vilib&gt;/variable/varXNode.llb/varXNode_old_8_1_0_0.ctl"/>
+	<Item Name="varXNode_Mutate_8_1_0_1.vi" Type="VI" URL="/&lt;vilib&gt;/variable/varXNode.llb/varXNode_Mutate_8_1_0_1.vi"/>
+	<Item Name="varXNode_Mutate_8_1_0_2.vi" Type="VI" URL="/&lt;vilib&gt;/variable/varXNode.llb/varXNode_Mutate_8_1_0_2.vi"/>
+	<Item Name="varXNode_MessageWithoutEffect.vi" Type="Ability VI" URL="/&lt;vilib&gt;/variable/varXNode.llb/varXNode_MessageWithoutEffect.vi">
+		<Property Name="NI.XItem.Name" Type="Str">MessageWithoutEffect</Property>
+	</Item>
+	<Item Name="varXNode_CheckForRTFIFOMutationAndIssueWarning.vi" Type="VI" URL="/&lt;vilib&gt;/variable/varXNode.llb/varXNode_CheckForRTFIFOMutationAndIssueWarning.vi"/>
+	<Item Name="varXNode_old_8_1_0_1.ctl" Type="VI" URL="/&lt;vilib&gt;/variable/varXNode.llb/varXNode_old_8_1_0_1.ctl"/>
+	<Item Name="varXNode_Mutate_8_5_0_0.vi" Type="VI" URL="/&lt;vilib&gt;/variable/varXNode.llb/varXNode_Mutate_8_5_0_0.vi"/>
+	<Item Name="varXNode_CheckConfig.vi" Type="VI" URL="/&lt;vilib&gt;/variable/varXNode.llb/varXNode_CheckConfig.vi"/>
+</XNode>

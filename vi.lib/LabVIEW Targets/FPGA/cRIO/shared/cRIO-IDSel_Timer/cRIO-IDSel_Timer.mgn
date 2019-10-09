@@ -1,0 +1,5 @@
+[modGen]
+version        = 3
+modInfo        = ./nirviGetModInfo_cRIO-IDSel_Timer.vi
+implementation = ./nirviGetImplementation_cRIO-IDSel_Timer.vi
+instantiation = ./nirviGetInstantiation_cRIO-IDSel_Timer.vi

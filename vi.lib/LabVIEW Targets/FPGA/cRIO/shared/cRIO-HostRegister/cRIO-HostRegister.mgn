@@ -1,0 +1,6 @@
+[modGen]
+version        = 4
+constructor    = ./nirviModGenConstructor_cRIO-HostRegister.vi
+modInfo        = ./nirviGetModInfo_cRIO-HostRegister.vi
+declaration    = ./nirviGetDeclaration_cRIO-HostRegister.vi
+instantiation  = ./nirviGetInstantiation_cRIO-HostRegister.vi

@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<CrioClkXingFiles>
+  <!--
+  This file defines all of the VHDL files needed for CrioClkXing components
+
+  You can reference this file in your CrioStockModGenData.xml inside the "OtherFiles" tag as follows:
+  <OtherFiles shared_vhdl_path="SHARED_VHDL_FOLDER">
+     [module-family specific files]
+     <:Include what="children">SHARED_VHDL_FOLDER\SharedFileLists\CrioClkXingFiles.xml</:Include>
+  </OtherFiles>
+  -->
+  <FileClkXing01>#{shared_vhdl_path}\CrioClkXingDataCont.vhd</FileClkXing01>
+  <FileClkXing02>#{shared_vhdl_path}\CrioClkXingDataCore.vhd</FileClkXing02>
+  <FileClkXing03>#{shared_vhdl_path}\CrioClkXingDataWithValid.vhd</FileClkXing03>
+  <FileClkXing04>#{shared_vhdl_path}\CrioClkXingDataWithValidSingleCycle.vhd</FileClkXing04>
+  <FileClkXing05>#{shared_vhdl_path}\CrioClkXingStrobe.vhd</FileClkXing05>
+  <FileClkXing06>#{shared_vhdl_path}\CrioClkXingStrobeBool.vhd</FileClkXing06>
+  <FileClkXing07>#{shared_vhdl_path}\CrioClkXingDataWithValidSingleCycleReady.vhd</FileClkXing07>
+</CrioClkXingFiles>

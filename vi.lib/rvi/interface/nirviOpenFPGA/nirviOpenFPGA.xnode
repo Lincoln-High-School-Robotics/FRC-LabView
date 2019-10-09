@@ -1,0 +1,40 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<XNode LVVersion="17008000">
+	<Property Name="NI.Lib.Description" Type="Str">Opens a reference to the FPGA VI or bitfile and FPGA target you specify. Right-click the Open FPGA VI Reference function and select &lt;B&gt;Configure Open FPGA VI Reference&lt;/B&gt; from the shortcut menu to display the Configure Open FPGA VI Reference dialog box.
+
+
+
+You must open a reference to the FPGA target before you can communicate between the host VI and the FPGA VI. You can download and run only one FPGA VI at a time on a single FPGA target. If you attempt to download a second VI to the FPGA target while the first FPGA VI is still in use, LabVIEW reports an error and the download fails.</Property>
+	<Property Name="NI.Lib.HelpPath" Type="Str">/&lt;helpdir&gt;/lvfpgahost.chm</Property>
+	<Property Name="NI.Lib.HelpTag" Type="Str">Open_FPGA_VI_Reference.html</Property>
+	<Property Name="NI.Lib.Icon" Type="Bin">&amp;Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!,G!!!*Q(C=T:7R&lt;B."%)&lt;`I*T":6Y!E#F44A]J]AJZB;HJ8"+**B8^&gt;#[2AXA"&amp;`!!5^&amp;(]B/ED*!6:@FOMUH/=2Q1CB#TG4P@0\-THX@8&amp;[H;#WF8`]B+^VCQD[`+[MYW%EJ82H?WE5"].)TP$R-+VH6=\O);*H4."P/F^1LX[`=FSTL`[,Y6$3NUI\*O[X'N2O7C\/-XY[&amp;YO&lt;CV"_.]S=NLWR,P&lt;D)WYG_Q5J?B:GS@@ZXR;0R[M2`GKXO"U?YPZG`P`Q0\)`YNX`_'\^(V,9-&gt;WIT`:H]@02^;F1X40\,DY=-/4_.SK;Z=;1?'6[5=Y^^:GO592VPK+8T.&gt;OKP&amp;%]]=-&gt;.`2K52%`U2%`U2%`U1!`U1!`U1!^U2X&gt;U2X&gt;U2X&gt;U1T&gt;U1T&gt;U1\@[WW;A#VXIMPY(L;2ZUCAJGB2)EE&amp;2=EFY%J[%*_(B51F0QJ0Q*$Q*$SF+?"+?B#@B38C9JI1HY5FY%J[%BV+6*/N!BS@BI&lt;Q#HI!HY!FY!BZ;+O!*!)*G1?'A#"A+AM'(A#@A#8DYK)!HY!FY!J[!B\!#HI!HY!FY!B[GV&amp;7*3N-0&gt;(AI)Y@(Y8&amp;Y("[(B^*S?"Q?B]@B=8BI*Y@(Y8%AH):/=2$E4()3H!?(R_(B*I@(Y8&amp;Y("[(BV$&gt;);]LU^0U!RU?A]@A-8A-(I/(%D*Y$"[$R_!R?#ALA]@A-8A-(I/(6D*Y$"[$RQ!RGN*?2D&amp;DIJ&amp;E#!90@`7U7.WFK#27B^1/L^KB6$NM;I&gt;)\8#I&lt;&lt;L;:KJNENLCKSWKWG+J,9,;FV/$6I.2;[)WO5`5/&gt;=T@)(0]2.]CB`BB`A%X_OH0H(C_@GZTM\/N&amp;AM.*`0&gt;8*SIOFUKK/D)RU?(GISG7BP&lt;_`W.@#;=@N#O0&gt;?QM=@?#]&gt;D0D=[?8\8?+\"ZW?,]@-X(F8:P39[9NG/LW;[40_]SXX4`B(N/7SXPPHKB-`*@=L=\YR^ZD?'__F`_(&gt;K'=;`D.AD8Y"F0!RT1!!!!!</Property>
+	<Property Name="NI.Lib.LocalName" Type="Str">Open FPGA VI Reference</Property>
+	<Property Name="NI.Lib.SourceVersion" Type="Int">385908736</Property>
+	<Property Name="NI.Lib.Version" Type="Str">1.0.8.6</Property>
+	<Property Name="NI.XClass.Loc.Name" Type="Str">nirviOpenFPGA</Property>
+	<Property Name="NI.XClass.Name" Type="Str">nirviOpenFPGA</Property>
+	<Property Name="NI.XItem.ClassId" Type="Str">{9A216F88-067A-4DD2-8E68-0FB727F26395}</Property>
+	<Property Name="NI.XItem.DeclaredLeakProof" Type="Bool">false</Property>
+	<Property Name="NI.XItem.Express" Type="Bool">false</Property>
+	<Property Name="NI.XItem.Name" Type="Str">nirviOpenFPGA</Property>
+	<Property Name="NI.XItem.StyleName" Type="Str">Open FPGA VI Reference</Property>
+	<Property Name="NI.XItem.SupportsFatalErrorOut" Type="Bool">false</Property>
+	<Property Name="NI.XNode.GCChaining" Type="Bool">true</Property>
+	<Property Name="NI.XNode.LazyLoad" Type="Bool">true</Property>
+	<Item Name="Private" Type="Folder">
+		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+	</Item>
+	<Item Name="Public" Type="Folder">
+		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+	</Item>
+	<Item Name="nirviOpenFPGA.ctl" Type="Ability VI" URL="/&lt;vilib&gt;/rvi/interface/nirviOpenFPGA/nirviOpenFPGA.ctl">
+		<Property Name="NI.XItem.Name" Type="Str">State</Property>
+		<Property Name="NI.XItem.Type" Type="Int">0</Property>
+	</Item>
+	<Item Name="nirviOpenFPGA_AugmentSelf.vi" Type="Ability VI" URL="/&lt;vilib&gt;/rvi/interface/nirviOpenFPGA/nirviOpenFPGA_AugmentSelf.vi">
+		<Property Name="NI.XItem.Name" Type="Str">AugmentSelf</Property>
+	</Item>
+	<Item Name="nirviOpenFPGA_UpdateStateWithRef.vi" Type="Ability VI" URL="/&lt;vilib&gt;/rvi/interface/nirviOpenFPGA/nirviOpenFPGA_UpdateStateWithRef.vi">
+		<Property Name="NI.XItem.Name" Type="Str">UpdateStateWithRef</Property>
+	</Item>
+</XNode>

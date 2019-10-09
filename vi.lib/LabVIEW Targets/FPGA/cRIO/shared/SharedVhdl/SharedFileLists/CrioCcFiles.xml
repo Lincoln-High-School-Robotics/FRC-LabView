@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<CrioCcFiles>
+  <!--
+  This file defines all of the VHE files needed for logic borrowed from the
+  cartridge controller IP. This does not include the Sideband-related files,
+  which are in CrioSidebandFiles.xml
+
+  You can reference this file in your CrioStockModGenData.xml inside the "FilesToDirectlyCopy" tag as follows:
+  <FilesToDirectlyCopy moduleroot_path="MODULEROOT">
+     ...
+     <:Include what="children">SHARED_VHDL_FOLDER\SharedFileLists\CrioCcFiles.xml</:Include>
+  </FilesToDirectlyCopy>
+  -->
+  <FileCc01>#{moduleroot_path}\..\cRIO-CC\Resources\Encrypted\CartridgeController\CcInputFlop.vhe</FileCc01>
+  <FileCc02>#{moduleroot_path}\..\cRIO-CC\Resources\Encrypted\CartridgeController\CcSourceSynch.vhe</FileCc02>
+  <FileCc03>#{moduleroot_path}\..\cRIO-CC\Resources\Encrypted\CartridgeController\CcSourceSynchFalling.vhe</FileCc03>
+  <FileCc04>#{moduleroot_path}\..\cRIO-CC\Resources\Encrypted\CartridgeController\CcSpiDither.vhe</FileCc04>
+  <FileCc05>#{moduleroot_path}\..\cRIO-CC\Resources\Encrypted\CartridgeController\CcSpiDitherHardcodable.vhe</FileCc05>
+  <FileCc06>#{moduleroot_path}\..\cRIO-CC\Resources\Encrypted\CartridgeController\CcSpiLogic.vhe</FileCc06>
+  <FileCc07>#{moduleroot_path}\..\cRIO-CC\Resources\Encrypted\CartridgeController\HighSpeedInterface\CcBarrelShifter.vhe</FileCc07>
+  <FileCc08>#{moduleroot_path}\..\cRIO-CC\Resources\Encrypted\CartridgeController\HighSpeedInterface\CcHsInput.vhe</FileCc08>
+  <FileCc09>#{moduleroot_path}\..\cRIO-CC\Resources\Encrypted\CartridgeController\HighSpeedInterface\CcHsInputLogic.vhe</FileCc09>
+  <FileCc10>#{moduleroot_path}\..\cRIO-CC\Resources\Encrypted\CartridgeController\HighSpeedInterface\CcHsOutput.vhe</FileCc10>
+  <FileCc11>#{moduleroot_path}\..\cRIO-CC\Resources\Encrypted\CartridgeController\HighSpeedInterface\CcHsOutputLogic.vhe</FileCc11>
+  <FileCc12>#{moduleroot_path}\..\cRIO-CC\Resources\Encrypted\CartridgeController\HighSpeedInterface\Packages\PkgCcHsiSettings.vhe</FileCc12>
+  <FileCc13>#{moduleroot_path}\..\cRIO-CC\Resources\Encrypted\CartridgeController\CcMux\CcMuxSL2.vhe</FileCc13>
+  <FileCc14>#{moduleroot_path}\..\cRIO-CC\Resources\Encrypted\CartridgeController\CcMux\CcMuxSL3.vhe</FileCc14>
+  <FileCc15>#{moduleroot_path}\..\cRIO-CC\Resources\Encrypted\CartridgeController\CcMux\CcMuxSL4.vhe</FileCc15>
+  <FileCc16>#{moduleroot_path}\..\cRIO-CC\Resources\Encrypted\CartridgeController\CcMux\CcMuxSLN.vhe</FileCc16>
+  <FileCc17>#{moduleroot_path}\..\cRIO-CC\Resources\Encrypted\CartridgeController\Packages\PkgBeatleSettings.vhe</FileCc17>
+  <FileCc18>#{moduleroot_path}\..\cRIO-CC\Resources\Encrypted\CartridgeController\Packages\PkgBeatleTypedefs.vhe</FileCc18>
+  <FileCc19>#{moduleroot_path}\..\cRIO-CC\Resources\Encrypted\CartridgeController\Packages\PkgCartridge.vhe</FileCc19>
+  <FileCc20>#{moduleroot_path}\..\cRIO-CC\Resources\Encrypted\CartridgeController\Packages\PkgCcConstants.vhe</FileCc20>
+  <FileCc21>#{moduleroot_path}\..\cRIO-CC\Resources\Encrypted\CartridgeController\Packages\PkgCcParameters.vhe</FileCc21>
+  <FileCc22>#{moduleroot_path}\..\cRIO-CC\Resources\Encrypted\CartridgeController\Packages\PkgGlobalConst.vhe</FileCc22>
+  <FileCc23>#{moduleroot_path}\..\cRIO-CC\Resources\Encrypted\CartridgeController\Packages\PkgRegs.vhe</FileCc23>
+  <FileCc24>#{moduleroot_path}\..\cRIO-CC\Resources\Encrypted\CartridgeController\CcShutdownRequestHandler.vhe</FileCc24>
+</CrioCcFiles>

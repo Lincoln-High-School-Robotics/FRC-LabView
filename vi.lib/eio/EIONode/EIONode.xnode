@@ -1,0 +1,47 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<XNode LVVersion="17008000">
+	<Property Name="NI.Lib.Description" Type="Str">Performs specific FPGA I/O operations on FPGA targets. You can configure the FPGA I/O Node with one or more FPGA I/O items.</Property>
+	<Property Name="NI.Lib.HelpPath" Type="Str">/&lt;helpdir&gt;/lvfpga.chm</Property>
+	<Property Name="NI.Lib.HelpTag" Type="Str">FPGA_IO_Node.html</Property>
+	<Property Name="NI.Lib.Icon" Type="Bin">&amp;Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!*J!!!*Q(C=Z:1R&lt;NN!%%7`9]-)I%K&gt;3U.)F3L!F'\6_!#[QC"67L5J&gt;97Z!K`!*E#A&lt;AJ"P:!&lt;]!)JZ-@FQJ%-3T+2"!C181V&amp;`&gt;H^]\C\IF4;?_F'`XP\`.PNEPO:%D6`?[+^.8`*`S4&gt;K0RW_`*[F.]?@U&lt;H8ZK0ZFOPVQ@R3P[ID]Y@O&lt;]W`R,@[@S&amp;`4P44E^^;]0E[\E+@&gt;P`Z3:&gt;F3*%%E%Y9?J4_U20^%20^%20^%!0^%!0^%!0&gt;%&gt;X&gt;%&gt;X&gt;%&gt;X&gt;%-X&gt;%-X&gt;%-X^.,2B3ZUI@013@'E5'+;'#3$16&amp;S38A3HI1HY?'H%J[%*_&amp;*?")?BCDB38A3HI1HY7';%J[%*_&amp;*?")?L!J*FIY/4]+$P1+?A#@A#8A#(EIKY!E!AG+"=7!#BI*E="0Q"$Q"$\=+?!+?A#@A#8B)+_!*?!+?A#@A95J:F3AU@5?("RMZ0![0Q_0Q/$R9S_&amp;R?"Q?B]@BI:Q=(I@(A8!+/O9AS*HE$("_/$Q/$V^S?"Q?B]@B=8B)F2XSMD)^4&gt;`2Y4&amp;Y$"[$R_!R?,#1Q70Q'$Q'D]'$L1Q?A]@A-8A-(EL*Y$&amp;Y$"Y$R#B+?2FGRE2DE#%90(T+;&lt;'S3V&amp;)L04SLV%^K+I(506AK2Y9V9/AOM'K'[?[);I,L&lt;K!KAOD_M#K$[)+K&amp;J9V6"VI$KO/[)F'G*&amp;,)E&amp;-3&gt;GR,3@_I=(&gt;FWHX7[HNGX6.)V7KZ77S[57CY8G]\FGMZGGU_HTC_;?0L3L-?_F&lt;^,VD`X_ZU;;^(&amp;YP`HU@&lt;*Z`$$%\&gt;WA0&lt;34T=&gt;GC#`&gt;Z("?\`8LP@1PP"PV4M0X]RI^!&lt;8M!GU!!!!!</Property>
+	<Property Name="NI.Lib.LocalName" Type="Str">FPGA I/O Node</Property>
+	<Property Name="NI.Lib.SourceVersion" Type="Int">385908736</Property>
+	<Property Name="NI.Lib.Version" Type="Str">1.0.3.1</Property>
+	<Property Name="NI.SortType" Type="Int">3</Property>
+	<Property Name="NI.XClass.Loc.Name" Type="Str">EIONode</Property>
+	<Property Name="NI.XClass.Name" Type="Str">EIONode</Property>
+	<Property Name="NI.XItem.ClassId" Type="Str">{61788487-AE46-4DF3-9188-14FAE30D26B9}</Property>
+	<Property Name="NI.XItem.DeclaredLeakProof" Type="Bool">false</Property>
+	<Property Name="NI.XItem.Express" Type="Bool">false</Property>
+	<Property Name="NI.XItem.InitialDropImage" Type="Bin">&amp;Q#!!!!!!!%!#!!T`````Q!"!!!!!!5]!#E!!!!3!!!!!A!!!!U!````!!%!!!!!!!I!!!!)`````Q!C!&amp;=!+1!!!")!!!!#!!!!$1#@!)Y!!Q!!!!!!#1!!!!D`````!#)!6Q!J!!!!%A!!!!)!!!!.!/_Y`Q!"!!!!!!!+!!!!#!!$!!-!$A"4!#E!!!!3!!!!!A!!!!U!HQ#/!!%!!!!!!!E!!!!)!!-!!Q!/!&amp;-!+1!!!")!!!!#!!!!$1$```]!!1!!!!!!#A!!!!A!$!!$!"Y!5Q!J!!!!%A!!!!)!!!!.!*]!DA!"!!!!!!!*!!!!#!!-!!-!(A"4!")!!!!M!!!!#!!/!#%!'Q"+!!!!!EEP4S"*&gt;'6N`````A!!!!!"!!!!!!!!!!$```]!+!!!!%I!!!!1!!U!"1!6!!Q!!1!!!!!!````!!'!!!!!````````!!!!!!!!!!!!!(!!7!"=!%1!2!"]!!!!!@^R`VH`8@^&amp;`U8`@@]"`Q!I!!!!3A!!!"!!$1"+!"5!51!"!!!!!!$```]!!9!!!!$```````]!!!!!!!!!!!!!=!"9!&amp;Q!2!"%!(Q!!!!"`X(`7@^&gt;`U8`2@^^`Q(`!#A!!!"#!!!!$!!7!%Y!(!"2!!%!!!!!!0```Q!"A!!!!0```````Q!!!!!!!!!!A!$!!/!!Y!$!!)!!H``@```````@`Z``!#A!!!-Y!!!$!!!.!!U!(1!&gt;!"A!!!!!!0```Q!!````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+	<Property Name="NI.XItem.InitialDropSize" Type="Bin">&amp;Q#!!!!!!!-!%5!#!!J)&lt;X*J?G^O&gt;'&amp;M!!!01!)!#&amp;:F=H2J9W&amp;M!!!P!0%!!!!!!!!!!2*-6F"P;7ZU6(FQ:52F:CZD&gt;'Q!&amp;%"1!!)!!!!""6"P;7ZU!!%!!A"7!#%!!!!!</Property>
+	<Property Name="NI.XItem.Name" Type="Str">EIONode</Property>
+	<Property Name="NI.XItem.StyleName" Type="Str">FPGA I/O Node</Property>
+	<Property Name="NI.XItem.SupportsFatalErrorOut" Type="Bool">false</Property>
+	<Property Name="NI.XNode.GCChaining" Type="Bool">true</Property>
+	<Property Name="NI.XNode.LazyLoad" Type="Bool">true</Property>
+	<Item Name="Public" Type="Folder">
+		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+	</Item>
+	<Item Name="Private" Type="Folder">
+		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+	</Item>
+	<Item Name="EIONode.ctl" Type="Ability VI" URL="/&lt;vilib&gt;/eio/EIONode/EIONode.ctl">
+		<Property Name="NI.XItem.Name" Type="Str">State</Property>
+		<Property Name="NI.XItem.Type" Type="Int">0</Property>
+	</Item>
+	<Item Name="EIONode_GenerateCode.vi" Type="Ability VI" URL="/&lt;vilib&gt;/eio/EIONode/EIONode_GenerateCode.vi">
+		<Property Name="NI.XItem.Name" Type="Str">GenerateCode</Property>
+		<Property Name="NI.XItem.Type" Type="Int">0</Property>
+	</Item>
+	<Item Name="EIONode_Size.vi" Type="Ability VI" URL="/&lt;vilib&gt;/eio/EIONode/EIONode_Size.vi">
+		<Property Name="NI.XItem.Name" Type="Str">Size</Property>
+		<Property Name="NI.XItem.Type" Type="Int">0</Property>
+	</Item>
+	<Item Name="EIONode_UpdateState.vi" Type="Ability VI" URL="/&lt;vilib&gt;/eio/EIONode/EIONode_UpdateState.vi">
+		<Property Name="NI.XItem.Name" Type="Str">UpdateStateWithRef</Property>
+	</Item>
+	<Item Name="EIONode_SelectMenu.vi" Type="Ability VI" URL="/&lt;vilib&gt;/eio/EIONode/EIONode_SelectMenu.vi">
+		<Property Name="NI.XItem.Name" Type="Str">SelectMenu5</Property>
+	</Item>
+</XNode>

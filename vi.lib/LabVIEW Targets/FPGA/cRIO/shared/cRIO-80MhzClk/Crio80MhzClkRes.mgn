@@ -1,0 +1,5 @@
+[modGen]
+version        = 3
+declaration    = ./nirviGetDeclaration_Crio80MhzClkRes.vi
+modInfo        = ./nirviGetModInfo_Crio80MhzClkRes.vi
+instantiation  = ./nirviGetInstantiation_Crio80MhzClkRes.vi

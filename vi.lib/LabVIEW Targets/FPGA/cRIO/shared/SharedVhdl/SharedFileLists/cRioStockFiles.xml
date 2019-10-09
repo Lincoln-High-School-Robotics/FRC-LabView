@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<cRioStockFiles>
+  <!--
+  This file defines all of the VHDL files needed for cRioStock.
+
+  You can reference this file in your CrioStockModGenData.xml inside the "OtherFiles" tag as follows:
+  <OtherFiles shared_vhdl_path="SHARED_VHDL_FOLDER">
+     [module-family specific files]
+     <:Include what="children">SHARED_VHDL_FOLDER\SharedFileLists\cRioStockFiles.xml</:Include>
+  </OtherFiles>
+  -->
+  <FileCrioStock01>#{shared_vhdl_path}\cRioStock.vhd</FileCrioStock01>
+  <FileCrioStock02>#{shared_vhdl_path}\cRioStockEePromRead.vhd</FileCrioStock02>
+  <FileCrioStock03>#{shared_vhdl_path}\cRioStockModeSelector.vhd</FileCrioStock03>
+  <FileCrioStock04>#{shared_vhdl_path}\cRioStockModeSelIronclad.vhd</FileCrioStock04>
+  <FileCrioStock05>#{shared_vhdl_path}\cRioStockModeTrans.vhd</FileCrioStock05>
+  <FileCrioStock06>#{shared_vhdl_path}\cRioStockSideband.vhd</FileCrioStock06>
+  <FileCrioStock07>#{shared_vhdl_path}\cRioStockModuleId.vhd</FileCrioStock07>
+  <FileCrioStock08>#{shared_vhdl_path}\cRioStockSpiEngine.vhd</FileCrioStock08>
+  <FileCrioStock09>#{shared_vhdl_path}\PkgCrioStockModeTrans.vhd</FileCrioStock09>
+  <FileCrioStock10>#{shared_vhdl_path}\PkgCrioInterface.vhd</FileCrioStock10>
+  <FileCrioStock11>#{shared_vhdl_path}\CrioEepromRead.vhd</FileCrioStock11>
+  <FileCrioStock12>#{shared_vhdl_path}\CrioSidebandEngine.vhd</FileCrioStock12>
+  <FileCrioStock13>#{shared_vhdl_path}\cRioStockRevokeHandler.vhd</FileCrioStock13>
+</cRioStockFiles>

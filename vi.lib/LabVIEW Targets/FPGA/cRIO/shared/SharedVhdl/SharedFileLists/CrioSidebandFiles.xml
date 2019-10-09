@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<CrioSidebandFiles>
+  <!--
+  This file defines all of the VHDL files needed for the Sideband infrastructure logic.
+
+  You can reference this file in your CrioStockModGenData.xml inside the "FilesToDirectlyCopy" tag as follows:
+  <FilesToDirectlyCopy moduleroot_path="MODULEROOT">
+     ...
+     <:Include what="children">SHARED_VHDL_FOLDER\SharedFileLists\CrioSidebandFiles.xml</:Include>
+  </FilesToDirectlyCopy>
+  -->
+  <FileSb01>#{moduleroot_path}\..\cRIO-CC\Resources\Encrypted\CartridgeController\Sideband\CrioArbPowerOf2.vhe</FileSb01>
+  <FileSb02>#{moduleroot_path}\..\cRIO-CC\Resources\Encrypted\CartridgeController\Sideband\CrioArbSerializeAccess.vhe</FileSb02>
+  <FileSb03>#{moduleroot_path}\..\cRIO-CC\Resources\Encrypted\CartridgeController\Sideband\CrioSbDataCaptureDataPath.vhe</FileSb03>
+  <FileSb04>#{moduleroot_path}\..\cRIO-CC\Resources\Encrypted\CartridgeController\Sideband\CrioSbEngineArbiter.vhe</FileSb04>
+  <FileSb05>#{moduleroot_path}\..\cRIO-CC\Resources\Encrypted\CartridgeController\Sideband\CrioSbEngineLogic.vhe</FileSb05>
+  <FileSb06>#{moduleroot_path}\..\cRIO-CC\Resources\Encrypted\CartridgeController\Sideband\CrioSbLineControl.vhe</FileSb06>
+  <FileSb07>#{moduleroot_path}\..\cRIO-CC\Resources\Encrypted\CartridgeController\Sideband\CrioSbOutputEnableDelay.vhe</FileSb07>
+  <FileSb08>#{moduleroot_path}\..\cRIO-CC\Resources\Encrypted\CartridgeController\Sideband\CrioSbPacketReceiver.vhe</FileSb08>
+  <FileSb09>#{moduleroot_path}\..\cRIO-CC\Resources\Encrypted\CartridgeController\Sideband\CrioSbPacketSender.vhe</FileSb09>
+  <FileSb10>#{moduleroot_path}\..\cRIO-CC\Resources\Encrypted\CartridgeController\Sideband\CrioSbSerialReceiver.vhe</FileSb10>
+  <FileSb11>#{moduleroot_path}\..\cRIO-CC\Resources\Encrypted\CartridgeController\Sideband\CrioSbSerialTransmitter.vhe</FileSb11>
+  <FileSb12>#{moduleroot_path}\..\cRIO-CC\Resources\Encrypted\CartridgeController\Sideband\CrioSbSlotControl.vhe</FileSb12>
+  <FileSb13>#{moduleroot_path}\..\cRIO-CC\Resources\Encrypted\CartridgeController\Sideband\CrioSbSpiDither.vhe</FileSb13>
+  <FileSb14>#{moduleroot_path}\..\cRIO-CC\Resources\Encrypted\CartridgeController\Sideband\CrioPassthroughSidebandController.vhe</FileSb14>
+  <FileSb16>#{moduleroot_path}\..\cRIO-CC\Resources\Encrypted\CartridgeController\Sideband\CrioRunDoneToReqAck.vhe</FileSb16>
+  <FileSb17>#{moduleroot_path}\..\cRIO-CC\Resources\Encrypted\CartridgeController\Sideband\CrioSbRevokeHandler.vhe</FileSb17>
+  <FileSb18>#{moduleroot_path}\..\cRIO-CC\Resources\Encrypted\CartridgeController\Sideband\Packages\PkgCrioSideband.vhe</FileSb18>
+  <FileSb20>#{moduleroot_path}\..\cRIO-CC\Resources\Encrypted\CartridgeController\Sideband\Packages\PkgCrioIroncladArmComm.vhe</FileSb20>
+  <FileSb21>#{moduleroot_path}\..\cRIO-CC\Resources\Encrypted\CartridgeController\Sideband\Packages\PkgCrioIroncladRegMap.vhe</FileSb21>
+  <FileSb22>#{moduleroot_path}\..\cRIO-CC\Resources\Encrypted\CartridgeController\Packages\PkgCartridge.vhe</FileSb22>
+  <FileSb28>#{moduleroot_path}\..\cRIO-CC\Resources\Encrypted\CartridgeController\Sideband\CrioSbRxSpiSlave.vhe</FileSb28>
+  <FileSb29>#{moduleroot_path}\..\cRIO-CC\Resources\Encrypted\CartridgeController\Sideband\CrioSbShiftReg.vhe</FileSb29>
+  <FileSb30>#{moduleroot_path}\..\cRIO-CC\Resources\Encrypted\CartridgeController\Sideband\CrioSymmetricDelay.vhe</FileSb30>
+  <FileSb31>#{moduleroot_path}\..\cRIO-CC\Resources\Encrypted\CartridgeController\Sideband\CrioSbDataCaptureControl.vhe</FileSb31>
+  <FileSb32>#{moduleroot_path}\..\cRIO-CC\Resources\Encrypted\CartridgeController\Sideband\CrioSidebandClkResCore.vhe</FileSb32>
+</CrioSidebandFiles>

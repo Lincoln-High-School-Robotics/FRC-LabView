@@ -1,0 +1,66 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<XNode LVVersion="17008000">
+	<Property Name="NI.Lib.HelpPath" Type="Str"></Property>
+	<Property Name="NI.Lib.Icon" Type="Bin">&amp;Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!.&amp;!!!*Q(C=T:;R;V2"%)@HC5%\T8]1\DIL94IN&amp;%S4*L&amp;*&lt;T7FB7C#F9^5)9W11BA229S#[7S.Y"G2'$.=E4[&amp;F6XM&amp;/2A`&gt;ZG%_`C/\61=&amp;^_&gt;_^_MTP\\?S_2U2S/SVS5N,PGPSS`;6YGPB&amp;0/6Y?[)]0B(0XT`TDO&lt;`?4E9T;#*C64OUL@D]9H3#A%&gt;&gt;H&gt;XMY&lt;HTZA(_E9U8S0]Y_-S&amp;']IDO+\)`5\P%NF^AT1&amp;B^?!@'ZO;OX:H^U'&amp;VA3H-X:W97?L@FM(\(VX^`97&lt;GXJPN2^,;5NK]PX#DN\HT&lt;&amp;R][_VGL\?TMTUWPL8^&lt;OP^B[@DYPX__ZV_@[U?&amp;Z`LUZ[-#?@VL[X64@CI$M@C-OA/GP#0/L4&amp;T\88);8"I.PN$A;$^DKEV%42&lt;(M&gt;GP%$1&lt;0N&gt;4D;XS`N&gt;2D;`^9[`-HD8@_WUT^O)F5Z_CG1)U.[]01%@O!(@O!(@O!\PO-\PO-\PO-&lt;PO%&lt;PO%&lt;PO%LPO)LPO)LPO;(FQN@]!6@.$]JQ?4"2%(3)%(1'21*0A+?A#@A#8DY+1&amp;0Q"0Q"$Q"$VUEY!FY!J[!*_"BG!1]!5`!%`!%0+4+**%P@(A#(N+,Q_0Q/$Q/D]0$F/,Q/!$/:%ZC*QE9YA3&gt;'Y@(Y8&amp;YO"7(R_&amp;R?"Q?BY?Q/$Q/D]0D]$A]$-F6]5T480DQE%9-(I0(Y$&amp;Y$"Z3C]&amp;D]"A]"I`"QX2C]"A]"I1RI:%="$%''2W-(Q;0Q=/8'$Q'D]&amp;D]"A]B0)/7;Z-1^.=_0!I0!K0QK0Q+$SE%)6(Y6&amp;Y&amp;"[&amp;B\3C]#A]#I`#I`!QF3A]#I`#IY!IET+^+-G5A5IHR6"Y_-OH2@-O?3&lt;2@*6(]_#A3DG!5A[7F!-DZ3")W7!J'S&gt;F1[157EI"J22'SI+F,%1+I*3*J335UF(W_&gt;R$'WA&gt;,;.&amp;.)_G51&gt;..E0`=M@^`8X:W^O4D9U.76^@F_8F:6F=8*4Z_8G:HJ[74K=DEZ/42W_L+;[$6BW_FXCB69&gt;;1KO8J6KZ7V&gt;,J[2[^&lt;F8V7?P@VTJ8(C]CJ;[,Z`85R&gt;@V&amp;0H];^63W&gt;[V&gt;N;KE]I$?EV?2[C"S@1F&lt;J+H^#&gt;OPK+[E;8[*@_FX?DH"DZPY5;@1?5:-2&gt;!!!!!!</Property>
+	<Property Name="NI.Lib.LocalName" Type="Str">Create Time Triggered Network Timing Source</Property>
+	<Property Name="NI.Lib.Locked" Type="Str">205711D140723D6BBB6516562B9D45C8</Property>
+	<Property Name="NI.Lib.SourceVersion" Type="Int">385908736</Property>
+	<Property Name="NI.Lib.Version" Type="Str">8.2.0.0</Property>
+	<Property Name="NI.SortType" Type="Int">3</Property>
+	<Property Name="NI.XClass.Flags" Type="Int">0</Property>
+	<Property Name="NI.XItem.DeclaredLeakProof" Type="Bool">false</Property>
+	<Property Name="NI.XItem.Express" Type="Bool">false</Property>
+	<Property Name="NI.XItem.Name" Type="Str">XNode 1</Property>
+	<Property Name="NI.XItem.StyleName" Type="Str">Create Time Triggered Network Timing Source</Property>
+	<Property Name="NI.XItem.SupportsFatalErrorOut" Type="Bool">false</Property>
+	<Item Name="DSV State.ctl" Type="Ability VI" URL="/&lt;vilib&gt;/variable/detnetvar/DSVTimingsource/DSV State.ctl">
+		<Property Name="NI.XItem.Name" Type="Str">State</Property>
+	</Item>
+	<Item Name="DSV Bounds.vi" Type="Ability VI" URL="/&lt;vilib&gt;/variable/detnetvar/DSVTimingsource/DSV Bounds.vi">
+		<Property Name="NI.XItem.Name" Type="Str">Bounds</Property>
+	</Item>
+	<Item Name="DSV DisplayName.vi" Type="Ability VI" URL="/&lt;vilib&gt;/variable/detnetvar/DSVTimingsource/DSV DisplayName.vi">
+		<Property Name="NI.XItem.Name" Type="Str">DisplayName</Property>
+	</Item>
+	<Item Name="DSV GenerateCode.vi" Type="Ability VI" URL="/&lt;vilib&gt;/variable/detnetvar/DSVTimingsource/DSV GenerateCode.vi">
+		<Property Name="NI.XItem.Name" Type="Str">GenerateCode</Property>
+	</Item>
+	<Item Name="DSV Image.vi" Type="Ability VI" URL="/&lt;vilib&gt;/variable/detnetvar/DSVTimingsource/DSV Image.vi">
+		<Property Name="NI.XItem.Name" Type="Str">Image</Property>
+	</Item>
+	<Item Name="DSV Initialize.vi" Type="Ability VI" URL="/&lt;vilib&gt;/variable/detnetvar/DSVTimingsource/DSV Initialize.vi">
+		<Property Name="NI.XItem.Name" Type="Str">Initialize</Property>
+	</Item>
+	<Item Name="DSV DoubleClick.vi" Type="Ability VI" URL="/&lt;vilib&gt;/variable/detnetvar/DSVTimingsource/DSV DoubleClick.vi">
+		<Property Name="NI.XItem.Name" Type="Str">DoubleClick</Property>
+	</Item>
+	<Item Name="DSV Timing Source Dialog.vi" Type="VI" URL="/&lt;vilib&gt;/variable/detnetvar/DSVTimingsource/DSV Timing Source Dialog.vi"/>
+	<Item Name="DSV Terms.vi" Type="Ability VI" URL="/&lt;vilib&gt;/variable/detnetvar/DSVTimingsource/DSV Terms.vi">
+		<Property Name="NI.XItem.Name" Type="Str">Terms</Property>
+	</Item>
+	<Item Name="CalcWidth.vi" Type="VI" URL="/&lt;vilib&gt;/variable/detnetvar/DSVTimingsource/CalcWidth.vi"/>
+	<Item Name="GetTimingSourceVariableProxy.vi" Type="VI" URL="/&lt;vilib&gt;/variable/detnetvar/DSVTimingsource/GetTimingSourceVariableProxy.vi"/>
+	<Item Name="DSV Message.vi" Type="Ability VI" URL="/&lt;vilib&gt;/variable/detnetvar/DSVTimingsource/DSV Message.vi">
+		<Property Name="NI.XItem.Name" Type="Str">Message</Property>
+	</Item>
+	<Item Name="DSV BuildMenu.vi" Type="Ability VI" URL="/&lt;vilib&gt;/variable/detnetvar/DSVTimingsource/DSV BuildMenu.vi">
+		<Property Name="NI.XItem.Name" Type="Str">BuildMenu</Property>
+	</Item>
+	<Item Name="DSV SelectMenu.vi" Type="Ability VI" URL="/&lt;vilib&gt;/variable/detnetvar/DSVTimingsource/DSV SelectMenu.vi">
+		<Property Name="NI.XItem.Name" Type="Str">SelectMenu</Property>
+	</Item>
+	<Item Name="DSV Copy.vi" Type="Ability VI" URL="/&lt;vilib&gt;/variable/detnetvar/DSVTimingsource/DSV Copy.vi">
+		<Property Name="NI.XItem.Name" Type="Str">Copy</Property>
+	</Item>
+	<Item Name="DSV Help.vi" Type="Ability VI" URL="/&lt;vilib&gt;/variable/detnetvar/DSVTimingsource/DSV Help.vi">
+		<Property Name="NI.XItem.Name" Type="Str">Help</Property>
+	</Item>
+	<Item Name="DSV ListErrors.vi" Type="Ability VI" URL="/&lt;vilib&gt;/variable/detnetvar/DSVTimingsource/DSV ListErrors.vi">
+		<Property Name="NI.XItem.Name" Type="Str">ListErrors</Property>
+	</Item>
+	<Item Name="DSV ScriptVariable.vi" Type="VI" URL="/&lt;vilib&gt;/variable/detnetvar/DSVTimingsource/DSV ScriptVariable.vi"/>
+	<Item Name="DSV UpdateState2.vi" Type="Ability VI" URL="/&lt;vilib&gt;/variable/detnetvar/DSVTimingsource/DSV UpdateState2.vi">
+		<Property Name="NI.XItem.Name" Type="Str">UpdateStateWithRef</Property>
+	</Item>
+</XNode>
+<?sig C733D294AE20C3E3BC800FA701F7057D?>

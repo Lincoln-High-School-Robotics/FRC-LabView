@@ -1,0 +1,15 @@
+CrioStartSyncResourceAbstractor
+struct
+2
+kTriggerWidthIn
+kTriggerWidthOut
+Clk
+reset
+clkTrigFromReshold
+clkTrigToReshold
+clkErrorFromReshold
+clkErrorToReshold
+clkFromResTrig
+clkToResTrig
+clkFromResError
+clkToResError

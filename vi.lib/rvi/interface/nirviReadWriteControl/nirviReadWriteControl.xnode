@@ -1,0 +1,33 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<XNode LVVersion="17008000">
+	<Property Name="NI.Lib.Description" Type="Str">Reads a value from or writes a value to a control or indicator in the FPGA VI on the FPGA target.</Property>
+	<Property Name="NI.Lib.HelpPath" Type="Str">/&lt;helpdir&gt;/lvfpgahost.chm</Property>
+	<Property Name="NI.Lib.HelpTag" Type="Str">ReadWrite_Control.html</Property>
+	<Property Name="NI.Lib.Icon" Type="Bin">&amp;Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!*[!!!*Q(C=\:1`&lt;F."%)&gt;`M2*$;QY1Q&amp;?9DCK&amp;L_##DGKO9)EK)!K8N%-2+;XL&gt;/[IZQIOO)#0Q0+^^@LF71D&lt;%C"&amp;AFW0``RG&gt;O:\M_O6[HAO8?J@(_8Y5"E@'\W``"T([NZ@[OMAMJ4LXD^9P)]M6V@\^2V(3^C8Q@WW\/K8"U&lt;HKJ](\I&amp;`0"\Y#^\3]Q`T0[)@0N_PH`^5`YZX`\``&gt;`UH_H`'O$U61*\P@]NW&amp;3ZK%3SRQ"QT&gt;@QFU2-^U2-^U2-^U!-^U!-^U!0&gt;U2X&gt;U2X&gt;U2X&gt;U!X&gt;U!X&gt;U'X8YC*UI1N&gt;6JO?&amp;%]+*5G4"%EQ+%L?%J[%*_&amp;*?0CJB#@B38A3HI3(%#5]#5`#E`!E0#R4QJ0Q*$Q*4]*$KEK3&gt;;,$E`#18A&amp;0Q"0Q"$Q"$S56]!1!1&lt;%A=:!%$!8/Y%P!%`!%0(R6Q"0Q"$Q"4]#$7Q&amp;0Q"0Q"$Q"$UNK6[,3&gt;"-&gt;(N,)Y8&amp;Y("[(R_%BN2Q?B]@B=8A=(ML*Y8&amp;Y(!CHI*-="$G,H!$HB]0D]0!BB]@B=8A=(I=(6^UBLZXJ;,K*$I`"9`!90!;0Q5-+'4Q'D]&amp;D]"A]J*8"9`!90!;0Q5-J'4Q'D]&amp;DA"B&amp;+3]DG&lt;(1#$)%AY&gt;803V7&gt;SEKC&gt;6:`T6K"V8N!+I&gt;,,5$IX91V$:9&lt;?05.E3NU7I.6'O-WA/L09A;I&amp;JBN92KA&gt;LSPM(7W!J&lt;9ANMDMWQ+4&lt;JFP\BQ/VWK]VGI`6[L&gt;6KJ?6SK=6CI@F]LNFMJOFUKMFEUF]ULZD^B8$?P541[-/NXHS]?@@_ETZ`O8NZ]?,_WWB[``LS[^XVMV(HX]?&gt;;Y`XUF/Y'T83]#+H2T]!:HE%S!!!!!!</Property>
+	<Property Name="NI.Lib.LocalName" Type="Str">Read/Write Control</Property>
+	<Property Name="NI.Lib.SourceVersion" Type="Int">385908736</Property>
+	<Property Name="NI.Lib.Version" Type="Str">1.0.9.5</Property>
+	<Property Name="NI.XClass.Loc.Name" Type="Str">nirviReadWriteControl</Property>
+	<Property Name="NI.XClass.Name" Type="Str">nirviReadWriteControl</Property>
+	<Property Name="NI.XItem.ClassId" Type="Str">{A03BAC00-DD79-41C6-A91F-F41DDA92C2E0}</Property>
+	<Property Name="NI.XItem.DeclaredLeakProof" Type="Bool">false</Property>
+	<Property Name="NI.XItem.Express" Type="Bool">false</Property>
+	<Property Name="NI.XItem.Name" Type="Str">nirviReadWriteControl</Property>
+	<Property Name="NI.XItem.StyleName" Type="Str">Read/Write Control</Property>
+	<Property Name="NI.XItem.SupportsFatalErrorOut" Type="Bool">false</Property>
+	<Property Name="NI.XNode.GCChaining" Type="Bool">true</Property>
+	<Property Name="NI.XNode.LazyLoad" Type="Bool">true</Property>
+	<Item Name="Private" Type="Folder">
+		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+	</Item>
+	<Item Name="Public" Type="Folder">
+		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+	</Item>
+	<Item Name="nirviReadWriteControl.ctl" Type="Ability VI" URL="/&lt;vilib&gt;/rvi/interface/nirviReadWriteControl/nirviReadWriteControl.ctl">
+		<Property Name="NI.XItem.Name" Type="Str">State</Property>
+		<Property Name="NI.XItem.Type" Type="Int">0</Property>
+	</Item>
+	<Item Name="nirviReadWriteControl_UpdateStateWithRef.vi" Type="Ability VI" URL="/&lt;vilib&gt;/rvi/interface/nirviReadWriteControl/nirviReadWriteControl_UpdateStateWithRef.vi">
+		<Property Name="NI.XItem.Name" Type="Str">UpdateStateWithRef</Property>
+	</Item>
+</XNode>

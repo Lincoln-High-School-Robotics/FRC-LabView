@@ -1,0 +1,3 @@
+[modGen]
+version = 7
+simulationSignals = ../../rvi/eio/nirviEIOImplementation/modGen/niFpgaEIOSimSigs.vi

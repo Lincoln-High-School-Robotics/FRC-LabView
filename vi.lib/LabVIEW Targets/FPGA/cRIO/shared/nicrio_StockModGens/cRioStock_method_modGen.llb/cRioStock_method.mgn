@@ -1,0 +1,4 @@
+[modGen]
+version=7
+specifyComponent = NiCrioStock_method_SpecifyComponent.vi
+emitCode =  NiCrioStock_method_EmitCode.vi

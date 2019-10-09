@@ -1,0 +1,13 @@
+CrioIntSyncResourceAbstractor
+struct
+0
+Clk
+reset
+clkSyncStatusFromReshold
+clkSyncStatusToReshold
+clkAiBusyFromReshold
+clkAiBusyToReshold
+clkFromResSyncStatus
+clkToResSyncStatus
+clkFromResAiBusy
+clkToResAiBusy

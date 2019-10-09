@@ -1,0 +1,5 @@
+[modGen]
+version        = 3
+modInfo        = ./nirviGetModInfo_cRIO-OneMsTimer.vi
+implementation = ./nirviGetImplementation_cRIO-OneMsTimer.vi
+instantiation = ./nirviGetInstantiation_cRIO-OneMsTimer.vi

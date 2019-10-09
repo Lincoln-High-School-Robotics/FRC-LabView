@@ -1,0 +1,5 @@
+[modGen]
+;version=4
+constructor    = nirviMemReadModGen/nirviMemReadConstructor.vi
+modInfo        = nirviMemReadModGen/nirviMemReadGetModInfo.vi
+implementation = nirviMemReadModGen/nirviMemReadGetImplementation.vi

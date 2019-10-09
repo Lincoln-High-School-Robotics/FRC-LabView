@@ -1,0 +1,16 @@
+CrioDebugRegisterResHolder
+rtl
+1
+kInsideSCL
+clk
+reset
+enable_in
+enable_out
+enable_clr
+error_out
+error_in
+EIOSignal
+FromResError
+ToResError
+FromResDebug
+ToResDebug

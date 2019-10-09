@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<CrioCommIntFiles>
+  <!--
+  This file defines all of the VHDL files needed for CrioCommInt.
+
+  You can reference this file in your CrioStockModGenData.xml inside the "OtherFiles" tag as follows:
+  <OtherFiles shared_vhdl_path="SHARED_VHDL_FOLDER">
+     [module-family specific files]
+     <:Include what="children">SHARED_VHDL_FOLDER\SharedFileLists\CrioCommIntFiles.xml</:Include>
+  </OtherFiles>
+  -->
+  <FileCommInt01>#{shared_vhdl_path}\CrioCiCartridgeDetection.vhd</FileCommInt01>
+  <FileCommInt02>#{shared_vhdl_path}\CrioCiCartridgeIdentification.vhd</FileCommInt02>
+  <FileCommInt03>#{shared_vhdl_path}\CrioCiCrcCheck.vhd</FileCommInt03>
+  <FileCommInt04>#{shared_vhdl_path}\CrioCiEeprom.vhd</FileCommInt04>
+  <FileCommInt05>#{shared_vhdl_path}\CrioCiHsiEngine.vhd</FileCommInt05>
+  <FileCommInt06>#{shared_vhdl_path}\CrioCiInitSequence.vhd</FileCommInt06>
+  <FileCommInt07>#{shared_vhdl_path}\CrioCiInitSequenceIronclad.vhd</FileCommInt07>
+  <FileCommInt08>#{shared_vhdl_path}\CrioCiInputFlops.vhd</FileCommInt08>
+  <FileCommInt09>#{shared_vhdl_path}\CrioCiModeSelector.vhd</FileCommInt09>
+  <FileCommInt10>#{shared_vhdl_path}\CrioCiModeSelectorControl.vhd</FileCommInt10>
+  <FileCommInt11>#{shared_vhdl_path}\CrioCiOutputMuxes.vhd</FileCommInt11>
+  <FileCommInt12>#{shared_vhdl_path}\CrioCiPinConfig.vhd</FileCommInt12>
+  <FileCommInt13>#{shared_vhdl_path}\CrioCiPinConfigIronclad.vhd</FileCommInt13>
+  <FileCommInt14>#{shared_vhdl_path}\CrioCiPulseMask.vhd</FileCommInt14>
+  <FileCommInt16>#{shared_vhdl_path}\CrioCiSpiConfig.vhd</FileCommInt16>
+  <FileCommInt17>#{shared_vhdl_path}\CrioCiSpiEngine.vhd</FileCommInt17>
+  <FileCommInt18>#{shared_vhdl_path}\CrioCommInt.vhd</FileCommInt18>
+  <FileCommInt19>#{shared_vhdl_path}\CrioParallelCrcCore.vhd</FileCommInt19>
+  <FileCommInt20>#{shared_vhdl_path}\PkgCrioCiHsiEngine.vhd</FileCommInt20>
+  <FileCommInt21>#{shared_vhdl_path}\PkgCrioCommInt.vhd</FileCommInt21>
+  <FileCommInt22>#{shared_vhdl_path}\PkgCrioInterface.vhd</FileCommInt22>
+  <FileCommInt23>#{shared_vhdl_path}\CrioErrorDecode.vhd</FileCommInt23>
+  <FileCommInt24>#{shared_vhdl_path}\CrioCiCartDetOverride.vhd</FileCommInt24>
+  <FileCommInt25>#{shared_vhdl_path}\CrioCiSidebandMisc.vhd</FileCommInt25>
+  <FileCommInt26>#{shared_vhdl_path}\CrioSidebandEngine.vhd</FileCommInt26>
+  <FileCommInt27>#{shared_vhdl_path}\CrioCiShutdownRequestHandler.vhd</FileCommInt27>
+</CrioCommIntFiles>

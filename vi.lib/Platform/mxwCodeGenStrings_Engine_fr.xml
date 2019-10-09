@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<dict>
+<eng Section="0" Key="FileDialogTitle">Save VI</eng>
+<loc Section="0" Key="FileDialogTitle">Enregistrer le VI</loc>
+<eng Section="1" Key="SubVIDirectoryName">%s_subVIs</eng>
+<loc Section="1" Key="SubVIDirectoryName">%s_sousVIs</loc>
+<eng Section="2" Key="FileInMemoryDialogTitle">VI Exists in Memory - Choose Another Name</eng>
+<loc Section="2" Key="FileInMemoryDialogTitle">Le VI existe déjà en mémoire - Choisissez un autre nom</loc>
+<eng Section="3" Key="ErrDialogTitle">Code Generation Error</eng>
+<loc Section="3" Key="ErrDialogTitle">Erreur de génération de code</loc>
+<eng Section="4" Key="ErrDialogHeader">The following errors occurred during code generation:</eng>
+<loc Section="4" Key="ErrDialogHeader">Les erreurs suivantes se sont produites pendant la génération du code :</loc>
+<eng Section="5" Key="ErrDialogCol1Header">Code</eng>
+<loc Section="5" Key="ErrDialogCol1Header">Code</loc>
+<eng Section="6" Key="ErrDialogCol2Header">Explanation</eng>
+<loc Section="6" Key="ErrDialogCol2Header">Explication</loc>
+<eng Section="7" Key="ErrDialogAcceptLabel">Ignore Errors</eng>
+<loc Section="7" Key="ErrDialogAcceptLabel">Ignorer les erreurs</loc>
+<eng Section="8" Key="ErrDialogAcceptExplanation">Ignore the errors and continue. The calling application will not be notified of the error.  The generated code may have errors or not function as expected.</eng>
+<loc Section="8" Key="ErrDialogAcceptExplanation">Ignorer les erreurs et continuer. L&apos;erreur ne sera pas signalée à l&apos;application appelante.  Il se peut que le code généré ait des erreurs ou ne fonctionne pas correctement.</loc>
+<eng Section="9" Key="ErrDialogRevertLabel">Process Errors</eng>
+<loc Section="9" Key="ErrDialogRevertLabel">Erreurs de processus</loc>
+<eng Section="10" Key="ErrDialogRevertExplanation">Allow calling application to handle errors. Express VIs will lose all changes. The generated code may have errors or not function as expected.</eng>
+<loc Section="10" Key="ErrDialogRevertExplanation">Autoriser l&apos;application appelante à gérer les erreurs. Toutes les modifications seront perdues dans les VIs Express. Il se peut que le code généré ait des erreurs ou ne fonctionne pas correctement.</loc>
+<eng Section="11" Key="ErrDialogExportErrorLabel">Export</eng>
+<loc Section="11" Key="ErrDialogExportErrorLabel">Exporter</loc>
+<eng Section="12" Key="ErrDialogExportErrorExplanation">Save the errors to a text file.</eng>
+<loc Section="12" Key="ErrDialogExportErrorExplanation">Enregistrer les erreurs dans un fichier texte.</loc>
+<eng Section="13" Key="InternalError">Internal Error</eng>
+<loc Section="13" Key="InternalError">Erreur interne</loc>
+</dict>

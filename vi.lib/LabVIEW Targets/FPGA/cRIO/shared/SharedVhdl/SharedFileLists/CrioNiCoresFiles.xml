@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<SharedCoresFiles>
+  <!--
+  This file defines some common NI Cores VHDL files that may be needed by module resources.
+
+  There are two ways of referencing this file in your CrioStockModGenData.xml.
+
+  If you only need NI Cores files that are contained in this list, you can reference
+  it in the VHDLInfo tag as follows:
+  <VHDLInfo>
+    ...
+    <OtherFiles>
+      ...
+    </OtherFiles>
+    <:Include>SHARED_VHDL_FOLDER\SharedFileLists\CrioNiCoresFiles.xml</:Include>
+  </VHDLInfo>
+
+  If a particular module resource needs other NI Cores files not in this list,
+  you can reference it inside the "SharedCoresFiles" tag as follows:
+  <SharedCoresFiles>
+     [other NI Cores files needed for a specific module resource]
+     <:Include what="children">SHARED_VHDL_FOLDER\SharedFileLists\CrioNiCoresFiles.xml</:Include>
+  </SharedCoresFiles>
+  -->
+  <FileNiCores01>DFlop.vhd</FileNiCores01>
+  <FileNiCores02>DFlopSlvResetVal.vhd</FileNiCores02>
+  <FileNiCores03>DoubleSyncAsyncInBase.vhd</FileNiCores03>
+  <FileNiCores04>DoubleSyncBase.vhd</FileNiCores04>
+  <FileNiCores05>DoubleSyncSL.vhd</FileNiCores05>
+  <FileNiCores06>HandshakeBase.vhd</FileNiCores06>
+  <FileNiCores07>HandshakeSLV.vhd</FileNiCores07>
+  <FileNiCores08>PkgFxp.vhd</FileNiCores08>
+  <FileNiCores09>PkgFxpArithmetic.vhd</FileNiCores09>
+  <FileNiCores10>PkgNiUtilities.vhd</FileNiCores10>
+  <FileNiCores11>PulseSyncBase.vhd</FileNiCores11>
+  <FileNiCores12>PulseSyncSL.vhd</FileNiCores12>
+  <FileNiCores13>DoubleSyncBool.vhd</FileNiCores13>
+  <FileNiCores14>PulseSyncBool.vhd</FileNiCores14>
+  <FileNiCores15>HandshakeBool.vhd</FileNiCores15>
+  <FileNiCores16>HandshakeSLV_Ack.vhd</FileNiCores16>
+  <FileNiCores17>DoubleSyncSlAsyncIn.vhd</FileNiCores17>
+</SharedCoresFiles>

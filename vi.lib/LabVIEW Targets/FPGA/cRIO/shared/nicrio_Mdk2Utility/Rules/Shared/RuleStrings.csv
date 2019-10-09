@@ -1,0 +1,53 @@
+100, 1, Missing interface definition
+101, 1, Incorrect or incomplete VIScriptInfo
+102, 1, Incorrect use of Direction or DefaultDirection
+103, 1, Duplicate VIScriptInfo name
+104, 1, Duplicate or invalid item name
+105, 0, Duplicate ProjectItemID
+106, 1, Duplicate or invalid merged VIScriptInfo name
+107, 1, ModuleSubItems may not have IO Node interfaces
+108, 1, Incorrect use of VIHasTerminalConnection
+109, 1, Incorrect use of TerminalConnectionList
+110, 1, Invalid number of VI's in VI List
+111, 1, Error handling VI must have highest SequenceOrder
+112, 1, Only one error handling VI is allowed
+113, 1, SequenceOrder is out of range (0-255)
+114, 1, ProjectItemID is out of range (0-255)
+115, 1, Duplicate (or missing) SequenceOrder values
+116, 1, ResourceVI is only allowed under the module
+117, 1, Module name does not match Module Type and Module Support XML
+118, 1, Module support file not present
+119, 1, Internal channel control should not be type def
+120, 1, Terminal order must be contiguous and start at zero
+121, 1, Release mode exports require at least one internal channel
+122, 1, Incorrect MDK version in XML
+123, 1, Datatype must only be specified for Asynchronous and Blocking internal channels
+124, 1, Invalid ConnectorPaneTerminal value in TerminalConnection
+125, 1, Control not found for internal channel with custom data type
+126, 1, Incompatible VIScriptInfo names in merged VIScriptInfo
+200, 1, A reserved line may not be used for DIO
+201, 1, SPI half tau is out of range (2 - 65535)
+202, 1, DIO8 (SPI Clk) can not be ConstantOutputLow or InputOnly
+203, 1, Done wait timeout is out of range (0 - 42949679294)
+400, 1, VI must use 5-3-3-5 connector pane
+401, 1, Invalid use of VI connector pane terminal 12 or 14 (Instance Data)
+402, 1, Invalid use of VI connector pane terminal 1 (Project Item ID)
+403, 1, Invalid use of VI connector pane terminal 2 (IO Reference cluster)
+404, 1, Invalid use of VI connector pane terminal 13 (Error Out cluster)
+405, 1, Invalid use of VI connector pane terminal (Node terminal signal connections)
+406, 1, Invalid use of VI connector pane terminal 3 (Reserved)
+600, 1, VI must use 5-3-3-5 connector pane
+601, 1, Invalid use of VI connector pane terminal
+500, 1, Node VI may not use FIFO or Memory methods
+800, 1, Password can not be blank for Release mode export
+801, 1, Invalid module support folder path, module support path must not be within LabVIEW modules folder when doing development or release mode exports
+802, 1, A required XML file was not found
+803, 1, VI and control filenames must be prepended with module name
+804, 1, Read-only files are not allowed
+901, 1, VI must not be broken
+902, 0, VI should not use LV FPGA nodes with error terminals enabled
+903, 1, VI must not contain HDL nodes
+904, 1, VI must not contain statically configured I/O, Method or Property nodes for I/O items (I/O Reference input must be wired)
+905, 1, VI must be marked as reentrant (preallocate clones)
+906, 1, Single Cycle Timed Loops may only use default top level clock
+907, 0, VI should not contain Debug Interface method nodes

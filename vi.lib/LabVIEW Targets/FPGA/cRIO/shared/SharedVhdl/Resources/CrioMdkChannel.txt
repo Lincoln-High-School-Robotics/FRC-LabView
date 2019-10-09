@@ -1,0 +1,15 @@
+CrioMdkChannel
+struct
+2
+kChannelWidth
+kChannelType
+clk
+reset
+clkFromResTopEnablePassThruTopEnables
+clkToResTopEnablePassThruTopEnables
+clkChannelStatusFromReshold
+clkChannelStatusToReshold
+clkChannelWriteFromReshold
+clkChannelWriteToReshold
+clkChannelReadFromReshold
+clkChannelReadToReshold

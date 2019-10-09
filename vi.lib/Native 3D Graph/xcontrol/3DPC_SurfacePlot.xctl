@@ -1,0 +1,1321 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<XControl LVVersion="17008000">
+	<Property Name="NI.Lib.HelpPath" Type="Str">/&lt;helpdir&gt;/lvprop.chm</Property>
+	<Property Name="NI.Lib.Icon" Type="Bin">&amp;Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!.E!!!*Q(C=T:3`;BR8&amp;-;`U1K=-&gt;&lt;O3F[*&amp;)%%05(A1#Q6Q9X!4["G,904X$[6UG2X4!22%?)W"`)!1;_A+JW,!XE#1:Z!W(X-Z$&gt;X\ELL3/NN%MA:H&gt;8M^XVT\G`_\%CZ0J%WV;YLL;L@:L/:MD_\VTZ&lt;_00:X=!:.:V//X]_H^U*&gt;.ZUS7&gt;PO&lt;,X66@YT4QH&lt;_O&lt;XCL_7@.]_E(AS:0?_L+LNHVZ]DTH&amp;`&lt;"9WJH:W=L6^O?H*1$?HMSG4T/N?RP&gt;;/SP&lt;M\G@32Y8#9`2=(EWZH[R(OXGD969\EP3(_Y7Z/4C;DLHJZG,^F``$QE+H&gt;W.&amp;I+3(F,_8_\)W[2&amp;X8.Z'?&gt;O&amp;L4'#XLG]4Z7RP\G]8K/P&lt;R$^^D@&gt;'I`IW==@8?$SO&lt;WK&gt;L\N_&amp;RA-"KN^:&lt;^0X/M`(.?,Q,U_A5&amp;@+XQ^,,Z7_@8(`=7!F@\G'F_&lt;^=&gt;^&lt;3T&lt;^`C$_E.``=_\72P[DUOK-CE&gt;N./*NHRW&lt;;!(?K!(?K!(OK-\OK-\OK-\?E*0[!E^I3@UB'\IBG\IBG\IBJYX&gt;+%,8?B=F7$R9+&amp;A;$!A#)/CY#0A#8A#HI#(LQJY!J[!*_!*?)AIY!FY!J[!*_$B-!5]!5`!%`!%0)T+**%X&gt;(A#(M&lt;,Y8&amp;Y("[(R_&amp;B34E]$I#TG$09'1+'(.0:=8A=(I?(84E]$I`$Y`!Y0.BS?"Q?B]@B=8AY*&amp;]6TT4&gt;BAY09Z4A3@!E?")]#2Z'+]'4Y%HQ*(A30#SH"%_#*Q'27$!R(!1F$EI%%F]30!E?`CH"E_"*]#2Y%DR9_1[F@'5[GGZ$B]@A-8A-(I0(Y''%$"[$R_!R?!Q?RMLA-8A-(I0(Y'%J'4Q'D]&amp;DA"C,MLS-9=;"2MA1$"\_]N.C_3ZZ*L']F:^G`[#K0)!K$Z&lt;+![0S)+D=9*5&lt;JX*$6#[USA65O4!K*[RS)CK!+AOL$&amp;1*[JL0+`K3PK$0[60[G$[C^_HN\N"`/8B^@;WLKSN&gt;8F\KYO*#Z_@H/DU^V@(RM9[/DL3`P[`N\?W&lt;N^58&lt;(V6C`&gt;3)XX.]/^`5P8_:QX?P^;$XV`LU_K02N5&lt;$6YV_L.KKL__`?6:W`Y[&lt;^M@W`&lt;J$_`;Q;OX][JZ_XH6@0?A;AYK7F8T'@W)XK1X;+XO`LXU@XAX;E0NUGO?;`1XAH^#FA!!!!!</Property>
+	<Property Name="NI.Lib.Lic.Feature" Type="Str">LabVIEW_Full:8.6.0</Property>
+	<Property Name="NI.Lib.LocalName" Type="Str">LabVIEW 3D Graph</Property>
+	<Property Name="NI.Lib.Locked" Type="Str">09C668AEE8D3E6DCB45800602B5C9E2B</Property>
+	<Property Name="NI.Lib.SourceVersion" Type="Int">385908736</Property>
+	<Property Name="NI.Lib.Version" Type="Str">1.1.0.0</Property>
+	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
+	<Property Name="NI.SortType" Type="Int">3</Property>
+	<Property Name="NI.XClass.Flags" Type="Int">0</Property>
+	<Property Name="NI.XCtl.OptimizeDataUpdate" Type="Bool">true</Property>
+	<Property Name="NI.XItem.DeclaredLeakProof" Type="Bool">false</Property>
+	<Property Name="NI.XItem.Express" Type="Bool">false</Property>
+	<Property Name="NI.XItem.Name" Type="Str">XControl 1</Property>
+	<Property Name="NI.XItem.SupportsFatalErrorOut" Type="Bool">false</Property>
+	<Item Name="main_source" Type="Folder">
+		<Item Name="value_pairs_axes" Type="Folder">
+			<Item Name="make_axes_caption.vi" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/make_axes_caption.vi"/>
+			<Item Name="make_axes_grids.vi" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/make_axes_grids.vi"/>
+			<Item Name="make_axes_labels.vi" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/make_axes_labels.vi"/>
+			<Item Name="make_axes_labels_number_axis.vi" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/make_axes_labels_number_axis.vi"/>
+			<Item Name="make_axes_labels_number_generate.vi" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/make_axes_labels_number_generate.vi"/>
+			<Item Name="make_axes_main.vi" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/make_axes_main.vi"/>
+			<Item Name="make_axes_ticks.vi" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/make_axes_ticks.vi"/>
+			<Item Name="make_axes_ticks_by_axis.vi" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/make_axes_ticks_by_axis.vi"/>
+			<Item Name="make_axes_ticks_single_tick_line.vi" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/make_axes_ticks_single_tick_line.vi"/>
+			<Item Name="make_axis_parallel_square_plane_coordinates.vi" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/make_axis_parallel_square_plane_coordinates.vi"/>
+			<Item Name="make_axes_generic_grid.vi" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/make_axes_generic_grid.vi"/>
+			<Item Name="merge_labels_and_value_pairs.vi" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/merge_labels_and_value_pairs.vi"/>
+			<Item Name="make_value_pairs.vi" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/make_value_pairs.vi"/>
+			<Item Name="calc_text_width.vi" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/calc_text_width.vi"/>
+			<Item Name="make_axes_grid_planes.vi" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/make_axes_grid_planes.vi"/>
+			<Item Name="get_nice_minmax.vi" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/get_nice_minmax.vi"/>
+		</Item>
+		<Item Name="cursor" Type="Folder">
+			<Item Name="make_cursor_line.vi" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/make_cursor_line.vi"/>
+			<Item Name="make_cursor_main.vi" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/make_cursor_main.vi"/>
+			<Item Name="make_cursor_plane.vi" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/make_cursor_plane.vi"/>
+			<Item Name="make_cursor_point.vi" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/make_cursor_point.vi"/>
+			<Item Name="make_cursor_text.vi" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/make_cursor_text.vi"/>
+			<Item Name="pick_point.vi" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/pick_point.vi"/>
+		</Item>
+		<Item Name="plot" Type="Folder">
+			<Item Name="make_plot_projection.vi" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/make_plot_projection.vi"/>
+			<Item Name="make_plot_points_lines.vi" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/make_plot_points_lines.vi"/>
+			<Item Name="make_plot_normals.vi" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/make_plot_normals.vi"/>
+			<Item Name="make_plot_main.vi" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/make_plot_main.vi"/>
+			<Item Name="make_plot_data_mesh_color_ramp.vi" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/make_plot_data_mesh_color_ramp.vi"/>
+			<Item Name="make_plot_data_mesh.vi" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/make_plot_data_mesh.vi"/>
+			<Item Name="make_plot_contour.vi" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/make_plot_contour.vi"/>
+			<Item Name="interpolate_color.vi" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/interpolate_color.vi"/>
+			<Item Name="contour_levels_to_list.vi" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/contour_levels_to_list.vi"/>
+			<Item Name="setup_clip_planes.vi" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/setup_clip_planes.vi"/>
+		</Item>
+		<Item Name="math_util" Type="Folder">
+			<Item Name="find_angles_3d.vi" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/find_angles_3d.vi"/>
+			<Item Name="intersect_edge.vi" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/intersect_edge.vi"/>
+			<Item Name="normalize_vector.vi" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/normalize_vector.vi"/>
+			<Item Name="point_line_distance.vi" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/point_line_distance.vi"/>
+			<Item Name="rotate_about_axis.vi" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/rotate_about_axis.vi"/>
+			<Item Name="rotate_to_face_eye.vi" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/rotate_to_face_eye.vi"/>
+		</Item>
+		<Item Name="miscellaneous" Type="Folder">
+			<Item Name="make_string_object.vi" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/make_string_object.vi"/>
+			<Item Name="max_min_range.vi" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/max_min_range.vi"/>
+			<Item Name="axes_auto_range.vi" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/axes_auto_range.vi"/>
+			<Item Name="generate_list.vi" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/generate_list.vi"/>
+			<Item Name="hack_scene_reference_copy.vi" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/hack_scene_reference_copy.vi"/>
+			<Item Name="does_obj_exist.vi" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/does_obj_exist.vi"/>
+			<Item Name="plot_id_extractor.vi" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/plot_id_extractor.vi"/>
+			<Item Name="state_plot_id_extractor.vi" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/state_plot_id_extractor.vi"/>
+			<Item Name="grow_prop_array.vi" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/grow_prop_array.vi"/>
+			<Item Name="get_plot_property.vi" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/get_plot_property.vi"/>
+			<Item Name="draw_point_sprite.vi" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/draw_point_sprite.vi"/>
+			<Item Name="calc_transform_matrix.vi" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/calc_transform_matrix.vi"/>
+			<Item Name="transform_point.vi" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/transform_point.vi"/>
+			<Item Name="scale_color_map.vi" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/scale_color_map.vi"/>
+			<Item Name="fix_null_ranges.vi" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/fix_null_ranges.vi"/>
+			<Item Name="colorarraytopixmap.vi" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/colorarraytopixmap.vi"/>
+			<Item Name="buildcolorramptextureimage.vi" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/buildcolorramptextureimage.vi"/>
+			<Item Name="buildcolorramptexture.vi" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/buildcolorramptexture.vi"/>
+			<Item Name="scale_names_match.vi" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/scale_names_match.vi"/>
+		</Item>
+		<Item Name="lighting" Type="Folder">
+			<Item Name="add_light.vi" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/add_light.vi"/>
+			<Item Name="lighting_property_to_opengl.vi" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/lighting_property_to_opengl.vi"/>
+			<Item Name="update_lights.vi" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/update_lights.vi"/>
+		</Item>
+		<Item Name="make_scene_main.vi" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/make_scene_main.vi"/>
+		<Item Name="create_plot_parametric.vi" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/create_plot_parametric.vi"/>
+		<Item Name="create_plot_line.vi" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/create_plot_line.vi"/>
+		<Item Name="create_plot_surface.vi" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/create_plot_surface.vi"/>
+	</Item>
+	<Item Name="properties_dialog" Type="Folder">
+		<Item Name="prop_action_buttons.vi" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/properties_dialog/prop_action_buttons.vi"/>
+		<Item Name="prop_axes_main.vi" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/properties_dialog/prop_axes_main.vi"/>
+		<Item Name="prop_axes_page_to_prop.vi" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/properties_dialog/prop_axes_page_to_prop.vi"/>
+		<Item Name="prop_axes_prop_to_page.vi" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/properties_dialog/prop_axes_prop_to_page.vi"/>
+		<Item Name="prop_cursor_main.vi" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/properties_dialog/prop_cursor_main.vi"/>
+		<Item Name="prop_graph_main.vi" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/properties_dialog/prop_graph_main.vi"/>
+		<Item Name="prop_plot_main.vi" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/properties_dialog/prop_plot_main.vi"/>
+		<Item Name="prop_value_pair_main.vi" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/properties_dialog/prop_value_pair_main.vi"/>
+		<Item Name="set_properties_dialog.vi" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/properties_dialog/set_properties_dialog.vi"/>
+		<Item Name="set_up_graph_control_properties.vi" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/properties_dialog/set_up_graph_control_properties.vi"/>
+		<Item Name="set_up_graph_hardware_window_properties.vi" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/properties_dialog/set_up_graph_hardware_window_properties.vi"/>
+		<Item Name="prop_format_main.vi" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/properties_dialog/prop_format_main.vi"/>
+	</Item>
+	<Item Name="programmable_properties" Type="Folder">
+		<Item Name="Graph" Type="Folder">
+			<Item Name="Projection Mode" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.FacadeUpdatePolicy" Type="Str">Asynchronous</Property>
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_graph_projection_mode_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">property_graph_projection_mode</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Changes the projection of the 3D graph.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Graph:Projection Mode</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_graph_projection_mode_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_graph_projection_mode_read.vi"/>
+				<Item Name="property_graph_projection_mode_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_graph_projection_mode_write.vi"/>
+			</Item>
+			<Item Name="Background Color" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.FacadeUpdatePolicy" Type="Str">Asynchronous</Property>
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_graph_background_color_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">property_graph_background_color</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Specifies the background color of the plot.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Graph:Background Color</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_graph_background_color_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_graph_background_color_read.vi"/>
+				<Item Name="property_graph_background_color_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_graph_background_color_write.vi"/>
+			</Item>
+			<Item Name="View Direction" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.FacadeUpdatePolicy" Type="Str">Asynchronous</Property>
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_graph_view_direction_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">property_graph_view_direction</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Sets the direction to view the 3D graph.
+
+
+
+</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Graph:View Direction</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_graph_view_direction_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_graph_view_direction_read.vi"/>
+				<Item Name="property_graph_view_direction_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_graph_view_direction_write.vi"/>
+			</Item>
+			<Item Name="Fast Draw" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.FacadeUpdatePolicy" Type="Str">Asynchronous</Property>
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_graph_fast_draw_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">property_graph_fast_draw</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Speeds up the pan, zoom, and rotate operations on the 3D graph. LabVIEW removes geometries when performing pan, zoom, or rotate to speed up the rotate operations.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Graph:Fast Draw</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_graph_fast_draw_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_graph_fast_draw_read.vi"/>
+				<Item Name="property_graph_fast_draw_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_graph_fast_draw_write.vi"/>
+			</Item>
+			<Item Name="3d Picture Control Reference" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.FacadeUpdatePolicy" Type="Str">Asynchronous</Property>
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_graph_reference_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">property_graph_reference_read</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Reference to the 3D graph.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Graph:3d Picture Control Reference</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_graph_reference_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_graph_reference_read.vi"/>
+			</Item>
+			<Item Name="X-Y Grid Visible" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.FacadeUpdatePolicy" Type="Str">Asynchronous</Property>
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_graph_xy_grid_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">X-Y Grid Visible</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">View the 3D graph in the direction of the X-Y plane.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Graph:X-Y Grid Visible</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_graph_xy_grid_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_graph_xy_grid_read.vi"/>
+				<Item Name="property_graph_xy_grid_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_graph_xy_grid_write.vi"/>
+			</Item>
+			<Item Name="Y-Z Grid Visible" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.FacadeUpdatePolicy" Type="Str">Asynchronous</Property>
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_graph_yz_grid_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Y-Z Grid Visible</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">View the 3D graph in the direction of the Y-Z plane.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Graph:Y-Z Grid Visible</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_graph_yz_grid_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_graph_yz_grid_read.vi"/>
+				<Item Name="property_graph_yz_grid_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_graph_yz_grid_write.vi"/>
+			</Item>
+			<Item Name="X-Z Grid Visible" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.FacadeUpdatePolicy" Type="Str">Asynchronous</Property>
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_graph_xz_grid_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">X-Z Grid Visible</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">View the 3D graph in the direction of the X-Z plane.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Graph:X-Z Grid Visible</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_graph_xz_grid_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_graph_xz_grid_read.vi"/>
+				<Item Name="property_graph_xz_grid_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_graph_xz_grid_write.vi"/>
+			</Item>
+			<Item Name="Lighting" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.FacadeUpdatePolicy" Type="Str">Asynchronous</Property>
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_graph_lighting_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Lighting</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Enables all lighting effects in the 3D scene.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Graph:Lighting</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_graph_lighting_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_graph_lighting_read.vi"/>
+				<Item Name="property_graph_lighting_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_graph_lighting_write.vi"/>
+			</Item>
+			<Item Name="Disable Updates" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_graph_disable_updates_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Disable Updates</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Disables updates to the 3D graph. If you do not want the 3D graph to render for each property you write, use this property to disable updates to the 3D graph.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Graph:Disable Updates</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_graph_disable_updates_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_graph_disable_updates_read.vi"/>
+				<Item Name="property_graph_disable_updates_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_graph_disable_updates_write.vi"/>
+			</Item>
+		</Item>
+		<Item Name="Plots" Type="Folder">
+			<Item Name="Active Plot" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.FacadeUpdatePolicy" Type="Str">Asynchronous</Property>
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_plots_active_plot_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Active Plot</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Gets or sets the active plot. After you get or set the active plot, you then can set properties or invoke methods that affect only the specified plot.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Plots:Active Plot</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_plots_active_plot_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_plots_active_plot_read.vi"/>
+				<Item Name="property_plots_active_plot_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_plots_active_plot_write.vi"/>
+			</Item>
+			<Item Name="Draw XY Projection" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.FacadeUpdatePolicy" Type="Str">Asynchronous</Property>
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_draw_xy_projection_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Draw XY Projection</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Displays the projection of the 3D graph on the X-Y plane.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Plots:Draw XY Projection</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_draw_xy_projection_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_draw_xy_projection_read.vi"/>
+				<Item Name="property_draw_xy_projection_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_draw_xy_projection_write.vi"/>
+			</Item>
+			<Item Name="Draw YZ Projection" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.FacadeUpdatePolicy" Type="Str">Asynchronous</Property>
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_draw_yz_projection_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Draw YZ Projection</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Displays the projection of the 3D graph on the Y-Z plane.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Plots:Draw YZ Projection</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_draw_yz_projection_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_draw_yz_projection_read.vi"/>
+				<Item Name="property_draw_yz_projection_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_draw_yz_projection_write.vi"/>
+			</Item>
+			<Item Name="Draw XZ Projection" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.FacadeUpdatePolicy" Type="Str">Asynchronous</Property>
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_draw_xz_projection_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Draw XZ Projection</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Displays the projection of the 3D graph on the X-Z plane.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Plots:Draw XZ Projection</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_draw_xz_projection_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_draw_xz_projection_read.vi"/>
+				<Item Name="property_draw_xz_projection_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_draw_xz_projection_write.vi"/>
+			</Item>
+			<Item Name="Surface Draw" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.FacadeUpdatePolicy" Type="Str">Asynchronous</Property>
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_surface_draw_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Surface Draw</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Draws the 3D graph surface.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Plots:Surface Draw</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_surface_draw_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_surface_draw_read.vi"/>
+				<Item Name="property_surface_draw_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_surface_draw_write.vi"/>
+			</Item>
+			<Item Name="Surface Color Map" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.FacadeUpdatePolicy" Type="Str">Asynchronous</Property>
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_surface_color_map_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Surface Color Map</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Sets the color of the 3D graph surface.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Plots:Surface Color Map</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_surface_color_map_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_surface_color_map_read.vi"/>
+				<Item Name="property_surface_color_map_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_surface_color_map_write.vi"/>
+			</Item>
+			<Item Name="Surface Opacity" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.FacadeUpdatePolicy" Type="Str">Asynchronous</Property>
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_surface_opacity_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Surface Opacity</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Specifies the level of opacity of the color you apply to the 3D graph surface. Opacity ranges from 0 to 1 where 1 is completely opaque.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Plots:Surface Opacity</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_surface_opacity_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_surface_opacity_read.vi"/>
+				<Item Name="property_surface_opacity_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_surface_opacity_write.vi"/>
+			</Item>
+			<Item Name="Surface Shading" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.FacadeUpdatePolicy" Type="Str">Asynchronous</Property>
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_surface_shading_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Surface Shading</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Applies shading to the 3D graph surface.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Plots:Surface Shading</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_surface_shading_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_surface_shading_read.vi"/>
+				<Item Name="property_surface_shading_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_surface_shading_write.vi"/>
+			</Item>
+			<Item Name="Contour Color" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.FacadeUpdatePolicy" Type="Str">Asynchronous</Property>
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_contour_color_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Contour Color</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Sets the color of the 3D graph contour.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Plots:Contour Color</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_contour_color_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_contour_color_read.vi"/>
+				<Item Name="property_contour_color_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_contour_color_write.vi"/>
+			</Item>
+			<Item Name="Contour Axis" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.FacadeUpdatePolicy" Type="Str">Asynchronous</Property>
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_contour_dimension_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Contour Axis</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Determines the axis of the contour.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Plots:Contour Axis</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_contour_dimension_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_contour_dimension_read.vi"/>
+				<Item Name="property_contour_dimension_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_contour_dimension_write.vi"/>
+			</Item>
+			<Item Name="Contour Draw" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.FacadeUpdatePolicy" Type="Str">Asynchronous</Property>
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_contour_draw_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Contour Draw</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Enables or disables the contour on the 3D graph.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Plots:Contour Draw</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_contour_draw_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_contour_draw_read.vi"/>
+				<Item Name="property_contour_draw_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_contour_draw_write.vi"/>
+			</Item>
+			<Item Name="Contour Antialiasing" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.FacadeUpdatePolicy" Type="Str">Asynchronous</Property>
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_contour_antialiasing_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Contour Antialiasing</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Specifies whether the contour is anti-aliased to smooth lines and edges that appear jagged.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Plots:Contour Antialiasing</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_contour_antialiasing_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_contour_antialiasing_read.vi"/>
+				<Item Name="property_contour_antialiasing_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_contour_antialiasing_write.vi"/>
+			</Item>
+			<Item Name="Contour Width" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.FacadeUpdatePolicy" Type="Str">Asynchronous</Property>
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_contour_width_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Contour Width</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Specifies the width of the contour on the 3D graph object.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Plots:Contour Width</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_contour_width_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_contour_width_read.vi"/>
+				<Item Name="property_contour_width_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_contour_width_write.vi"/>
+			</Item>
+			<Item Name="Contour Mode" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.FacadeUpdatePolicy" Type="Str">Asynchronous</Property>
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_contour_mode_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Contour Mode</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Specifies the mode of the 3D graph contour.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Plots:Contour Mode</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_contour_mode_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_contour_mode_read.vi"/>
+				<Item Name="property_contour_mode_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_contour_mode_write.vi"/>
+			</Item>
+			<Item Name="Contour Levels" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.FacadeUpdatePolicy" Type="Str">Asynchronous</Property>
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_contour_levels_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Contour Levels</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Sets the number of contour lines.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Plots:Contour Levels</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_contour_levels_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_contour_levels_read.vi"/>
+				<Item Name="property_contour_levels_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_contour_levels_write.vi"/>
+			</Item>
+			<Item Name="Contour Interval" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.FacadeUpdatePolicy" Type="Str">Asynchronous</Property>
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_contour_interval_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Contour Interval</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Sets the amount of space between each contour line.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Plots:Contour Interval</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_contour_interval_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_contour_interval_read.vi"/>
+				<Item Name="property_contour_interval_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_contour_interval_write.vi"/>
+			</Item>
+			<Item Name="Contour Level List" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.FacadeUpdatePolicy" Type="Str">Asynchronous</Property>
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_contour_levellist_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Contour Level List</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Sets the value of each contour line.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Plots:Contour Level List</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_contour_levellist_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_contour_levellist_read.vi"/>
+				<Item Name="property_contour_levellist_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_contour_levellist_write.vi"/>
+			</Item>
+			<Item Name="Contour Line Style" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.FacadeUpdatePolicy" Type="Str">Asynchronous</Property>
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_contour_line_style_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Contour Line Style</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Line style of the contour on the 3D graph.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Plots:Contour Line Style</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_contour_line_style_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_contour_line_style_read.vi"/>
+				<Item Name="property_contour_line_style_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_contour_line_style_write.vi"/>
+			</Item>
+			<Item Name="Contour Anchored" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.FacadeUpdatePolicy" Type="Str">Asynchronous</Property>
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_contour_anchored_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Contour Anchored</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Anchors the 3D graph plot.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Plots:Contour Anchored</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_contour_anchored_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_contour_anchored_read.vi"/>
+				<Item Name="property_contour_anchored_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_contour_anchored_write.vi"/>
+			</Item>
+			<Item Name="Contour Anchor Point" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.FacadeUpdatePolicy" Type="Str">Asynchronous</Property>
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_contour_anchor_point_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Contour Anchor Point</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Anchors the 3D graph plot to a specific point.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Plots:Contour Anchor Point</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_contour_anchor_point_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_contour_anchor_point_read.vi"/>
+				<Item Name="property_contour_anchor_point_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_contour_anchor_point_write.vi"/>
+			</Item>
+			<Item Name="Normal Color" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.FacadeUpdatePolicy" Type="Str">Asynchronous</Property>
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_normal_color_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Normal Color</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Sets the color of the 3D graph normal.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Plots:Normal Color</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_normal_color_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_normal_color_read.vi"/>
+				<Item Name="property_normal_color_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_normal_color_write.vi"/>
+			</Item>
+			<Item Name="Normal Length" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.FacadeUpdatePolicy" Type="Str">Asynchronous</Property>
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_normal_length_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Normal Length</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Specifies the length of the normal.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Plots:Normal Length</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_normal_length_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_normal_length_read.vi"/>
+				<Item Name="property_normal_length_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_normal_length_write.vi"/>
+			</Item>
+			<Item Name="Normal Width" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.FacadeUpdatePolicy" Type="Str">Asynchronous</Property>
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_normal_width_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Normal Width</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Specifies the width of the normal.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Plots:Normal Width</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_normal_width_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_normal_width_read.vi"/>
+				<Item Name="property_normal_width_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_normal_width_write.vi"/>
+			</Item>
+			<Item Name="Normal Draw" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.FacadeUpdatePolicy" Type="Str">Asynchronous</Property>
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_normal_draw_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Normal Draw</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Draws the normals of the 3D graph.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Plots:Normal Draw</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_normal_draw_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_normal_draw_read.vi"/>
+				<Item Name="property_normal_draw_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_normal_draw_write.vi"/>
+			</Item>
+			<Item Name="Normal Antialiasing" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.FacadeUpdatePolicy" Type="Str">Asynchronous</Property>
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_normal_antialiasing_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Normal Antialiasing</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Specifies whether the normal is anti-aliased to smooth lines and edges that appear jagged.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Plots:Normal Antialiasing</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_normal_antialiasing_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_normal_antialiasing_read.vi"/>
+				<Item Name="property_normal_antialiasing_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_normal_antialiasing_write.vi"/>
+			</Item>
+			<Item Name="Overlay Color" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.FacadeUpdatePolicy" Type="Str">Asynchronous</Property>
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_points_lines_color_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Overlay Color</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Sets the color of the 3D graph overlay.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Plots:Overlay Color</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_points_lines_color_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_points_lines_color_read.vi"/>
+				<Item Name="property_points_lines_color_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_points_lines_color_write.vi"/>
+			</Item>
+			<Item Name="Overlay" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.FacadeUpdatePolicy" Type="Str">Asynchronous</Property>
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_points_lines_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Overlay</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Displays the overlay on the plot.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Plots:Overlay</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_points_lines_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_points_lines_read.vi"/>
+				<Item Name="property_points_lines_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_points_lines_write.vi"/>
+			</Item>
+			<Item Name="Overlay Antialiasing" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.FacadeUpdatePolicy" Type="Str">Asynchronous</Property>
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_points_lines_antialiasing_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Overlay Antialiasing</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Specifies whether the overlay is anti-aliased to smooth lines and edges that appear jagged.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Plots:Overlay Antialiasing</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_points_lines_antialiasing_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_points_lines_antialiasing_read.vi"/>
+				<Item Name="property_points_lines_antialiasing_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_points_lines_antialiasing_write.vi"/>
+			</Item>
+			<Item Name="Overlay Point Size" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.FacadeUpdatePolicy" Type="Str">Asynchronous</Property>
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_points_lines_point_size_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Overlay Width</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Specifies the size and width of the point of the overlay.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Plots:Overlay Point Size</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_points_lines_point_size_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_points_lines_point_size_read.vi"/>
+				<Item Name="property_points_lines_point_size_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_points_lines_point_size_write.vi"/>
+			</Item>
+			<Item Name="Overlay Line Width" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.FacadeUpdatePolicy" Type="Str">Asynchronous</Property>
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_points_lines_line_width_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Overlay Line Width</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Specifies the width of the overlay lines on the 3D graph.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Plots:Overlay Line Width</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_points_lines_line_width_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_points_lines_line_width_read.vi"/>
+				<Item Name="property_points_lines_line_width_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_points_lines_line_width_write.vi"/>
+			</Item>
+			<Item Name="Overlay Point Style" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.FacadeUpdatePolicy" Type="Str">Asynchronous</Property>
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_points_lines_point_style_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Overlay Point Style</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Sets the point style for the points on the plot overlay.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Plots:Overlay Point Style</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_points_lines_point_style_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_points_lines_point_style_read.vi"/>
+				<Item Name="property_points_lines_point_style_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_points_lines_point_style_write.vi"/>
+			</Item>
+			<Item Name="Overlay Line Style" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.FacadeUpdatePolicy" Type="Str">Asynchronous</Property>
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_points_lines_line_style_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Overlay Line Style</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Sets the line style for the lines on the plot overlay.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Plots:Overlay Line Style</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_points_lines_line_style_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_points_lines_line_style_read.vi"/>
+				<Item Name="property_points_lines_line_style_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_points_lines_line_style_write.vi"/>
+			</Item>
+			<Item Name="Surface Shininess" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.FacadeUpdatePolicy" Type="Str">Asynchronous</Property>
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_surface_shininess_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Surface Shininess</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Applies shine to the 3D graph surface.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Plots:Surface Shininess</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_surface_shininess_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_surface_shininess_read.vi"/>
+				<Item Name="property_surface_shininess_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_surface_shininess_write.vi"/>
+			</Item>
+			<Item Name="Coordinate System" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.FacadeUpdatePolicy" Type="Str">Asynchronous</Property>
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_plots_coordinate_system_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Coordinate System</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Configures the coordinate system of the 3D graph surface.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Plots:Coordinate System</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_plots_coordinate_system_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_plots_coordinate_system_read.vi"/>
+				<Item Name="property_plots_coordinate_system_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_plots_coordinate_system_write.vi"/>
+			</Item>
+			<Item Name="Interpolate Color Map" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Interpolate Color Map</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Interpolate Color Map</Property>
+				<Item Name="property_surface_interpolate_color_map_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_surface_interpolate_color_map_read.vi"/>
+				<Item Name="property_surface_interpolate_color_map_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_surface_interpolate_color_map_write.vi"/>
+			</Item>
+			<Item Name="Color Map Mode" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Color Map Mode</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Color Map Mode</Property>
+				<Item Name="property_surface_color_map_mode_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_surface_color_map_mode_read.vi"/>
+				<Item Name="property_surface_color_map_mode_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_surface_color_map_mode_write.vi"/>
+			</Item>
+		</Item>
+		<Item Name="Axes" Type="Folder">
+			<Item Name="Active Axis" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.FacadeUpdatePolicy" Type="Str">Asynchronous</Property>
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_axes_active_axis_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Active Axes</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Sets the axis you want to configure.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Axes:Active Axis</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_axes_active_axis_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_axes_active_axis_read.vi"/>
+				<Item Name="property_axes_active_axis_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_axes_active_axis_write.vi"/>
+			</Item>
+			<Item Name="Caption Visible" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.FacadeUpdatePolicy" Type="Str">Asynchronous</Property>
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_axes_caption_visible_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Caption Visible</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Displays the axis caption in the 3D graph.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Axes:Caption Visible</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_axes_caption_visible_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_axes_caption_visible_read.vi"/>
+				<Item Name="property_axes_caption_visible_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_axes_caption_visible_write.vi"/>
+			</Item>
+			<Item Name="Caption Color" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.FacadeUpdatePolicy" Type="Str">Asynchronous</Property>
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_axes_caption_color_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Caption Color</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Sets the color of the axis caption.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Axes:Caption Color</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_axes_caption_color_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_axes_caption_color_read.vi"/>
+				<Item Name="property_axes_caption_color_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_axes_caption_color_write.vi"/>
+			</Item>
+			<Item Name="Caption Font Size" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.FacadeUpdatePolicy" Type="Str">Asynchronous</Property>
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_axes_caption_font_size_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Caption Font Size</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Sets the font size of the caption for the axis.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Axes:Caption Font Size</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_axes_caption_font_size_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_axes_caption_font_size_read.vi"/>
+				<Item Name="property_axes_caption_font_size_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_axes_caption_font_size_write.vi"/>
+			</Item>
+			<Item Name="Caption Text" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.FacadeUpdatePolicy" Type="Str">Asynchronous</Property>
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_axes_caption_text_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Caption Text</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Configures the text of the axis caption to display on the 3D graph.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Axes:Caption Text</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_axes_caption_text_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_axes_caption_text_read.vi"/>
+				<Item Name="property_axes_caption_text_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_axes_caption_text_write.vi"/>
+			</Item>
+			<Item Name="Grid Visible" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.FacadeUpdatePolicy" Type="Str">Asynchronous</Property>
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_axes_grid_visible_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Grid Visible</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Displays the axis grid in the 3D graph.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Axes:Grid Visible</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_axes_grid_visible_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_axes_grid_visible_read.vi"/>
+				<Item Name="property_axes_grid_visible_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_axes_grid_visible_write.vi"/>
+			</Item>
+			<Item Name="Grid Color" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.FacadeUpdatePolicy" Type="Str">Asynchronous</Property>
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_axes_grid_color_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Grid Color</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Sets the color of the axis grid on the 3D graph.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Axes:Grid Color</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_axes_grid_color_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_axes_grid_color_read.vi"/>
+				<Item Name="property_axes_grid_color_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_axes_grid_color_write.vi"/>
+			</Item>
+			<Item Name="Major Tick Visible" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.FacadeUpdatePolicy" Type="Str">Asynchronous</Property>
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_axes_major_tick_visible_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Major Tick Visible</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Displays the major tick marks on the axis in the 3D graph.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Axes:Major Tick Visible</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_axes_major_tick_visible_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_axes_major_tick_visible_read.vi"/>
+				<Item Name="property_axes_major_tick_visible_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_axes_major_tick_visible_write.vi"/>
+			</Item>
+			<Item Name="Tick Color" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.FacadeUpdatePolicy" Type="Str">Asynchronous</Property>
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_axes_tick_color_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Major Tick Color</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Sets the color of the tick marks on the axis.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Axes:Tick Color</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_axes_tick_color_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_axes_tick_color_read.vi"/>
+				<Item Name="property_axes_tick_color_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_axes_tick_color_write.vi"/>
+			</Item>
+			<Item Name="Major Tick Count" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.FacadeUpdatePolicy" Type="Str">Asynchronous</Property>
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_axes_major_tick_count_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Major Tick Count</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Specifies the number of major tick marks that appear on the axis. Major Tick Count also determines the number of grid lines and value labels.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Axes:Major Tick Count</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_axes_major_tick_count_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_axes_major_tick_count_read.vi"/>
+				<Item Name="property_axes_major_tick_count_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_axes_major_tick_count_write.vi"/>
+			</Item>
+			<Item Name="Minor Tick Visible" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.FacadeUpdatePolicy" Type="Str">Asynchronous</Property>
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_axes_minor_tick_visible_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Minor Tick Visible</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Sets the visibility of minor tick marks on the axis.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Axes:Minor Tick Visible</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_axes_minor_tick_visible_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_axes_minor_tick_visible_read.vi"/>
+				<Item Name="property_axes_minor_tick_visible_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_axes_minor_tick_visible_write.vi"/>
+			</Item>
+			<Item Name="Minor Tick Count" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.FacadeUpdatePolicy" Type="Str">Asynchronous</Property>
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_axes_minor_tick_count_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Minor Tick Count</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Specifies the number of minor tick marks on the axis.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Axes:Minor Tick Count</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_axes_minor_tick_count_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_axes_minor_tick_count_read.vi"/>
+				<Item Name="property_axes_minor_tick_count_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_axes_minor_tick_count_write.vi"/>
+			</Item>
+			<Item Name="Label Visible" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.FacadeUpdatePolicy" Type="Str">Asynchronous</Property>
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_axes_label_visible_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Label Visible</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Displays the axis label in the 3D graph.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Axes:Label Visible</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_axes_label_visible_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_axes_label_visible_read.vi"/>
+				<Item Name="property_axes_label_visible_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_axes_label_visible_write.vi"/>
+			</Item>
+			<Item Name="Label Color" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.FacadeUpdatePolicy" Type="Str">Asynchronous</Property>
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_axes_label_color_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Label Color</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Sets the color of the axis label.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Axes:Label Color</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_axes_label_color_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_axes_label_color_read.vi"/>
+				<Item Name="property_axes_label_color_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_axes_label_color_write.vi"/>
+			</Item>
+			<Item Name="Label Font Size" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.FacadeUpdatePolicy" Type="Str">Asynchronous</Property>
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_axes_label_font_size_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Label Font Size</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Specifies the font size of the label for the axes on the 3D graph.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Axes:Label Font Size</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_axes_label_font_size_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_axes_label_font_size_read.vi"/>
+				<Item Name="property_axes_label_font_size_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_axes_label_font_size_write.vi"/>
+			</Item>
+			<Item Name="Range Autoscale" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.FacadeUpdatePolicy" Type="Str">Asynchronous</Property>
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_axes_range_autoscale_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Range Autoscale</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Adjusts the scale automatically to reflect the data you wire to the 3D graph.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Axes:Range Autoscale</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_axes_range_autoscale_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_axes_range_autoscale_read.vi"/>
+				<Item Name="property_axes_range_autoscale_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_axes_range_autoscale_write.vi"/>
+			</Item>
+			<Item Name="Range Maximum" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.FacadeUpdatePolicy" Type="Str">Asynchronous</Property>
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_axes_range_maximum_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Range Maximum</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Sets the maximum value of the scale.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Axes:Range Maximum</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_axes_range_maximum_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_axes_range_maximum_read.vi"/>
+				<Item Name="property_axes_range_maximum_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_axes_range_maximum_write.vi"/>
+			</Item>
+			<Item Name="Range Minimum" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.FacadeUpdatePolicy" Type="Str">Asynchronous</Property>
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_axes_range_minimum_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Range Minimum</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Sets the minimum value of the scale.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Axes:Range Minimum</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_axes_range_minimum_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_axes_range_minimum_read.vi"/>
+				<Item Name="property_axes_range_minimum_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_axes_range_minimum_write.vi"/>
+			</Item>
+			<Item Name="Label Opposite Visible" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.FacadeUpdatePolicy" Type="Str">Asynchronous</Property>
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_axes_label_opposite_visible_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Label Opposite Visible</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Displays the axis label on the opposite side of the grid that the Axes:Label Visible property displays the label.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Axes:Label Opposite Visible</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_axes_label_opposite_visible_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_axes_label_opposite_visible_read.vi"/>
+				<Item Name="property_axes_label_opposite_visible_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_axes_label_opposite_visible_write.vi"/>
+			</Item>
+			<Item Name="Caption Opposite Visible" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.FacadeUpdatePolicy" Type="Str">Asynchronous</Property>
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_axes_caption_opposite_visible_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Caption Opposite Visible</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Displays the axis caption on the opposite side of the axis that the Axes:Caption Visible property displays the caption.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Axes:Caption Opposite Visible</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_axes_caption_opposite_visible_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_axes_caption_opposite_visible_read.vi"/>
+				<Item Name="property_axes_caption_opposite_visible_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_axes_caption_opposite_visible_write.vi"/>
+			</Item>
+		</Item>
+		<Item Name="Value Pairs" Type="Folder">
+			<Item Name="X Value Pairs Data Array" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.FacadeUpdatePolicy" Type="Str">Asynchronous</Property>
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_valuepairs_data_array_x_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">X Value Pairs Data Array</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Lists the index, name, and value of the value pairs you want to display on the 3D graph.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Value Pairs:X Value Pairs Data Array</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_valuepairs_data_array_x_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_valuepairs_data_array_x_read.vi"/>
+				<Item Name="property_valuepairs_data_array_x_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_valuepairs_data_array_x_write.vi"/>
+			</Item>
+			<Item Name="X Value Pairs Show Ticks" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.FacadeUpdatePolicy" Type="Str">Asynchronous</Property>
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_valuepairs_show_ticks_x_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">X Value Pairs Show Ticks</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Displays tick marks on the 3D graph for the value pairs you configure.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Value Pairs:X Value Pairs Show Ticks</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_valuepairs_show_ticks_x_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_valuepairs_show_ticks_x_read.vi"/>
+				<Item Name="property_valuepairs_show_ticks_x_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_valuepairs_show_ticks_x_write.vi"/>
+			</Item>
+			<Item Name="X Value Pairs Show Grid Lines" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.FacadeUpdatePolicy" Type="Str">Asynchronous</Property>
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_valuepairs_show_grid_lines_x_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">X Value Pairs Show Grid Lines</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Displays grid lines for each value pair. The grid line appears on the graph at the corresponding value.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Value Pairs:X Value Pairs Show Grid Lines</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_valuepairs_show_grid_lines_x_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_valuepairs_show_grid_lines_x_read.vi"/>
+				<Item Name="property_valuepairs_show_grid_lines_x_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_valuepairs_show_grid_lines_x_write.vi"/>
+			</Item>
+			<Item Name="X Value Pairs Labels" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.FacadeUpdatePolicy" Type="Str">Asynchronous</Property>
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_valuepairs_labels_x_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">X Value Pairs Labels</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Specifies how value pairs appear on the 3D graph.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Value Pairs:X Value Pairs Labels</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_valuepairs_labels_x_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_valuepairs_labels_x_read.vi"/>
+				<Item Name="property_valuepairs_labels_x_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_valuepairs_labels_x_write.vi"/>
+			</Item>
+			<Item Name="Y Value Pairs Data Array" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.FacadeUpdatePolicy" Type="Str">Asynchronous</Property>
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_valuepairs_data_array_y_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Y Value Pairs Data Array</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Lists the index, name, and value of the value pairs you want to display on the 3D graph.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Value Pairs:Y Value Pairs Data Array</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_valuepairs_data_array_y_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_valuepairs_data_array_y_read.vi"/>
+				<Item Name="property_valuepairs_data_array_y_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_valuepairs_data_array_y_write.vi"/>
+			</Item>
+			<Item Name="Y Value Pairs Show Ticks" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.FacadeUpdatePolicy" Type="Str">Asynchronous</Property>
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_valuepairs_show_ticks_y_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Y Value Pairs Show Ticks</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Displays tick marks on the 3D graph for the value pairs you configure.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Value Pairs:Y Value Pairs Show Ticks</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_valuepairs_show_ticks_y_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_valuepairs_show_ticks_y_read.vi"/>
+				<Item Name="property_valuepairs_show_ticks_y_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_valuepairs_show_ticks_y_write.vi"/>
+			</Item>
+			<Item Name="Y Value Pairs Show Grid Lines" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.FacadeUpdatePolicy" Type="Str">Asynchronous</Property>
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_valuepairs_show_grid_lines_y_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Y Value Pairs Show Grid Lines</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Displays grid lines for each value pair. The grid line appears on the graph at the corresponding value.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Value Pairs:Y Value Pairs Show Grid Lines</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_valuepairs_show_grid_lines_y_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_valuepairs_show_grid_lines_y_read.vi"/>
+				<Item Name="property_valuepairs_show_grid_lines_y_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_valuepairs_show_grid_lines_y_write.vi"/>
+			</Item>
+			<Item Name="Y Value Pairs Labels" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.FacadeUpdatePolicy" Type="Str">Asynchronous</Property>
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_valuepairs_labels_y_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Y Value Pairs Labels</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Specifies how value pairs appear on the 3D graph.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Value Pairs:Y Value Pairs Labels</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_valuepairs_labels_y_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_valuepairs_labels_y_read.vi"/>
+				<Item Name="property_valuepairs_labels_y_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_valuepairs_labels_y_write.vi"/>
+			</Item>
+			<Item Name="Z Value Pairs Data Array" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.FacadeUpdatePolicy" Type="Str">Asynchronous</Property>
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_valuepairs_data_array_z_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Z Value Pairs Data Array</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Lists the index, name, and value of the value pairs you want to display on the 3D graph.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Value Pairs:Z Value Pairs Data Array</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_valuepairs_data_array_z_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_valuepairs_data_array_z_read.vi"/>
+				<Item Name="property_valuepairs_data_array_z_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_valuepairs_data_array_z_write.vi"/>
+			</Item>
+			<Item Name="Z Value Pairs Show Ticks" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.FacadeUpdatePolicy" Type="Str">Asynchronous</Property>
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_valuepairs_show_ticks_z_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Z Value Pairs Show Ticks</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Displays tick marks on the 3D graph for the value pairs you configure.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Value Pairs:Z Value Pairs Show Ticks</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_valuepairs_show_ticks_z_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_valuepairs_show_ticks_z_read.vi"/>
+				<Item Name="property_valuepairs_show_ticks_z_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_valuepairs_show_ticks_z_write.vi"/>
+			</Item>
+			<Item Name="Z Value Pairs Show Grid Lines" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.FacadeUpdatePolicy" Type="Str">Asynchronous</Property>
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_valuepairs_show_grid_lines_z_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Z Value Pairs Show Grid Lines</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Displays grid lines for each value pair. The grid line appears on the graph at the corresponding value.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Value Pairs:Z Value Pairs Show Grid Lines</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_valuepairs_show_grid_lines_z_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_valuepairs_show_grid_lines_z_read.vi"/>
+				<Item Name="property_valuepairs_show_grid_lines_z_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_valuepairs_show_grid_lines_z_write.vi"/>
+			</Item>
+			<Item Name="Z Value Pairs Labels" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.FacadeUpdatePolicy" Type="Str">Asynchronous</Property>
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_valuepairs_labels_z_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Z Value Pairs Labels</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Specifies how value pairs appear on the 3D graph.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Value Pairs:Z Value Pairs Labels</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_valuepairs_labels_z_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_valuepairs_labels_z_read.vi"/>
+				<Item Name="property_valuepairs_labels_z_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_valuepairs_labels_z_write.vi"/>
+			</Item>
+		</Item>
+		<Item Name="Format" Type="Folder">
+			<Item Name="X Axis Format String" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.FacadeUpdatePolicy" Type="Str">Asynchronous</Property>
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_format_string_x_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">X Axis Format String</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Sets the formatting for the x-axis.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Format:X Axis Format String</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_format_string_x_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_format_string_x_read.vi"/>
+				<Item Name="property_format_string_x_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_format_string_x_write.vi"/>
+			</Item>
+			<Item Name="Y Axis Format String" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.FacadeUpdatePolicy" Type="Str">Asynchronous</Property>
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_format_string_y_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Y Axis Format String</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Sets the formatting for the y-axis.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Format:Y Axis Format String</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_format_string_y_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_format_string_y_read.vi"/>
+				<Item Name="property_format_string_y_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_format_string_y_write.vi"/>
+			</Item>
+			<Item Name="Z Axis Format String" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.FacadeUpdatePolicy" Type="Str">Asynchronous</Property>
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_format_string_z_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Z Axis Format String</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Sets the formatting for the z-axis.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Format:Z Axis Format String</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_format_string_z_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_format_string_z_read.vi"/>
+				<Item Name="property_format_string_z_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_format_string_z_write.vi"/>
+			</Item>
+		</Item>
+		<Item Name="Cursors" Type="Folder">
+			<Item Name="Active Cursor" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.FacadeUpdatePolicy" Type="Str">Asynchronous</Property>
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_cursors_active_cursor_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Active Cursor</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Sets the cursor you want to configure.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Cursors:Active Cursor</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_cursors_active_cursor_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_cursors_active_cursor_read.vi"/>
+				<Item Name="property_cursors_active_cursor_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_cursors_active_cursor_write.vi"/>
+			</Item>
+			<Item Name="Cursor Visible" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.FacadeUpdatePolicy" Type="Str">Asynchronous</Property>
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_cursors_visible_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Cursor Visible</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Displays the cursor in the 3D scene.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Cursors:Cursor Visible</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_cursors_visible_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_cursors_visible_read.vi"/>
+				<Item Name="property_cursors_visible_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_cursors_visible_write.vi"/>
+			</Item>
+			<Item Name="Cursor Enable" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.FacadeUpdatePolicy" Type="Str">Asynchronous</Property>
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_cursors_enable_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Cursor Enable</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Enables you to move the cursor you configure around the 3D graph.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Cursors:Cursor Enable</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_cursors_enable_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_cursors_enable_read.vi"/>
+				<Item Name="property_cursors_enable_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_cursors_enable_write.vi"/>
+			</Item>
+			<Item Name="Cursor Point Visible" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.FacadeUpdatePolicy" Type="Str">Asynchronous</Property>
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_cursors_point_visible_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Cursor Point Visible</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Displays the cursor point on the 3D graph.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Cursors:Cursor Point Visible</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_cursors_point_visible_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_cursors_point_visible_read.vi"/>
+				<Item Name="property_cursors_point_visible_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_cursors_point_visible_write.vi"/>
+			</Item>
+			<Item Name="Cursor Point Color" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.FacadeUpdatePolicy" Type="Str">Asynchronous</Property>
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_cursors_point_color_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Cursor Point Color</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Sets the color of the cursor point on the 3D graph.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Cursors:Cursor Point Color</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_cursors_point_color_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_cursors_point_color_read.vi"/>
+				<Item Name="property_cursors_point_color_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_cursors_point_color_write.vi"/>
+			</Item>
+			<Item Name="Cursor Point Size" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.FacadeUpdatePolicy" Type="Str">Asynchronous</Property>
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_cursors_point_size_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Cursor Point Size</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Specifies the size of the point on the cursor.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Cursors:Cursor Point Size</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_cursors_point_size_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_cursors_point_size_read.vi"/>
+				<Item Name="property_cursors_point_size_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_cursors_point_size_write.vi"/>
+			</Item>
+			<Item Name="Cursor X Position" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.FacadeUpdatePolicy" Type="Str">Asynchronous</Property>
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_cursors_position_x_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Cursor X Position</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Displays the position of the cursor on the x-axis.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Cursors:Cursor X Position</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_cursors_position_x_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_cursors_position_x_read.vi"/>
+				<Item Name="property_cursors_position_x_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_cursors_position_x_write.vi"/>
+			</Item>
+			<Item Name="Cursor Y Position" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.FacadeUpdatePolicy" Type="Str">Asynchronous</Property>
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_cursors_position_y_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Cursor Y Position</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Displays the position of the cursor on the y-axis.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Cursors:Cursor Y Position</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_cursors_position_y_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_cursors_position_y_read.vi"/>
+				<Item Name="property_cursors_position_y_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_cursors_position_y_write.vi"/>
+			</Item>
+			<Item Name="Cursor Z Position" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.FacadeUpdatePolicy" Type="Str">Asynchronous</Property>
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_cursors_position_z_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Cursor Z Position</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Displays the position of the cursor on the z-axis.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Cursors:Cursor Z Position</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_cursors_position_z_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_cursors_position_z_read.vi"/>
+				<Item Name="property_cursors_position_z_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_cursors_position_z_write.vi"/>
+			</Item>
+			<Item Name="Cursor Lock Style" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.FacadeUpdatePolicy" Type="Str">Asynchronous</Property>
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_cursors_lock_style_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Cursor Lock Style</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Sets the style of the cursor lock.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Cursors:Cursor Lock Style</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_cursors_lock_style_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_cursors_lock_style_read.vi"/>
+				<Item Name="property_cursors_lock_style_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_cursors_lock_style_write.vi"/>
+			</Item>
+			<Item Name="Cursor Plot" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.FacadeUpdatePolicy" Type="Str">Asynchronous</Property>
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_cursors_plot_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Cursor Plot</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Sets the plot you want to configure.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Cursors:Cursor Plot</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_cursors_plot_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_cursors_plot_read.vi"/>
+				<Item Name="property_cursors_plot_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_cursors_plot_write.vi"/>
+			</Item>
+			<Item Name="Cursor Row" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.FacadeUpdatePolicy" Type="Str">Asynchronous</Property>
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_cursors_row_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Cursor Row</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Sets the visibility of the cursor row.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Cursors:Cursor Row</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_cursors_row_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_cursors_row_read.vi"/>
+				<Item Name="property_cursors_row_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_cursors_row_write.vi"/>
+			</Item>
+			<Item Name="Cursor Column" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.FacadeUpdatePolicy" Type="Str">Asynchronous</Property>
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_cursors_column_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Cursor Column</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Sets the style of the cursor column.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Cursors:Cursor Column</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_cursors_column_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_cursors_column_read.vi"/>
+				<Item Name="property_cursors_column_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_cursors_column_write.vi"/>
+			</Item>
+			<Item Name="Cursor Line Visible" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.FacadeUpdatePolicy" Type="Str">Asynchronous</Property>
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_cursors_line_visible_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Cursor Line Visible</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Displays the cursor line on the 3D graph.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Cursors:Cursor Line Visible</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_cursors_line_visible_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_cursors_line_visible_read.vi"/>
+				<Item Name="property_cursors_line_visible_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_cursors_line_visible_write.vi"/>
+			</Item>
+			<Item Name="Cursor Line Color" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.FacadeUpdatePolicy" Type="Str">Asynchronous</Property>
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_cursors_line_color_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Cursor Line Color</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Sets the color of the cursor line.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Cursors:Cursor Line Color</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_cursors_line_color_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_cursors_line_color_read.vi"/>
+				<Item Name="property_cursors_line_color_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_cursors_line_color_write.vi"/>
+			</Item>
+			<Item Name="Cursor Line Width" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.FacadeUpdatePolicy" Type="Str">Asynchronous</Property>
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_cursors_line_width_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Cursor Line Width</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Specifies the width of the cursor line on the 3D graph.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Cursors:Cursor Line Width</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_cursors_line_width_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_cursors_line_width_read.vi"/>
+				<Item Name="property_cursors_line_width_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_cursors_line_width_write.vi"/>
+			</Item>
+			<Item Name="Cursor Plane Opacity" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.FacadeUpdatePolicy" Type="Str">Asynchronous</Property>
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_cursors_plane_opacity_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Cursor Plane Opacity</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Specifies the level of opacity of the color you apply to the cursor plane. Opacity ranges from 0 to 1 where 1 is completely opaque.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Cursors:Cursor Plane Opacity</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_cursors_plane_opacity_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_cursors_plane_opacity_read.vi"/>
+				<Item Name="property_cursors_plane_opacity_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_cursors_plane_opacity_write.vi"/>
+			</Item>
+			<Item Name="Cursor Plane Color" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.FacadeUpdatePolicy" Type="Str">Asynchronous</Property>
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_cursors_plane_color_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Cursor Plane Color</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Sets the color of the cursor plane on the 3D graph.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Cursors:Cursor Plane Color</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_cursors_plane_color_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_cursors_plane_color_read.vi"/>
+				<Item Name="property_cursors_plane_color_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_cursors_plane_color_write.vi"/>
+			</Item>
+			<Item Name="Cursor Plane XY" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.FacadeUpdatePolicy" Type="Str">Asynchronous</Property>
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_cursors_plane_XY_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Cursor Plane XY</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Displays the X-Y cursor plane on the 3D graph.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Cursors:Cursor Plane XY</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_cursors_plane_XY_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_cursors_plane_XY_read.vi"/>
+				<Item Name="property_cursors_plane_XY_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_cursors_plane_XY_write.vi"/>
+			</Item>
+			<Item Name="Cursor Plane YZ" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.FacadeUpdatePolicy" Type="Str">Asynchronous</Property>
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_cursors_plane_YZ_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Cursor Plane YZ</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Displays the Y-Z cursor plane on the 3D graph.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Cursors:Cursor Plane YZ</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_cursors_plane_YZ_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_cursors_plane_YZ_read.vi"/>
+				<Item Name="property_cursors_plane_YZ_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_cursors_plane_YZ_write.vi"/>
+			</Item>
+			<Item Name="Cursor Plane XZ" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.FacadeUpdatePolicy" Type="Str">Asynchronous</Property>
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_cursors_plane_XZ_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Cursor Plane XZ</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Displays the X-Z cursor plane on the 3D graph.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Cursors:Cursor Plane XZ</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_cursors_plane_XZ_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_cursors_plane_XZ_read.vi"/>
+				<Item Name="property_cursors_plane_XZ_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_cursors_plane_XZ_write.vi"/>
+			</Item>
+			<Item Name="Cursor Font Size" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.FacadeUpdatePolicy" Type="Str">Asynchronous</Property>
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_cursors_font_size_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Cursor Font Size</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Specifies the font size of the cursor name and values on the 3D graph.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Cursors:Cursor Font Size</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_cursors_font_size_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_cursors_font_size_read.vi"/>
+				<Item Name="property_cursors_font_size_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_cursors_font_size_write.vi"/>
+			</Item>
+			<Item Name="Cursor Show Position" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.FacadeUpdatePolicy" Type="Str">Asynchronous</Property>
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_cursors_show_position_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Cursor Show Position</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Displays the cursor position on the 3D graph.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Cursors:Cursor Show Position</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_cursors_show_position_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_cursors_show_position_read.vi"/>
+				<Item Name="property_cursors_show_position_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_cursors_show_position_write.vi"/>
+			</Item>
+			<Item Name="Cursor Show Name" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.FacadeUpdatePolicy" Type="Str">Asynchronous</Property>
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_cursors_show_name_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Cursor Show Name</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Displays the cursor name on the 3D graph.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Cursors:Cursor Show Name</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_cursors_show_name_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_cursors_show_name_read.vi"/>
+				<Item Name="property_cursors_show_name_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_cursors_show_name_write.vi"/>
+			</Item>
+			<Item Name="Cursor Text Color" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.FacadeUpdatePolicy" Type="Str">Asynchronous</Property>
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_cursors_text_color_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Cursor Text Color</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Specifies the color of the cursor text on the 3D graph.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Cursors:Cursor Text Color</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_cursors_text_color_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_cursors_text_color_read.vi"/>
+				<Item Name="property_cursors_text_color_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_cursors_text_color_write.vi"/>
+			</Item>
+			<Item Name="Cursor Text Background Color" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.FacadeUpdatePolicy" Type="Str">Asynchronous</Property>
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_cursors_text_background_color_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Cursor Text Background Color</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Specifies the color of the cursor text background on the 3D graph.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Cursors:Cursor Text Background Color</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_cursors_text_background_color_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_cursors_text_background_color_read.vi"/>
+				<Item Name="property_cursors_text_background_color_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_cursors_text_background_color_write.vi"/>
+			</Item>
+			<Item Name="Cursor Text Opacity" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.FacadeUpdatePolicy" Type="Str">Asynchronous</Property>
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_cursors_text_opacity_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Cursor Text Opacity</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Specifies the level of opacity of the color you apply to the cursor text. Opacity ranges from 0 to 1 where 1 is completely opaque.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Cursors:Cursor Text Opacity</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_cursors_text_opacity_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_cursors_text_opacity_read.vi"/>
+				<Item Name="property_cursors_text_opacity_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_cursors_text_opacity_write.vi"/>
+			</Item>
+			<Item Name="Cursor List" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_cursor_list_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Cursor List</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Specifies the cursor list that allows the user to manually edit the cursor data.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Cursors:Cursor List</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_cursor_list_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_cursor_list_read.vi"/>
+				<Item Name="property_cursor_list_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_cursor_list_write.vi"/>
+			</Item>
+		</Item>
+		<Item Name="Lights" Type="Folder">
+			<Item Name="Light Brightness" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.FacadeUpdatePolicy" Type="Str">Asynchronous</Property>
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_light_brightness_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Light Brightness</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Sets the level of brightness of the lights in the 3D scene.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Lights:Brightness</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_light_brightness_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_light_brightness_read.vi"/>
+				<Item Name="property_light_brightness_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_light_brightness_write.vi"/>
+			</Item>
+			<Item Name="Light Focus" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.FacadeUpdatePolicy" Type="Str">Asynchronous</Property>
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_light_focus_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Light Focus</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Sets the level of focus of the lights in the 3D scene.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Lights:Focus</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_light_focus_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_light_focus_read.vi"/>
+				<Item Name="property_light_focus_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_light_focus_write.vi"/>
+			</Item>
+			<Item Name="Light Linear Attenuation" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.FacadeUpdatePolicy" Type="Str">Asynchronous</Property>
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_light_linear_attenuation_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Light Linear Attenuation</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Indicates the linear factor of attenuation (kl) you apply to the light. The linear factor of attenuation drops in a linear manner as distance from the light increases.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Lights:Linear Attenuation</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_light_linear_attenuation_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_light_linear_attenuation_read.vi"/>
+				<Item Name="property_light_linear_attenuation_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_light_linear_attenuation_write.vi"/>
+			</Item>
+			<Item Name="Light Quadratic Attenuation" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.FacadeUpdatePolicy" Type="Str">Asynchronous</Property>
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_light_quadratic_attenuation_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Light Quadratic Attenuation</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Indicates the quadratic factor of attenuation (kq) you apply to the light. The quadratic factor of attenuation drops by the square of the distance from the light.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Lights: Quadratic Attenuation</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_light_quadratic_attenuation_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_light_quadratic_attenuation_read.vi"/>
+				<Item Name="property_light_quadratic_attenuation_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_light_quadratic_attenuation_write.vi"/>
+			</Item>
+			<Item Name="Light Array" Type="Property Folder">
+				<Property Name="NI.LibItem.Prop.FacadeUpdatePolicy" Type="Str">Asynchronous</Property>
+				<Property Name="NI.LibItem.Prop.HelpTag" Type="Str">property_light_array_read.html</Property>
+				<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Light Array</Property>
+				<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str">Sets the coordinates of the lights on the 3D graph.</Property>
+				<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Lights:Light Array</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+				<Item Name="property_light_array_read.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_light_array_read.vi"/>
+				<Item Name="property_light_array_write.vi" Type="Property VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/programmable_properties/property_light_array_write.vi"/>
+			</Item>
+		</Item>
+	</Item>
+	<Item Name="testing" Type="Folder">
+		<Item Name="generate_input_parametric.vi" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/generate_input_parametric.vi"/>
+		<Item Name="generate_input_surface.vi" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/generate_input_surface.vi"/>
+		<Item Name="generate_input_line.vi" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/generate_input_line.vi"/>
+	</Item>
+	<Item Name="documents" Type="Folder"/>
+	<Item Name="typedefs" Type="Folder">
+		<Item Name="vector.ctl" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/typedefs/vector.ctl"/>
+		<Item Name="all_non_graph_prop.ctl" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/typedefs/all_non_graph_prop.ctl"/>
+		<Item Name="prop_plot_all_array.ctl" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/typedefs/prop_plot_all_array.ctl"/>
+		<Item Name="prop_plot_projection.ctl" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/typedefs/prop_plot_projection.ctl"/>
+		<Item Name="prop_plot_surface.ctl" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/typedefs/prop_plot_surface.ctl"/>
+		<Item Name="plus_button.ctl" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/plus_button.ctl"/>
+		<Item Name="prop_plot_contour.ctl" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/typedefs/prop_plot_contour.ctl"/>
+		<Item Name="prop_plot_normal.ctl" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/typedefs/prop_plot_normal.ctl"/>
+		<Item Name="prop_plot_point_line.ctl" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/typedefs/prop_plot_point_line.ctl"/>
+		<Item Name="prop_value_pair_all.ctl" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/typedefs/prop_value_pair_all.ctl"/>
+		<Item Name="prop_value_pair_1d.ctl" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/typedefs/prop_value_pair_1d.ctl"/>
+		<Item Name="prop_axes_all.ctl" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/typedefs/prop_axes_all.ctl"/>
+		<Item Name="prop_axes_grid.ctl" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/typedefs/prop_axes_grid.ctl"/>
+		<Item Name="prop_axes_ticks.ctl" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/typedefs/prop_axes_ticks.ctl"/>
+		<Item Name="range_cluster.ctl" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/typedefs/range_cluster.ctl"/>
+		<Item Name="prop_axes_captions.ctl" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/typedefs/prop_axes_captions.ctl"/>
+		<Item Name="prop_axes_labels.ctl" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/typedefs/prop_axes_labels.ctl"/>
+		<Item Name="prop_axes_autorange.ctl" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/typedefs/prop_axes_autorange.ctl"/>
+		<Item Name="prop_cursor_all_array.ctl" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/typedefs/prop_cursor_all_array.ctl"/>
+		<Item Name="prop_cursor_point.ctl" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/typedefs/prop_cursor_point.ctl"/>
+		<Item Name="prop_cursor_position.ctl" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/typedefs/prop_cursor_position.ctl"/>
+		<Item Name="prop_cursor_line.ctl" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/typedefs/prop_cursor_line.ctl"/>
+		<Item Name="prop_cursor_plane.ctl" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/typedefs/prop_cursor_plane.ctl"/>
+		<Item Name="prop_format.ctl" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/typedefs/prop_format.ctl"/>
+		<Item Name="prop_cursor_text.ctl" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/typedefs/prop_cursor_text.ctl"/>
+		<Item Name="prop_axes_merged_array_etc.ctl" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/typedefs/prop_axes_merged_array_etc.ctl"/>
+		<Item Name="prop_axes_merged_array.ctl" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/typedefs/prop_axes_merged_array.ctl"/>
+		<Item Name="prop_cursor_all.ctl" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/typedefs/prop_cursor_all.ctl"/>
+		<Item Name="track_eye.ctl" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/typedefs/track_eye.ctl"/>
+		<Item Name="plot_rep_array.ctl" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/typedefs/plot_rep_array.ctl"/>
+		<Item Name="plot_rep.ctl" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/typedefs/plot_rep.ctl"/>
+		<Item Name="prop_plot_all.ctl" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/typedefs/prop_plot_all.ctl"/>
+		<Item Name="min_max.ctl" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/typedefs/min_max.ctl"/>
+		<Item Name="prop_graph.ctl" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/typedefs/prop_graph.ctl"/>
+		<Item Name="state_scene_objects.ctl" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/typedefs/state_scene_objects.ctl"/>
+		<Item Name="update_scene_all.ctl" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/typedefs/update_scene_all.ctl"/>
+		<Item Name="update_scene_component.ctl" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/typedefs/update_scene_component.ctl"/>
+		<Item Name="plot_rep_mesh_data.ctl" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/typedefs/plot_rep_mesh_data.ctl"/>
+		<Item Name="prop_lighting.ctl" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/typedefs/prop_lighting.ctl"/>
+		<Item Name="prop_lights.ctl" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/typedefs/prop_lights.ctl"/>
+		<Item Name="x_button.ctl" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/x_button.ctl"/>
+	</Item>
+	<Item Name="Data.ctl" Type="Ability VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/Data.ctl">
+		<Property Name="NI.XItem.Name" Type="Str">Data</Property>
+	</Item>
+	<Item Name="State.ctl" Type="Ability VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/State.ctl">
+		<Property Name="NI.XItem.Name" Type="Str">State</Property>
+	</Item>
+	<Item Name="Facade.vi" Type="Ability VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/Facade.vi">
+		<Property Name="NI.XItem.Name" Type="Str">Facade</Property>
+	</Item>
+	<Item Name="Init.vi" Type="Ability VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/Init.vi">
+		<Property Name="NI.XItem.Name" Type="Str">Init</Property>
+	</Item>
+</XControl>
+<?sig 1C169B05EFC169689DC9FC0215832E58?>
